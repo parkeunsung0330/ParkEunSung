@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 363cc6e7dd6ee274e9c28d4f272dbb86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7455807995584259980
+    second: FDR_Dungeon_Animations_0
+  - first:
+      213: 5561895321074489218
+    second: FDR_Dungeon_Animations_1
+  - first:
+      213: 9044300858171223887
+    second: FDR_Dungeon_Animations_2
+  - first:
+      213: 8403560104315486944
+    second: FDR_Dungeon_Animations_3
+  - first:
+      213: -4367644766665171708
+    second: FDR_Dungeon_Animations_4
+  - first:
+      213: 1423056469283478027
+    second: FDR_Dungeon_Animations_5
+  - first:
+      213: 838420902835837748
+    second: FDR_Dungeon_Animations_6
+  - first:
+      213: -6936798352073954629
+    second: FDR_Dungeon_Animations_7
+  - first:
+      213: 7713548236867656607
+    second: FDR_Dungeon_Animations_8
+  - first:
+      213: -7335219450974997243
+    second: FDR_Dungeon_Animations_9
+  - first:
+      213: 6057678057722893715
+    second: FDR_Dungeon_Animations_10
+  - first:
+      213: 778391893692036223
+    second: FDR_Dungeon_Animations_11
+  - first:
+      213: 6080118832903156658
+    second: FDR_Dungeon_Animations_12
+  - first:
+      213: 8114525523863529094
+    second: FDR_Dungeon_Animations_13
+  - first:
+      213: -705959072513435118
+    second: FDR_Dungeon_Animations_14
+  - first:
+      213: 7680280888732929213
+    second: FDR_Dungeon_Animations_15
+  - first:
+      213: 2000460407404546499
+    second: FDR_Dungeon_Animations_16
+  - first:
+      213: -3179751964617215404
+    second: FDR_Dungeon_Animations_17
+  - first:
+      213: -1070417399650461004
+    second: FDR_Dungeon_Animations_18
+  - first:
+      213: -4380971623741549962
+    second: FDR_Dungeon_Animations_19
+  - first:
+      213: 7881908958266221507
+    second: FDR_Dungeon_Animations_20
+  - first:
+      213: 8685223471356282472
+    second: FDR_Dungeon_Animations_21
+  - first:
+      213: 3337652896328116793
+    second: FDR_Dungeon_Animations_22
+  - first:
+      213: -279883450451942267
+    second: FDR_Dungeon_Animations_23
+  - first:
+      213: 7310325369357993350
+    second: FDR_Dungeon_Animations_24
+  - first:
+      213: -8572360786204329394
+    second: FDR_Dungeon_Animations_25
+  - first:
+      213: 4994065108743612036
+    second: FDR_Dungeon_Animations_26
+  - first:
+      213: -6685603336514244987
+    second: FDR_Dungeon_Animations_27
+  - first:
+      213: 1073477836001251447
+    second: FDR_Dungeon_Animations_28
+  - first:
+      213: -1618859530602530391
+    second: FDR_Dungeon_Animations_29
+  - first:
+      213: -8394734813398337456
+    second: FDR_Dungeon_Animations_30
+  - first:
+      213: -2844953851214372061
+    second: FDR_Dungeon_Animations_31
+  - first:
+      213: 3648333912341877096
+    second: FDR_Dungeon_Animations_32
+  - first:
+      213: 3789556051841191986
+    second: FDR_Dungeon_Animations_33
+  - first:
+      213: 5719424510054413803
+    second: FDR_Dungeon_Animations_34
+  - first:
+      213: 737131592050207960
+    second: FDR_Dungeon_Animations_35
+  - first:
+      213: -565376803845926159
+    second: FDR_Dungeon_Animations_36
+  - first:
+      213: 4150650329671906191
+    second: FDR_Dungeon_Animations_37
+  - first:
+      213: 7721718198784941470
+    second: FDR_Dungeon_Animations_38
+  - first:
+      213: -284798023012796640
+    second: FDR_Dungeon_Animations_39
+  - first:
+      213: -2118711191478735240
+    second: FDR_Dungeon_Animations_40
+  - first:
+      213: -376747087674159138
+    second: FDR_Dungeon_Animations_41
+  - first:
+      213: 3334719789379723718
+    second: FDR_Dungeon_Animations_42
+  - first:
+      213: -1990087639897153059
+    second: FDR_Dungeon_Animations_43
+  - first:
+      213: 6452730909177445831
+    second: FDR_Dungeon_Animations_44
+  - first:
+      213: -5754274586064257359
+    second: FDR_Dungeon_Animations_45
+  - first:
+      213: -7115758490246976282
+    second: FDR_Dungeon_Animations_46
+  - first:
+      213: 8390414494065532561
+    second: FDR_Dungeon_Animations_47
+  - first:
+      213: 3456579819238390597
+    second: FDR_Dungeon_Animations_48
+  - first:
+      213: -1286958546704846695
+    second: FDR_Dungeon_Animations_49
+  - first:
+      213: -4971420681224550115
+    second: FDR_Dungeon_Animations_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 172
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8721529ed9587760800000000000000
+      internalID: 7455807995584259980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 16
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2875d8a8352df2d40800000000000000
+      internalID: 5561895321074489218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 73
+        width: 16
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6e0536bfc38d70800000000000000
+      internalID: 9044300858171223887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 16
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e28e5214617f9470800000000000000
+      internalID: 8403560104315486944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d14d9b9320363c0800000000000000
+      internalID: -4367644766665171708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a96f2b156bfb310800000000000000
+      internalID: 1423056469283478027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bdac57e5ba2ab00800000000000000
+      internalID: 838420902835837748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaed1ac6aa8bbf90800000000000000
+      internalID: -6936798352073954629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5658d0470c0b60800000000000000
+      internalID: 7713548236867656607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057913e5c0143a90800000000000000
+      internalID: -7335219450974997243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 17
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395504a3912311450800000000000000
+      internalID: 6057678057722893715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74be8f9d476dca00800000000000000
+      internalID: 778391893692036223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3fa5b5ddbe06450800000000000000
+      internalID: 6080118832903156658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 175
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e9baa8f59c9070800000000000000
+      internalID: 8114525523863529094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 175
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a5fd0c6fde336f0800000000000000
+      internalID: -705959072513435118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc524c6c6d59a60800000000000000
+      internalID: 7680280888732929213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9c492442013cb10800000000000000
+      internalID: 2000460407404546499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f32b6f604fd3d0800000000000000
+      internalID: -3179751964617215404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4badf6cdb0d1521f0800000000000000
+      internalID: -1070417399650461004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67291d30589a333c0800000000000000
+      internalID: -4380971623741549962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36d69ff6a226d60800000000000000
+      internalID: 7881908958266221507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 143
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866831d1bbc188870800000000000000
+      internalID: 8685223471356282472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae03520a9b15e20800000000000000
+      internalID: 3337652896328116793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5842d451c77ad1cf0800000000000000
+      internalID: -279883450451942267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6850c11113e737560800000000000000
+      internalID: 7310325369357993350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a7dc3884bd80980800000000000000
+      internalID: -8572360786204329394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e5d7b1cb7e4540800000000000000
+      internalID: 4994065108743612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee6e1ff27f733a0800000000000000
+      internalID: -6685603336514244987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7701c118762c5ee00800000000000000
+      internalID: 1073477836001251447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a93e2185d7a889e0800000000000000
+      internalID: -1618859530602530391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05879c71a29ef7b80800000000000000
+      internalID: -8394734813398337456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ecf7ab81b488d0800000000000000
+      internalID: -2844953851214372061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86116231d5c71a230800000000000000
+      internalID: 3648333912341877096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301d66b625379430800000000000000
+      internalID: 3789556051841191986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b4710a4a7f5f40800000000000000
+      internalID: 5719424510054413803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dceed80741da3a00800000000000000
+      internalID: 737131592050207960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2948adac06728f0800000000000000
+      internalID: -565376803845926159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 49
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83b3f6db721a9930800000000000000
+      internalID: 4150650329671906191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dde365acd092b60800000000000000
+      internalID: 7721718198784941470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027b69df4b13c0cf0800000000000000
+      internalID: -284798023012796640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee3429563d892e0800000000000000
+      internalID: -2118711191478735240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfc405158685caf0800000000000000
+      internalID: -376747087674159138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a177fafd474e20800000000000000
+      internalID: 3334719789379723718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1e800e5d9c164e0800000000000000
+      internalID: -1990087639897153059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd74b8e294bc8950800000000000000
+      internalID: 6452730909177445831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bef49d50c5b420b0800000000000000
+      internalID: -5754274586064257359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eceb51aa5fbf3d90800000000000000
+      internalID: -7115758490246976282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e901d278db07470800000000000000
+      internalID: 8390414494065532561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bfc77280d38ff20800000000000000
+      internalID: 3456579819238390597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9903107350ec32ee0800000000000000
+      internalID: -1286958546704846695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Dungeon_Animations_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19849aea37f10bb0800000000000000
+      internalID: -4971420681224550115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Dungeon_Animations_0: 7455807995584259980
+      FDR_Dungeon_Animations_1: 5561895321074489218
+      FDR_Dungeon_Animations_10: 6057678057722893715
+      FDR_Dungeon_Animations_11: 778391893692036223
+      FDR_Dungeon_Animations_12: 6080118832903156658
+      FDR_Dungeon_Animations_13: 8114525523863529094
+      FDR_Dungeon_Animations_14: -705959072513435118
+      FDR_Dungeon_Animations_15: 7680280888732929213
+      FDR_Dungeon_Animations_16: 2000460407404546499
+      FDR_Dungeon_Animations_17: -3179751964617215404
+      FDR_Dungeon_Animations_18: -1070417399650461004
+      FDR_Dungeon_Animations_19: -4380971623741549962
+      FDR_Dungeon_Animations_2: 9044300858171223887
+      FDR_Dungeon_Animations_20: 7881908958266221507
+      FDR_Dungeon_Animations_21: 8685223471356282472
+      FDR_Dungeon_Animations_22: 3337652896328116793
+      FDR_Dungeon_Animations_23: -279883450451942267
+      FDR_Dungeon_Animations_24: 7310325369357993350
+      FDR_Dungeon_Animations_25: -8572360786204329394
+      FDR_Dungeon_Animations_26: 4994065108743612036
+      FDR_Dungeon_Animations_27: -6685603336514244987
+      FDR_Dungeon_Animations_28: 1073477836001251447
+      FDR_Dungeon_Animations_29: -1618859530602530391
+      FDR_Dungeon_Animations_3: 8403560104315486944
+      FDR_Dungeon_Animations_30: -8394734813398337456
+      FDR_Dungeon_Animations_31: -2844953851214372061
+      FDR_Dungeon_Animations_32: 3648333912341877096
+      FDR_Dungeon_Animations_33: 3789556051841191986
+      FDR_Dungeon_Animations_34: 5719424510054413803
+      FDR_Dungeon_Animations_35: 737131592050207960
+      FDR_Dungeon_Animations_36: -565376803845926159
+      FDR_Dungeon_Animations_37: 4150650329671906191
+      FDR_Dungeon_Animations_38: 7721718198784941470
+      FDR_Dungeon_Animations_39: -284798023012796640
+      FDR_Dungeon_Animations_4: -4367644766665171708
+      FDR_Dungeon_Animations_40: -2118711191478735240
+      FDR_Dungeon_Animations_41: -376747087674159138
+      FDR_Dungeon_Animations_42: 3334719789379723718
+      FDR_Dungeon_Animations_43: -1990087639897153059
+      FDR_Dungeon_Animations_44: 6452730909177445831
+      FDR_Dungeon_Animations_45: -5754274586064257359
+      FDR_Dungeon_Animations_46: -7115758490246976282
+      FDR_Dungeon_Animations_47: 8390414494065532561
+      FDR_Dungeon_Animations_48: 3456579819238390597
+      FDR_Dungeon_Animations_49: -1286958546704846695
+      FDR_Dungeon_Animations_5: 1423056469283478027
+      FDR_Dungeon_Animations_50: -4971420681224550115
+      FDR_Dungeon_Animations_6: 838420902835837748
+      FDR_Dungeon_Animations_7: -6936798352073954629
+      FDR_Dungeon_Animations_8: 7713548236867656607
+      FDR_Dungeon_Animations_9: -7335219450974997243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

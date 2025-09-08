@@ -1,0 +1,4550 @@
+fileFormatVersion: 2
+guid: a6879fdeb6a723449b5bbb0fffbaa7e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8781405828099199834
+    second: FDR_Caves_0
+  - first:
+      213: -522419799542797757
+    second: FDR_Caves_1
+  - first:
+      213: 2720368830944983267
+    second: FDR_Caves_2
+  - first:
+      213: 9178417323758159418
+    second: FDR_Caves_3
+  - first:
+      213: -8658462332164328698
+    second: FDR_Caves_4
+  - first:
+      213: 4615055789743008865
+    second: FDR_Caves_5
+  - first:
+      213: 7224683284438626732
+    second: FDR_Caves_6
+  - first:
+      213: 4399645689783998306
+    second: FDR_Caves_7
+  - first:
+      213: -5229060634038142810
+    second: FDR_Caves_8
+  - first:
+      213: 772284356556198251
+    second: FDR_Caves_9
+  - first:
+      213: 8224311779516110316
+    second: FDR_Caves_10
+  - first:
+      213: 4893528083478836678
+    second: FDR_Caves_11
+  - first:
+      213: -6824805083216628445
+    second: FDR_Caves_12
+  - first:
+      213: 2767679267226517729
+    second: FDR_Caves_13
+  - first:
+      213: 6950160244933164837
+    second: FDR_Caves_14
+  - first:
+      213: 4152282647602745713
+    second: FDR_Caves_15
+  - first:
+      213: -1386005415303164116
+    second: FDR_Caves_16
+  - first:
+      213: -1436498935888467078
+    second: FDR_Caves_17
+  - first:
+      213: -996675225266123604
+    second: FDR_Caves_18
+  - first:
+      213: 6601635266164751425
+    second: FDR_Caves_19
+  - first:
+      213: -5090875672160804905
+    second: FDR_Caves_20
+  - first:
+      213: -2710317796365991332
+    second: FDR_Caves_21
+  - first:
+      213: -2538730757819297339
+    second: FDR_Caves_22
+  - first:
+      213: -8536156780802960656
+    second: FDR_Caves_23
+  - first:
+      213: -2228346925834486348
+    second: FDR_Caves_24
+  - first:
+      213: 6045008017468587085
+    second: FDR_Caves_25
+  - first:
+      213: -7459193452677558452
+    second: FDR_Caves_26
+  - first:
+      213: -4574270134379868317
+    second: FDR_Caves_27
+  - first:
+      213: 7209278624308935448
+    second: FDR_Caves_28
+  - first:
+      213: 916843924283999829
+    second: FDR_Caves_29
+  - first:
+      213: 1400274664836682550
+    second: FDR_Caves_30
+  - first:
+      213: 8271047970091346720
+    second: FDR_Caves_31
+  - first:
+      213: -5090103976350021746
+    second: FDR_Caves_32
+  - first:
+      213: 7204756972975268515
+    second: FDR_Caves_33
+  - first:
+      213: 217610769065729939
+    second: FDR_Caves_34
+  - first:
+      213: -5830836113236303894
+    second: FDR_Caves_35
+  - first:
+      213: 6006289659379759162
+    second: FDR_Caves_36
+  - first:
+      213: -425798105088738177
+    second: FDR_Caves_37
+  - first:
+      213: 2292662546534210352
+    second: FDR_Caves_38
+  - first:
+      213: 2127009470063132099
+    second: FDR_Caves_39
+  - first:
+      213: -1989620001853401781
+    second: FDR_Caves_40
+  - first:
+      213: 3430782985653054575
+    second: FDR_Caves_41
+  - first:
+      213: -4478347618056294640
+    second: FDR_Caves_42
+  - first:
+      213: -2409511077312049513
+    second: FDR_Caves_43
+  - first:
+      213: 6804219033341778289
+    second: FDR_Caves_44
+  - first:
+      213: -6758344267647298976
+    second: FDR_Caves_45
+  - first:
+      213: 1280321617381551953
+    second: FDR_Caves_46
+  - first:
+      213: 5901246161817636166
+    second: FDR_Caves_47
+  - first:
+      213: -7397804795598209828
+    second: FDR_Caves_48
+  - first:
+      213: 4975909889356899990
+    second: FDR_Caves_49
+  - first:
+      213: 861722872842642597
+    second: FDR_Caves_50
+  - first:
+      213: -5360789961132342542
+    second: FDR_Caves_51
+  - first:
+      213: -5001110459988071477
+    second: FDR_Caves_52
+  - first:
+      213: -4679170282269214217
+    second: FDR_Caves_53
+  - first:
+      213: -5446692181600485690
+    second: FDR_Caves_54
+  - first:
+      213: 2081394771762988064
+    second: FDR_Caves_55
+  - first:
+      213: 1703078683315277832
+    second: FDR_Caves_56
+  - first:
+      213: -2381469066063626481
+    second: FDR_Caves_57
+  - first:
+      213: 842834178619470549
+    second: FDR_Caves_58
+  - first:
+      213: -7823709523758401838
+    second: FDR_Caves_59
+  - first:
+      213: -8834524768913776789
+    second: FDR_Caves_60
+  - first:
+      213: -7292646684439985997
+    second: FDR_Caves_61
+  - first:
+      213: 8281546296236396603
+    second: FDR_Caves_62
+  - first:
+      213: -3021456356062850295
+    second: FDR_Caves_63
+  - first:
+      213: 7425006460866229491
+    second: FDR_Caves_64
+  - first:
+      213: -4220505482519429208
+    second: FDR_Caves_65
+  - first:
+      213: 8550631512675748662
+    second: FDR_Caves_66
+  - first:
+      213: -2297111440970174882
+    second: FDR_Caves_67
+  - first:
+      213: -8772540586684034077
+    second: FDR_Caves_68
+  - first:
+      213: 2703369995488349143
+    second: FDR_Caves_69
+  - first:
+      213: -6470706156558254500
+    second: FDR_Caves_70
+  - first:
+      213: 5937522311608538359
+    second: FDR_Caves_71
+  - first:
+      213: 4595571596167597779
+    second: FDR_Caves_72
+  - first:
+      213: 4461357468678387173
+    second: FDR_Caves_73
+  - first:
+      213: -6349876355050343010
+    second: FDR_Caves_74
+  - first:
+      213: -5016083225195876851
+    second: FDR_Caves_75
+  - first:
+      213: 3100595097158029136
+    second: FDR_Caves_76
+  - first:
+      213: 909044334982333233
+    second: FDR_Caves_77
+  - first:
+      213: -455705517648832931
+    second: FDR_Caves_78
+  - first:
+      213: -4966150825206104299
+    second: FDR_Caves_79
+  - first:
+      213: 2114329866669976133
+    second: FDR_Caves_80
+  - first:
+      213: 4334330949367483393
+    second: FDR_Caves_81
+  - first:
+      213: 6191315431054388058
+    second: FDR_Caves_82
+  - first:
+      213: 9078494508822712704
+    second: FDR_Caves_83
+  - first:
+      213: -1372262049289174984
+    second: FDR_Caves_84
+  - first:
+      213: -8486074832943669049
+    second: FDR_Caves_85
+  - first:
+      213: -5872934166424580880
+    second: FDR_Caves_86
+  - first:
+      213: 8477685169818430756
+    second: FDR_Caves_87
+  - first:
+      213: -4030576751188535427
+    second: FDR_Caves_88
+  - first:
+      213: -5335565963949667076
+    second: FDR_Caves_89
+  - first:
+      213: -229070147051529079
+    second: FDR_Caves_90
+  - first:
+      213: 4349860395287915640
+    second: FDR_Caves_91
+  - first:
+      213: -5473938492878903410
+    second: FDR_Caves_92
+  - first:
+      213: 47813422180874555
+    second: FDR_Caves_93
+  - first:
+      213: -1804849563229410941
+    second: FDR_Caves_94
+  - first:
+      213: 5329569102790794921
+    second: FDR_Caves_95
+  - first:
+      213: 1708012814814800924
+    second: FDR_Caves_96
+  - first:
+      213: -4722447179322860852
+    second: FDR_Caves_97
+  - first:
+      213: 2943064841913542243
+    second: FDR_Caves_98
+  - first:
+      213: 6211587713553418345
+    second: FDR_Caves_99
+  - first:
+      213: 4550460532581000053
+    second: FDR_Caves_100
+  - first:
+      213: 185215460690333702
+    second: FDR_Caves_101
+  - first:
+      213: -421852856262782420
+    second: FDR_Caves_102
+  - first:
+      213: -4205397325421555934
+    second: FDR_Caves_103
+  - first:
+      213: -4865555890621915295
+    second: FDR_Caves_104
+  - first:
+      213: 4937739527651451786
+    second: FDR_Caves_105
+  - first:
+      213: -5660528540192766559
+    second: FDR_Caves_106
+  - first:
+      213: -4198345159762148933
+    second: FDR_Caves_107
+  - first:
+      213: 6948074112561482982
+    second: FDR_Caves_108
+  - first:
+      213: 4718430101342787945
+    second: FDR_Caves_109
+  - first:
+      213: -8875820947728149838
+    second: FDR_Caves_110
+  - first:
+      213: -5636119299268130807
+    second: FDR_Caves_111
+  - first:
+      213: 8331554338533542077
+    second: FDR_Caves_112
+  - first:
+      213: -9185266284289602109
+    second: FDR_Caves_113
+  - first:
+      213: 252908298764613315
+    second: FDR_Caves_114
+  - first:
+      213: -1959403340390158708
+    second: FDR_Caves_115
+  - first:
+      213: -6887294862197764157
+    second: FDR_Caves_116
+  - first:
+      213: 789158851261291487
+    second: FDR_Caves_117
+  - first:
+      213: -1305541829244757075
+    second: FDR_Caves_118
+  - first:
+      213: -6384126707275769803
+    second: FDR_Caves_119
+  - first:
+      213: -2236463525346176738
+    second: FDR_Caves_120
+  - first:
+      213: 4151116339979490030
+    second: FDR_Caves_121
+  - first:
+      213: -5951971970077936856
+    second: FDR_Caves_122
+  - first:
+      213: -875835535316718657
+    second: FDR_Caves_123
+  - first:
+      213: 404813826110208050
+    second: FDR_Caves_124
+  - first:
+      213: 7140007693802100855
+    second: FDR_Caves_125
+  - first:
+      213: 3702185473912270085
+    second: FDR_Caves_126
+  - first:
+      213: -4201837017681973484
+    second: FDR_Caves_127
+  - first:
+      213: 3963703180603427583
+    second: FDR_Caves_128
+  - first:
+      213: 2588886371937846476
+    second: FDR_Caves_129
+  - first:
+      213: 5053980835475640473
+    second: FDR_Caves_130
+  - first:
+      213: 8368787317945332516
+    second: FDR_Caves_131
+  - first:
+      213: -2140453155898262486
+    second: FDR_Caves_132
+  - first:
+      213: 1401877023588527994
+    second: FDR_Caves_133
+  - first:
+      213: 5851526632566611525
+    second: FDR_Caves_134
+  - first:
+      213: 8226463846712016789
+    second: FDR_Caves_135
+  - first:
+      213: -2667977228863489979
+    second: FDR_Caves_136
+  - first:
+      213: -1751997797603624944
+    second: FDR_Caves_137
+  - first:
+      213: 7877674750291457239
+    second: FDR_Caves_138
+  - first:
+      213: 1229395923460908850
+    second: FDR_Caves_139
+  - first:
+      213: -4803130070493322126
+    second: FDR_Caves_140
+  - first:
+      213: 4607464914661389313
+    second: FDR_Caves_141
+  - first:
+      213: 5989409361806917644
+    second: FDR_Caves_142
+  - first:
+      213: -7786347310885339372
+    second: FDR_Caves_143
+  - first:
+      213: -4773331984381063730
+    second: FDR_Caves_144
+  - first:
+      213: -448631059463416181
+    second: FDR_Caves_145
+  - first:
+      213: 3620034075584703656
+    second: FDR_Caves_146
+  - first:
+      213: 2720426986740480972
+    second: FDR_Caves_147
+  - first:
+      213: 6887360065214332712
+    second: FDR_Caves_148
+  - first:
+      213: 7189853329599197155
+    second: FDR_Caves_149
+  - first:
+      213: 5827733884131220167
+    second: FDR_Caves_150
+  - first:
+      213: 2914750796355553998
+    second: FDR_Caves_151
+  - first:
+      213: -7569044131167789862
+    second: FDR_Caves_152
+  - first:
+      213: -1733702250678351560
+    second: FDR_Caves_153
+  - first:
+      213: -6161640099289925524
+    second: FDR_Caves_154
+  - first:
+      213: -2196929435441750701
+    second: FDR_Caves_155
+  - first:
+      213: -8427859323157208389
+    second: FDR_Caves_156
+  - first:
+      213: 1443393926319771971
+    second: FDR_Caves_157
+  - first:
+      213: 3947373577687261844
+    second: FDR_Caves_158
+  - first:
+      213: 2142339148957539779
+    second: FDR_Caves_159
+  - first:
+      213: -8794721609755585243
+    second: FDR_Caves_160
+  - first:
+      213: -1907464113247292279
+    second: FDR_Caves_161
+  - first:
+      213: -997871541011207388
+    second: FDR_Caves_162
+  - first:
+      213: -4258198913436085855
+    second: FDR_Caves_163
+  - first:
+      213: 329308840973264232
+    second: FDR_Caves_164
+  - first:
+      213: -3844759198111099296
+    second: FDR_Caves_165
+  - first:
+      213: 4229945623233985975
+    second: FDR_Caves_166
+  - first:
+      213: -4530221244028922448
+    second: FDR_Caves_167
+  - first:
+      213: 7964763465604674005
+    second: FDR_Caves_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Caves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d5642312ddd970800000000000000
+      internalID: 8781405828099199834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 178
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aee90d5fdffb8f0800000000000000
+      internalID: -522419799542797757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 475
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e83582e901b0c520800000000000000
+      internalID: 2720368830944983267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3685e63de9406f70800000000000000
+      internalID: 9178417323758159418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603be362266f6d780800000000000000
+      internalID: -8658462332164328698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ced360ac8fb0040800000000000000
+      internalID: 4615055789743008865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 463
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1baaf4b2b334460800000000000000
+      internalID: 7224683284438626732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267572dc17eae0d30800000000000000
+      internalID: 4399645689783998306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 496
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a87d2fde05ae67b0800000000000000
+      internalID: -5229060634038142810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b619f12d784b7ba00800000000000000
+      internalID: 772284356556198251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 479
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55e1c3dff922270800000000000000
+      internalID: 8224311779516110316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 463
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5772a6ddd49e340800000000000000
+      internalID: 4893528083478836678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b799afeb6941a0800000000000000
+      internalID: -6824805083216628445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0004731a5c86620800000000000000
+      internalID: 2767679267226517729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f78435bede37060800000000000000
+      internalID: 6950160244933164837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1715169711fdf9930800000000000000
+      internalID: 4152282647602745713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 432
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f461c0b6be3cce0800000000000000
+      internalID: -1386005415303164116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b242624d7801ce0800000000000000
+      internalID: -1436498935888467078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_18
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 432
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8499c9291b22f0800000000000000
+      internalID: -996675225266123604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 464
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf0703c48bd9b50800000000000000
+      internalID: 6601635266164751425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 450
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5d2d7c839959b0800000000000000
+      internalID: -5090875672160804905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 399
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528f27f254036ad0800000000000000
+      internalID: -2710317796365991332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 433
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c192d793dd94ccd0800000000000000
+      internalID: -2538730757819297339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 433
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2923562aa798980800000000000000
+      internalID: -8536156780802960656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 433
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3d49f6425311e0800000000000000
+      internalID: -2228346925834486348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 433
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7a9993ce24e350800000000000000
+      internalID: 6045008017468587085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 433
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0c36431f9b7890800000000000000
+      internalID: -7459193452677558452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 433
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f0c9d5c8de480c0800000000000000
+      internalID: -4574270134379868317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 415
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b30c066b08c0460800000000000000
+      internalID: 7209278624308935448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 416
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564c6501b849bc00800000000000000
+      internalID: 916843924283999829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d1918366ce6310800000000000000
+      internalID: 1400274664836682550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 400
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba2819e4aa8c270800000000000000
+      internalID: 8271047970091346720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 416
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e878adbe6615c59b0800000000000000
+      internalID: -5090103976350021746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 406
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a5336b407cf360800000000000000
+      internalID: 7204756972975268515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 416
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f567d67db150300800000000000000
+      internalID: 217610769065729939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 416
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd707b275b41fa0800000000000000
+      internalID: -5830836113236303894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 406
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38be6d5f90aa5350800000000000000
+      internalID: 6006289659379759162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 416
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb62021e2471af0800000000000000
+      internalID: -425798105088738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 416
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9304607c21df10800000000000000
+      internalID: 2292662546534210352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 416
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3109f7d7a48d10800000000000000
+      internalID: 2127009470063132099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 383
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45148756237364e0800000000000000
+      internalID: -1989620001853401781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 337
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ced49c2f69c9f20800000000000000
+      internalID: 3430782985653054575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 379
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa9059196b9d1c0800000000000000
+      internalID: -4478347618056294640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 335
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e427af072bf8ed0800000000000000
+      internalID: -2409511077312049513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 385
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d94819217d6e50800000000000000
+      internalID: 6804219033341778289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 400
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d51122b98532a0800000000000000
+      internalID: -6758344267647298976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 384
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe7424abd94c110800000000000000
+      internalID: 1280321617381551953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 383
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d07473e1075e150800000000000000
+      internalID: 5901246161817636166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcffa0dbb7b55990800000000000000
+      internalID: -7397804795598209828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 400
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a87d4eabfd0540800000000000000
+      internalID: 4975909889356899990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a46d92236475fb00800000000000000
+      internalID: 861722872842642597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 383
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f20a3bdee5aa95b0800000000000000
+      internalID: -5360789961132342542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 348
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbabed988c789ab0800000000000000
+      internalID: -5001110459988071477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 383
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f977c96b6f301fb0800000000000000
+      internalID: -4679170282269214217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_54
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 351
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce3ec291567964b0800000000000000
+      internalID: -5446692181600485690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_55
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 255
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c948648992ec10800000000000000
+      internalID: 2081394771762988064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 319
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8001c870a0d82a710800000000000000
+      internalID: 1703078683315277832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 352
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f32b1808253fed0800000000000000
+      internalID: -2381469066063626481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 309
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2fb2d483952bb00800000000000000
+      internalID: 842834178619470549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 320
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d63a82d3a99c6390800000000000000
+      internalID: -7823709523758401838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_60
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 258
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f118da786756580800000000000000
+      internalID: -8834524768913776789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 255
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b046858a705bca90800000000000000
+      internalID: -7292646684439985997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 244
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305f1a9a76fde270800000000000000
+      internalID: 8281546296236396603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 245
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9031788d371a116d0800000000000000
+      internalID: -3021456356062850295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 247
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f479ea690cea0760800000000000000
+      internalID: 7425006460866229491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af37d5ff90cd65c0800000000000000
+      internalID: -4220505482519429208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b8c4ebe02f9a670800000000000000
+      internalID: 8550631512675748662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eac77a0550f10e0800000000000000
+      internalID: -2297111440970174882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 243
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35009b0dca14680800000000000000
+      internalID: -8772540586684034077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db488510bc448520800000000000000
+      internalID: 2703369995488349143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e796ca80f6336a0800000000000000
+      internalID: -6470706156558254500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f412658511566250800000000000000
+      internalID: 5937522311608538359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec171b400c6cf30800000000000000
+      internalID: 4595571596167597779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57c900bfce9ed30800000000000000
+      internalID: 4461357468678387173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9572912915b0e7a0800000000000000
+      internalID: -6349876355050343010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 245
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e676e02ea436ab0800000000000000
+      internalID: -5016083225195876851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0c6e20d6870b20800000000000000
+      internalID: 3100595097158029136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13304bf91039d9c00800000000000000
+      internalID: 909044334982333233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 243
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561b520f320da9f0800000000000000
+      internalID: -455705517648832931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb392e220b41bb0800000000000000
+      internalID: -4966150825206104299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aecd0cfcb975d10800000000000000
+      internalID: 2114329866669976133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cc700c803a62c30800000000000000
+      internalID: 4334330949367483393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2460e498fbe550800000000000000
+      internalID: 6191315431054388058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08156b5e7aa4dfd70800000000000000
+      internalID: 9078494508822712704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308e5dcfeeb4fce0800000000000000
+      internalID: -1372262049289174984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0a20d86e76b3a80800000000000000
+      internalID: -8486074832943669049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc0205ed752f7ea0800000000000000
+      internalID: -5872934166424580880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42def98ceb9c6a570800000000000000
+      internalID: 8477685169818430756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 114
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d779579bcc38018c0800000000000000
+      internalID: -4030576751188535427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc8d1b560344f5b0800000000000000
+      internalID: -5335565963949667076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cd8583aed22dcf0800000000000000
+      internalID: -229070147051529079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2da3abfecd5c30800000000000000
+      internalID: 4349860395287915640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 181
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ad9161f9a804b0800000000000000
+      internalID: -5473938492878903410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 181
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39369cdd0ed9a000800000000000000
+      internalID: 47813422180874555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_94
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 181
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38921be72e2e3f6e0800000000000000
+      internalID: -1804849563229410941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_95
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 181
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1eb99cde66f940800000000000000
+      internalID: 5329569102790794921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_96
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 181
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce9da0b9414b710800000000000000
+      internalID: 1708012814814800924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 181
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5aed9f4f767eb0800000000000000
+      internalID: -4722447179322860852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 181
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366a23571edd7d820800000000000000
+      internalID: 2943064841913542243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_99
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 181
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96848857d1ef33650800000000000000
+      internalID: 6211587713553418345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ece8bebb762f30800000000000000
+      internalID: 4550460532581000053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6009b5dea74029200800000000000000
+      internalID: 185215460690333702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2219f2ff07452af0800000000000000
+      internalID: -421852856262782420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 129
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fced6e96d63a5c0800000000000000
+      internalID: -4205397325421555934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_104
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fdba042b21a7cb0800000000000000
+      internalID: -4865555890621915295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_105
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83e11b60ff568440800000000000000
+      internalID: 4937739527651451786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_106
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 146
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a589d09843c171b0800000000000000
+      internalID: -5660528540192766559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 146
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb185eb225b7cb5c0800000000000000
+      internalID: -4198345159762148933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_108
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 146
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8058c7948c6060800000000000000
+      internalID: 6948074112561482982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_109
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 146
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9691c088d2b3b7140800000000000000
+      internalID: 4718430101342787945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_110
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 146
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b251b8cfdfb2d480800000000000000
+      internalID: -8875820947728149838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_111
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 146
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9084667db5b78c1b0800000000000000
+      internalID: -5636119299268130807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_112
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 146
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db808274780af9370800000000000000
+      internalID: 8331554338533542077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_113
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 146
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdcb85eaf0678080800000000000000
+      internalID: -9185266284289602109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6fc9cf1c2828300800000000000000
+      internalID: 252908298764613315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_115
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 105
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ea4541b0dcec4e0800000000000000
+      internalID: -1959403340390158708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf445330d96b60a0800000000000000
+      internalID: -6887294862197764157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbd8c84bc7a3fa00800000000000000
+      internalID: 789158851261291487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabd3749f98c1ede0800000000000000
+      internalID: -1305541829244757075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5385eb395960767a0800000000000000
+      internalID: -6384126707275769803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_120
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 117
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e119f92e54c76f0e0800000000000000
+      internalID: -2236463525346176738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee21cc1515abb9930800000000000000
+      internalID: 4151116339979490030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233c623709566da0800000000000000
+      internalID: -5951971970077936856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 115
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb68c3983868d3f0800000000000000
+      internalID: -875835535316718657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_124
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383771b7003e9500800000000000000
+      internalID: 404813826110208050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_125
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77851aa0b27661360800000000000000
+      internalID: 7140007693802100855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50de621d21ec06330800000000000000
+      internalID: 3702185473912270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_127
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 114
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41faaf4ae7310b5c0800000000000000
+      internalID: -4201837017681973484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_128
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 114
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa04faca07e10730800000000000000
+      internalID: 3963703180603427583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_129
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 114
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4843350729de320800000000000000
+      internalID: 2588886371937846476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_130
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 114
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905820fac8532640800000000000000
+      internalID: 5053980835475640473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_131
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 114
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423fce6d9b7e32470800000000000000
+      internalID: 8368787317945332516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 114
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cf15002359b42e0800000000000000
+      internalID: -2140453155898262486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_133
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 114
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa6c9b9b7747310800000000000000
+      internalID: 1401877023588527994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_134
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 114
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eded7387cc43150800000000000000
+      internalID: 5851526632566611525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ffcdc68454a2270800000000000000
+      internalID: 8226463846712016789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_136
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b2cc88d079fad0800000000000000
+      internalID: -2667977228863489979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_137
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b19a1947afa7e0800000000000000
+      internalID: -1751997797603624944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_138
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4bf2b927f135d60800000000000000
+      internalID: 7877674750291457239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_139
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237633a2411bf0110800000000000000
+      internalID: 1229395923460908850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_140
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274af3226aad75db0800000000000000
+      internalID: -4803130070493322126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104b771bde001ff30800000000000000
+      internalID: 4607464914661389313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_142
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0086e0d418ae1350800000000000000
+      internalID: 5989409361806917644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f7cd4ef5651f390800000000000000
+      internalID: -7786347310885339372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc4f3b9d7b1cdb0800000000000000
+      internalID: -4773331984381063730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_145
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d979ad6426c9f0800000000000000
+      internalID: -448631059463416181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_146
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 96
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac290edfc1fc3230800000000000000
+      internalID: 3620034075584703656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_147
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7d065ee5e0c520800000000000000
+      internalID: 2720426986740480972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fbf4f0d71d49f50800000000000000
+      internalID: 6887360065214332712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef6be1828d77c360800000000000000
+      internalID: 7189853329599197155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca1629471540e050800000000000000
+      internalID: 5827733884131220167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_151
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4f810866437820800000000000000
+      internalID: 2914750796355553998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc1d78177a55f690800000000000000
+      internalID: -7569044131167789862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83985021df6a0f7e0800000000000000
+      internalID: -1733702250678351560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c687508b9f47d7aa0800000000000000
+      internalID: -6161640099289925524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_155
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d15eb7150f281e0800000000000000
+      internalID: -2196929435441750701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_156
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2204a299a3a0b80800000000000000
+      internalID: -8427859323157208389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_157
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411f39e027f70410800000000000000
+      internalID: 1443393926319771971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 31
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492efc5da53e7c630800000000000000
+      internalID: 3947373577687261844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd60afa1e1bbd10800000000000000
+      internalID: 2142339148957539779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 162
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251118da4fd2f580800000000000000
+      internalID: -8794721609755585243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_161
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f614ce735785e0800000000000000
+      internalID: -1907464113247292279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_162
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2e82de19d622f0800000000000000
+      internalID: -997871541011207388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_163
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a110bd26a6d7e4c0800000000000000
+      internalID: -4258198913436085855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_164
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656b9765a0f19400800000000000000
+      internalID: 329308840973264232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0661ca531eba4aac0800000000000000
+      internalID: -3844759198111099296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_166
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd74141229c3ba30800000000000000
+      internalID: 4229945623233985975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_167
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55abbd7cb6121c0800000000000000
+      internalID: -4530221244028922448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Caves_168
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1306f3c26888e60800000000000000
+      internalID: 7964763465604674005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Caves_0: 8781405828099199834
+      FDR_Caves_1: -522419799542797757
+      FDR_Caves_10: 8224311779516110316
+      FDR_Caves_100: 4550460532581000053
+      FDR_Caves_101: 185215460690333702
+      FDR_Caves_102: -421852856262782420
+      FDR_Caves_103: -4205397325421555934
+      FDR_Caves_104: -4865555890621915295
+      FDR_Caves_105: 4937739527651451786
+      FDR_Caves_106: -5660528540192766559
+      FDR_Caves_107: -4198345159762148933
+      FDR_Caves_108: 6948074112561482982
+      FDR_Caves_109: 4718430101342787945
+      FDR_Caves_11: 4893528083478836678
+      FDR_Caves_110: -8875820947728149838
+      FDR_Caves_111: -5636119299268130807
+      FDR_Caves_112: 8331554338533542077
+      FDR_Caves_113: -9185266284289602109
+      FDR_Caves_114: 252908298764613315
+      FDR_Caves_115: -1959403340390158708
+      FDR_Caves_116: -6887294862197764157
+      FDR_Caves_117: 789158851261291487
+      FDR_Caves_118: -1305541829244757075
+      FDR_Caves_119: -6384126707275769803
+      FDR_Caves_12: -6824805083216628445
+      FDR_Caves_120: -2236463525346176738
+      FDR_Caves_121: 4151116339979490030
+      FDR_Caves_122: -5951971970077936856
+      FDR_Caves_123: -875835535316718657
+      FDR_Caves_124: 404813826110208050
+      FDR_Caves_125: 7140007693802100855
+      FDR_Caves_126: 3702185473912270085
+      FDR_Caves_127: -4201837017681973484
+      FDR_Caves_128: 3963703180603427583
+      FDR_Caves_129: 2588886371937846476
+      FDR_Caves_13: 2767679267226517729
+      FDR_Caves_130: 5053980835475640473
+      FDR_Caves_131: 8368787317945332516
+      FDR_Caves_132: -2140453155898262486
+      FDR_Caves_133: 1401877023588527994
+      FDR_Caves_134: 5851526632566611525
+      FDR_Caves_135: 8226463846712016789
+      FDR_Caves_136: -2667977228863489979
+      FDR_Caves_137: -1751997797603624944
+      FDR_Caves_138: 7877674750291457239
+      FDR_Caves_139: 1229395923460908850
+      FDR_Caves_14: 6950160244933164837
+      FDR_Caves_140: -4803130070493322126
+      FDR_Caves_141: 4607464914661389313
+      FDR_Caves_142: 5989409361806917644
+      FDR_Caves_143: -7786347310885339372
+      FDR_Caves_144: -4773331984381063730
+      FDR_Caves_145: -448631059463416181
+      FDR_Caves_146: 3620034075584703656
+      FDR_Caves_147: 2720426986740480972
+      FDR_Caves_148: 6887360065214332712
+      FDR_Caves_149: 7189853329599197155
+      FDR_Caves_15: 4152282647602745713
+      FDR_Caves_150: 5827733884131220167
+      FDR_Caves_151: 2914750796355553998
+      FDR_Caves_152: -7569044131167789862
+      FDR_Caves_153: -1733702250678351560
+      FDR_Caves_154: -6161640099289925524
+      FDR_Caves_155: -2196929435441750701
+      FDR_Caves_156: -8427859323157208389
+      FDR_Caves_157: 1443393926319771971
+      FDR_Caves_158: 3947373577687261844
+      FDR_Caves_159: 2142339148957539779
+      FDR_Caves_16: -1386005415303164116
+      FDR_Caves_160: -8794721609755585243
+      FDR_Caves_161: -1907464113247292279
+      FDR_Caves_162: -997871541011207388
+      FDR_Caves_163: -4258198913436085855
+      FDR_Caves_164: 329308840973264232
+      FDR_Caves_165: -3844759198111099296
+      FDR_Caves_166: 4229945623233985975
+      FDR_Caves_167: -4530221244028922448
+      FDR_Caves_168: 7964763465604674005
+      FDR_Caves_17: -1436498935888467078
+      FDR_Caves_18: -996675225266123604
+      FDR_Caves_19: 6601635266164751425
+      FDR_Caves_2: 2720368830944983267
+      FDR_Caves_20: -5090875672160804905
+      FDR_Caves_21: -2710317796365991332
+      FDR_Caves_22: -2538730757819297339
+      FDR_Caves_23: -8536156780802960656
+      FDR_Caves_24: -2228346925834486348
+      FDR_Caves_25: 6045008017468587085
+      FDR_Caves_26: -7459193452677558452
+      FDR_Caves_27: -4574270134379868317
+      FDR_Caves_28: 7209278624308935448
+      FDR_Caves_29: 916843924283999829
+      FDR_Caves_3: 9178417323758159418
+      FDR_Caves_30: 1400274664836682550
+      FDR_Caves_31: 8271047970091346720
+      FDR_Caves_32: -5090103976350021746
+      FDR_Caves_33: 7204756972975268515
+      FDR_Caves_34: 217610769065729939
+      FDR_Caves_35: -5830836113236303894
+      FDR_Caves_36: 6006289659379759162
+      FDR_Caves_37: -425798105088738177
+      FDR_Caves_38: 2292662546534210352
+      FDR_Caves_39: 2127009470063132099
+      FDR_Caves_4: -8658462332164328698
+      FDR_Caves_40: -1989620001853401781
+      FDR_Caves_41: 3430782985653054575
+      FDR_Caves_42: -4478347618056294640
+      FDR_Caves_43: -2409511077312049513
+      FDR_Caves_44: 6804219033341778289
+      FDR_Caves_45: -6758344267647298976
+      FDR_Caves_46: 1280321617381551953
+      FDR_Caves_47: 5901246161817636166
+      FDR_Caves_48: -7397804795598209828
+      FDR_Caves_49: 4975909889356899990
+      FDR_Caves_5: 4615055789743008865
+      FDR_Caves_50: 861722872842642597
+      FDR_Caves_51: -5360789961132342542
+      FDR_Caves_52: -5001110459988071477
+      FDR_Caves_53: -4679170282269214217
+      FDR_Caves_54: -5446692181600485690
+      FDR_Caves_55: 2081394771762988064
+      FDR_Caves_56: 1703078683315277832
+      FDR_Caves_57: -2381469066063626481
+      FDR_Caves_58: 842834178619470549
+      FDR_Caves_59: -7823709523758401838
+      FDR_Caves_6: 7224683284438626732
+      FDR_Caves_60: -8834524768913776789
+      FDR_Caves_61: -7292646684439985997
+      FDR_Caves_62: 8281546296236396603
+      FDR_Caves_63: -3021456356062850295
+      FDR_Caves_64: 7425006460866229491
+      FDR_Caves_65: -4220505482519429208
+      FDR_Caves_66: 8550631512675748662
+      FDR_Caves_67: -2297111440970174882
+      FDR_Caves_68: -8772540586684034077
+      FDR_Caves_69: 2703369995488349143
+      FDR_Caves_7: 4399645689783998306
+      FDR_Caves_70: -6470706156558254500
+      FDR_Caves_71: 5937522311608538359
+      FDR_Caves_72: 4595571596167597779
+      FDR_Caves_73: 4461357468678387173
+      FDR_Caves_74: -6349876355050343010
+      FDR_Caves_75: -5016083225195876851
+      FDR_Caves_76: 3100595097158029136
+      FDR_Caves_77: 909044334982333233
+      FDR_Caves_78: -455705517648832931
+      FDR_Caves_79: -4966150825206104299
+      FDR_Caves_8: -5229060634038142810
+      FDR_Caves_80: 2114329866669976133
+      FDR_Caves_81: 4334330949367483393
+      FDR_Caves_82: 6191315431054388058
+      FDR_Caves_83: 9078494508822712704
+      FDR_Caves_84: -1372262049289174984
+      FDR_Caves_85: -8486074832943669049
+      FDR_Caves_86: -5872934166424580880
+      FDR_Caves_87: 8477685169818430756
+      FDR_Caves_88: -4030576751188535427
+      FDR_Caves_89: -5335565963949667076
+      FDR_Caves_9: 772284356556198251
+      FDR_Caves_90: -229070147051529079
+      FDR_Caves_91: 4349860395287915640
+      FDR_Caves_92: -5473938492878903410
+      FDR_Caves_93: 47813422180874555
+      FDR_Caves_94: -1804849563229410941
+      FDR_Caves_95: 5329569102790794921
+      FDR_Caves_96: 1708012814814800924
+      FDR_Caves_97: -4722447179322860852
+      FDR_Caves_98: 2943064841913542243
+      FDR_Caves_99: 6211587713553418345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

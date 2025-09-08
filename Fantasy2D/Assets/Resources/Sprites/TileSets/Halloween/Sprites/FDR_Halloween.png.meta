@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 8adf7076bd9df3646ba71e5444f005a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2919959085668309396
+    second: FDR_Halloween_0
+  - first:
+      213: 6310635954119940021
+    second: FDR_Halloween_1
+  - first:
+      213: 1319008177581114447
+    second: FDR_Halloween_2
+  - first:
+      213: 6118626684221705063
+    second: FDR_Halloween_3
+  - first:
+      213: -246039312061132034
+    second: FDR_Halloween_4
+  - first:
+      213: 8374792437695934811
+    second: FDR_Halloween_5
+  - first:
+      213: -7493834007936629102
+    second: FDR_Halloween_6
+  - first:
+      213: 509930861598283316
+    second: FDR_Halloween_7
+  - first:
+      213: -4466541239006173630
+    second: FDR_Halloween_8
+  - first:
+      213: 3464314600064476863
+    second: FDR_Halloween_9
+  - first:
+      213: -7630636512840071067
+    second: FDR_Halloween_10
+  - first:
+      213: -6595217374959238483
+    second: FDR_Halloween_11
+  - first:
+      213: -5826810987947449607
+    second: FDR_Halloween_12
+  - first:
+      213: -4980094946928183924
+    second: FDR_Halloween_13
+  - first:
+      213: -7039713183902616935
+    second: FDR_Halloween_14
+  - first:
+      213: -8611138439411754592
+    second: FDR_Halloween_15
+  - first:
+      213: 6528489357472171125
+    second: FDR_Halloween_16
+  - first:
+      213: -3128010639967154157
+    second: FDR_Halloween_17
+  - first:
+      213: 4794797328251620814
+    second: FDR_Halloween_18
+  - first:
+      213: 1324298286929082802
+    second: FDR_Halloween_19
+  - first:
+      213: 6688104287000545891
+    second: FDR_Halloween_20
+  - first:
+      213: 8306186144434099035
+    second: FDR_Halloween_21
+  - first:
+      213: -5045212796033810879
+    second: FDR_Halloween_22
+  - first:
+      213: 2388739855470793335
+    second: FDR_Halloween_23
+  - first:
+      213: 2733446370499725558
+    second: FDR_Halloween_24
+  - first:
+      213: -426538255444076078
+    second: FDR_Halloween_25
+  - first:
+      213: 3195183733138605897
+    second: FDR_Halloween_26
+  - first:
+      213: -596622937995565821
+    second: FDR_Halloween_27
+  - first:
+      213: 3038611381744976165
+    second: FDR_Halloween_28
+  - first:
+      213: 8661103472871775050
+    second: FDR_Halloween_29
+  - first:
+      213: -482549961090231960
+    second: FDR_Halloween_30
+  - first:
+      213: -714744305640799325
+    second: FDR_Halloween_31
+  - first:
+      213: -1878689346256535965
+    second: FDR_Halloween_32
+  - first:
+      213: -4168195397150465251
+    second: FDR_Halloween_33
+  - first:
+      213: 6717201267331488219
+    second: FDR_Halloween_34
+  - first:
+      213: -6818788912845625643
+    second: FDR_Halloween_35
+  - first:
+      213: 1492131012111377372
+    second: FDR_Halloween_36
+  - first:
+      213: -7239017836638074773
+    second: FDR_Halloween_37
+  - first:
+      213: -5719465130792397755
+    second: FDR_Halloween_38
+  - first:
+      213: 2325459715761001422
+    second: FDR_Halloween_39
+  - first:
+      213: -678599814916599329
+    second: FDR_Halloween_40
+  - first:
+      213: 7425288275590141843
+    second: FDR_Halloween_41
+  - first:
+      213: -5383501460574444695
+    second: FDR_Halloween_42
+  - first:
+      213: 1453193654249636268
+    second: FDR_Halloween_43
+  - first:
+      213: -5906011544176718100
+    second: FDR_Halloween_44
+  - first:
+      213: 3167842156712724686
+    second: FDR_Halloween_45
+  - first:
+      213: -1670352419720074242
+    second: FDR_Halloween_46
+  - first:
+      213: 6234393222914068731
+    second: FDR_Halloween_47
+  - first:
+      213: -4654491830737757424
+    second: FDR_Halloween_48
+  - first:
+      213: -294400700379040196
+    second: FDR_Halloween_49
+  - first:
+      213: -2131900274183454721
+    second: FDR_Halloween_50
+  - first:
+      213: 8783479595741151251
+    second: FDR_Halloween_51
+  - first:
+      213: 2135980378074394967
+    second: FDR_Halloween_52
+  - first:
+      213: -4694393417243473693
+    second: FDR_Halloween_53
+  - first:
+      213: -7179723228086108779
+    second: FDR_Halloween_54
+  - first:
+      213: 1760010622772621561
+    second: FDR_Halloween_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Halloween_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e014aea83a77d0800000000000000
+      internalID: -2919959085668309396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7902017f1e39750800000000000000
+      internalID: 6310635954119940021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ce88f2fe0e4210800000000000000
+      internalID: 1319008177581114447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 178
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc24a2d8ab9e450800000000000000
+      internalID: 6118626684221705063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 177
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef290db9c84e59cf0800000000000000
+      internalID: -246039312061132034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 177
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517e7cb95d393470800000000000000
+      internalID: 8374792437695934811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296023f7cad800890800000000000000
+      internalID: -7493834007936629102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 210
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361399ba63a31700800000000000000
+      internalID: 509930861598283316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 159
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246676a6868a302c0800000000000000
+      internalID: -4466541239006173630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 207
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ea0726c7b31030800000000000000
+      internalID: 3464314600064476863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ca0a35888a1690800000000000000
+      internalID: -7630636512840071067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2021d8db41974a0800000000000000
+      internalID: -6595217374959238483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2ac0a3742032fa0800000000000000
+      internalID: -5826810987947449607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b0ac080623eab0800000000000000
+      internalID: -4980094946928183924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b9d0482aed4e90800000000000000
+      internalID: -7039713183902616935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 164
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9962f86371f7880800000000000000
+      internalID: -8611138439411754592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5740c003b7ad99a50800000000000000
+      internalID: 6528489357472171125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109d1755e21794d0800000000000000
+      internalID: -3128010639967154157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 114
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0e6024ca8a8240800000000000000
+      internalID: 4794797328251620814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9f019864ad06210800000000000000
+      internalID: 1324298286929082802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a4f67f96be0dc50800000000000000
+      internalID: 6688104287000545891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5314415a40854370800000000000000
+      internalID: 8306186144434099035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 113
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e362451bdcbf9b0800000000000000
+      internalID: -5045212796033810879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 113
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77297221e32862120800000000000000
+      internalID: 2388739855470793335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88736ddf62fe520800000000000000
+      internalID: 2733446370499725558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 130
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9142177b1a41af0800000000000000
+      internalID: -426538255444076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 79
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94745dd2da2975c20800000000000000
+      internalID: 3195183733138605897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_27
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ace3599e58b7f0800000000000000
+      internalID: -596622937995565821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5214e53d3f05b2a20800000000000000
+      internalID: 3038611381744976165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b9c6758bb623870800000000000000
+      internalID: 8661103472871775050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86196d6fd53ad49f0800000000000000
+      internalID: -482549961090231960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a30c0547d7b416f0800000000000000
+      internalID: -714744305640799325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e71194efd8de5e0800000000000000
+      internalID: -1878689346256535965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ad6ece589726c0800000000000000
+      internalID: -4168195397150465251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 81
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d810a6fa483d50800000000000000
+      internalID: 6717201267331488219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e67b7c9bce51a0800000000000000
+      internalID: -6818788912845625643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 80
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32e37ff3d15b410800000000000000
+      internalID: 1492131012111377372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68887ca1a7d98b90800000000000000
+      internalID: -7239017836638074773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 80
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d2ed34c060a0b0800000000000000
+      internalID: -5719465130792397755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 80
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35a696a41b54020800000000000000
+      internalID: 2325459715761001422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1104f40112596f0800000000000000
+      internalID: -678599814916599329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3975c65885ceb0760800000000000000
+      internalID: 7425288275590141843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e9a2d1f5f945b0800000000000000
+      internalID: -5383501460574444695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 50
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c66fdde7ca2410800000000000000
+      internalID: 1453193654249636268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8dfdbac1a90ea0800000000000000
+      internalID: -5906011544176718100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88e5758af66fb20800000000000000
+      internalID: 3167842156712724686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 50
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbeedcf257b1d8e0800000000000000
+      internalID: -1670352419720074242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf055e1ea93058650800000000000000
+      internalID: 6234393222914068731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b1bea275ce76fb0800000000000000
+      internalID: -4654491830737757424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f7407f141aebf0800000000000000
+      internalID: -294400700379040196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffbcb4fef7f962e0800000000000000
+      internalID: -2131900274183454721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100b0cc72035e970800000000000000
+      internalID: 8783479595741151251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751345246d684ad10800000000000000
+      internalID: 2135980378074394967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e845491f0a2adeb0800000000000000
+      internalID: -4694393417243473693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d7e4c83cf7c5c90800000000000000
+      internalID: -7179723228086108779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Halloween_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0b6432650dc6810800000000000000
+      internalID: 1760010622772621561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Halloween_0: -2919959085668309396
+      FDR_Halloween_1: 6310635954119940021
+      FDR_Halloween_10: -7630636512840071067
+      FDR_Halloween_11: -6595217374959238483
+      FDR_Halloween_12: -5826810987947449607
+      FDR_Halloween_13: -4980094946928183924
+      FDR_Halloween_14: -7039713183902616935
+      FDR_Halloween_15: -8611138439411754592
+      FDR_Halloween_16: 6528489357472171125
+      FDR_Halloween_17: -3128010639967154157
+      FDR_Halloween_18: 4794797328251620814
+      FDR_Halloween_19: 1324298286929082802
+      FDR_Halloween_2: 1319008177581114447
+      FDR_Halloween_20: 6688104287000545891
+      FDR_Halloween_21: 8306186144434099035
+      FDR_Halloween_22: -5045212796033810879
+      FDR_Halloween_23: 2388739855470793335
+      FDR_Halloween_24: 2733446370499725558
+      FDR_Halloween_25: -426538255444076078
+      FDR_Halloween_26: 3195183733138605897
+      FDR_Halloween_27: -596622937995565821
+      FDR_Halloween_28: 3038611381744976165
+      FDR_Halloween_29: 8661103472871775050
+      FDR_Halloween_3: 6118626684221705063
+      FDR_Halloween_30: -482549961090231960
+      FDR_Halloween_31: -714744305640799325
+      FDR_Halloween_32: -1878689346256535965
+      FDR_Halloween_33: -4168195397150465251
+      FDR_Halloween_34: 6717201267331488219
+      FDR_Halloween_35: -6818788912845625643
+      FDR_Halloween_36: 1492131012111377372
+      FDR_Halloween_37: -7239017836638074773
+      FDR_Halloween_38: -5719465130792397755
+      FDR_Halloween_39: 2325459715761001422
+      FDR_Halloween_4: -246039312061132034
+      FDR_Halloween_40: -678599814916599329
+      FDR_Halloween_41: 7425288275590141843
+      FDR_Halloween_42: -5383501460574444695
+      FDR_Halloween_43: 1453193654249636268
+      FDR_Halloween_44: -5906011544176718100
+      FDR_Halloween_45: 3167842156712724686
+      FDR_Halloween_46: -1670352419720074242
+      FDR_Halloween_47: 6234393222914068731
+      FDR_Halloween_48: -4654491830737757424
+      FDR_Halloween_49: -294400700379040196
+      FDR_Halloween_5: 8374792437695934811
+      FDR_Halloween_50: -2131900274183454721
+      FDR_Halloween_51: 8783479595741151251
+      FDR_Halloween_52: 2135980378074394967
+      FDR_Halloween_53: -4694393417243473693
+      FDR_Halloween_54: -7179723228086108779
+      FDR_Halloween_55: 1760010622772621561
+      FDR_Halloween_6: -7493834007936629102
+      FDR_Halloween_7: 509930861598283316
+      FDR_Halloween_8: -4466541239006173630
+      FDR_Halloween_9: 3464314600064476863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

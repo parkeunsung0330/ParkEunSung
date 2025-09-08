@@ -1,0 +1,4732 @@
+fileFormatVersion: 2
+guid: ce9d6a8522e746848ae19b88a3c626c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8990082881161047172
+    second: FDR_City_0
+  - first:
+      213: -7550261740263100781
+    second: FDR_City_1
+  - first:
+      213: -1687352619157940231
+    second: FDR_City_2
+  - first:
+      213: -1349855246929565419
+    second: FDR_City_3
+  - first:
+      213: 3878701509064907124
+    second: FDR_City_4
+  - first:
+      213: 8042095120012897354
+    second: FDR_City_5
+  - first:
+      213: 6161818045371290046
+    second: FDR_City_6
+  - first:
+      213: -2936073776165018287
+    second: FDR_City_7
+  - first:
+      213: 5813179056297011525
+    second: FDR_City_8
+  - first:
+      213: 9222866866706873991
+    second: FDR_City_9
+  - first:
+      213: -4104856397746653458
+    second: FDR_City_10
+  - first:
+      213: -8280700551940029183
+    second: FDR_City_11
+  - first:
+      213: -627765944709091048
+    second: FDR_City_12
+  - first:
+      213: -8350662501974859611
+    second: FDR_City_13
+  - first:
+      213: 8869096878512669952
+    second: FDR_City_14
+  - first:
+      213: -5370765348869503561
+    second: FDR_City_15
+  - first:
+      213: -8285677503685935968
+    second: FDR_City_16
+  - first:
+      213: -187941679989783671
+    second: FDR_City_17
+  - first:
+      213: 5995261049577298308
+    second: FDR_City_18
+  - first:
+      213: 7813460187590442814
+    second: FDR_City_19
+  - first:
+      213: -8315997201908317862
+    second: FDR_City_20
+  - first:
+      213: 2809676314566925876
+    second: FDR_City_21
+  - first:
+      213: 425787740308287145
+    second: FDR_City_22
+  - first:
+      213: -3495699701043377629
+    second: FDR_City_23
+  - first:
+      213: 2168208305432565510
+    second: FDR_City_24
+  - first:
+      213: 6030562412218704892
+    second: FDR_City_25
+  - first:
+      213: 6347787071858405744
+    second: FDR_City_26
+  - first:
+      213: -4027820322680062877
+    second: FDR_City_27
+  - first:
+      213: -3097149036344911603
+    second: FDR_City_28
+  - first:
+      213: 5486738919865802910
+    second: FDR_City_29
+  - first:
+      213: -5484359952829046486
+    second: FDR_City_30
+  - first:
+      213: -7670901090046975299
+    second: FDR_City_31
+  - first:
+      213: 366656352150210433
+    second: FDR_City_32
+  - first:
+      213: -3360462398480784433
+    second: FDR_City_33
+  - first:
+      213: 2231786005474161062
+    second: FDR_City_34
+  - first:
+      213: -4423466284393613584
+    second: FDR_City_35
+  - first:
+      213: -6057052925949287072
+    second: FDR_City_36
+  - first:
+      213: 1802222102481633494
+    second: FDR_City_37
+  - first:
+      213: 1350353176992806986
+    second: FDR_City_38
+  - first:
+      213: -7336298071396263676
+    second: FDR_City_39
+  - first:
+      213: 193760339809653373
+    second: FDR_City_40
+  - first:
+      213: -2793578505393772796
+    second: FDR_City_41
+  - first:
+      213: 8277833491129303396
+    second: FDR_City_42
+  - first:
+      213: 8320426348205823776
+    second: FDR_City_43
+  - first:
+      213: 7860188973030061305
+    second: FDR_City_44
+  - first:
+      213: -2042172745376149559
+    second: FDR_City_45
+  - first:
+      213: 5365173057722696466
+    second: FDR_City_46
+  - first:
+      213: 4136526641374826807
+    second: FDR_City_47
+  - first:
+      213: 5960117039080128049
+    second: FDR_City_48
+  - first:
+      213: -7572349412911749749
+    second: FDR_City_49
+  - first:
+      213: 1555081179369863400
+    second: FDR_City_50
+  - first:
+      213: -5942193170277053888
+    second: FDR_City_51
+  - first:
+      213: 1887581661159987557
+    second: FDR_City_52
+  - first:
+      213: -3928794629579597577
+    second: FDR_City_53
+  - first:
+      213: -1436439846141366008
+    second: FDR_City_54
+  - first:
+      213: 290579011529953048
+    second: FDR_City_55
+  - first:
+      213: 4807586853403764032
+    second: FDR_City_56
+  - first:
+      213: -5402473391133778377
+    second: FDR_City_57
+  - first:
+      213: -3893903277736829091
+    second: FDR_City_58
+  - first:
+      213: -6271386771829844328
+    second: FDR_City_59
+  - first:
+      213: -6358946983120397116
+    second: FDR_City_60
+  - first:
+      213: 888026063479853621
+    second: FDR_City_61
+  - first:
+      213: -1689006728240592126
+    second: FDR_City_62
+  - first:
+      213: -3445410161715836621
+    second: FDR_City_63
+  - first:
+      213: 1143734060855740513
+    second: FDR_City_64
+  - first:
+      213: -1925849639679484738
+    second: FDR_City_65
+  - first:
+      213: 8571072446309119423
+    second: FDR_City_66
+  - first:
+      213: -2982736411537577711
+    second: FDR_City_67
+  - first:
+      213: 3747918683341087312
+    second: FDR_City_68
+  - first:
+      213: -8378691508848998284
+    second: FDR_City_69
+  - first:
+      213: -1696465406973257049
+    second: FDR_City_70
+  - first:
+      213: 5869947362838983014
+    second: FDR_City_71
+  - first:
+      213: -3098382877120949704
+    second: FDR_City_72
+  - first:
+      213: 769699600826286695
+    second: FDR_City_73
+  - first:
+      213: 5748565272894142786
+    second: FDR_City_74
+  - first:
+      213: 7817369135924374949
+    second: FDR_City_75
+  - first:
+      213: 9094214039451634472
+    second: FDR_City_76
+  - first:
+      213: 4964978818935875318
+    second: FDR_City_77
+  - first:
+      213: 6143670243346127234
+    second: FDR_City_78
+  - first:
+      213: 5080522174876239194
+    second: FDR_City_79
+  - first:
+      213: 3640517092107118121
+    second: FDR_City_80
+  - first:
+      213: -1416288263338506838
+    second: FDR_City_81
+  - first:
+      213: -3754810905124825435
+    second: FDR_City_82
+  - first:
+      213: -1219045229526023149
+    second: FDR_City_83
+  - first:
+      213: -5512137275629430369
+    second: FDR_City_84
+  - first:
+      213: -2511148564706872601
+    second: FDR_City_85
+  - first:
+      213: 4858472737113129261
+    second: FDR_City_86
+  - first:
+      213: -1926700004208947484
+    second: FDR_City_87
+  - first:
+      213: 9124779812332446562
+    second: FDR_City_88
+  - first:
+      213: 6024594896975038795
+    second: FDR_City_89
+  - first:
+      213: 8654095556598007401
+    second: FDR_City_90
+  - first:
+      213: 2671330308413982807
+    second: FDR_City_91
+  - first:
+      213: -8444458723383474187
+    second: FDR_City_92
+  - first:
+      213: -1816581463699802012
+    second: FDR_City_93
+  - first:
+      213: -640307723412400949
+    second: FDR_City_94
+  - first:
+      213: 6072746027201631828
+    second: FDR_City_95
+  - first:
+      213: 7721016701280103897
+    second: FDR_City_96
+  - first:
+      213: -5330147363945008904
+    second: FDR_City_97
+  - first:
+      213: 5426280559304185171
+    second: FDR_City_98
+  - first:
+      213: 8397152810833488486
+    second: FDR_City_99
+  - first:
+      213: -1594556455495778174
+    second: FDR_City_100
+  - first:
+      213: -2858519268296264761
+    second: FDR_City_101
+  - first:
+      213: 2968591803980538489
+    second: FDR_City_102
+  - first:
+      213: -679920424708976105
+    second: FDR_City_103
+  - first:
+      213: 8738041549564995698
+    second: FDR_City_104
+  - first:
+      213: -5347915924794006363
+    second: FDR_City_105
+  - first:
+      213: 3760011703141114548
+    second: FDR_City_106
+  - first:
+      213: -3675456266206189515
+    second: FDR_City_107
+  - first:
+      213: 2657032622162233637
+    second: FDR_City_108
+  - first:
+      213: -3224894269660656992
+    second: FDR_City_109
+  - first:
+      213: 8622876588009953460
+    second: FDR_City_110
+  - first:
+      213: 6605870992241313000
+    second: FDR_City_111
+  - first:
+      213: -2817274150081287459
+    second: FDR_City_112
+  - first:
+      213: -7394880909318625211
+    second: FDR_City_113
+  - first:
+      213: -4513099517813188354
+    second: FDR_City_114
+  - first:
+      213: -586020576383226581
+    second: FDR_City_115
+  - first:
+      213: -1722460491365170397
+    second: FDR_City_116
+  - first:
+      213: -7113492171658878190
+    second: FDR_City_117
+  - first:
+      213: 8355287520009993672
+    second: FDR_City_118
+  - first:
+      213: -4908267078089873653
+    second: FDR_City_119
+  - first:
+      213: 2433269259747760563
+    second: FDR_City_120
+  - first:
+      213: -2873928712813805230
+    second: FDR_City_121
+  - first:
+      213: -2262547483297729799
+    second: FDR_City_122
+  - first:
+      213: -3433211540940897109
+    second: FDR_City_123
+  - first:
+      213: -8545000182464807514
+    second: FDR_City_124
+  - first:
+      213: -3383524385390457961
+    second: FDR_City_125
+  - first:
+      213: 4568436698848422894
+    second: FDR_City_126
+  - first:
+      213: -5124560272504561418
+    second: FDR_City_127
+  - first:
+      213: 1981810379807709818
+    second: FDR_City_128
+  - first:
+      213: -338124640235444386
+    second: FDR_City_129
+  - first:
+      213: -4528781284855425216
+    second: FDR_City_130
+  - first:
+      213: 144160025999706182
+    second: FDR_City_131
+  - first:
+      213: -4935222696337058004
+    second: FDR_City_132
+  - first:
+      213: 6560612223598275930
+    second: FDR_City_133
+  - first:
+      213: 9128580147073823343
+    second: FDR_City_134
+  - first:
+      213: 3536572956456797504
+    second: FDR_City_135
+  - first:
+      213: 2189996641343461566
+    second: FDR_City_136
+  - first:
+      213: -7509900282240430497
+    second: FDR_City_137
+  - first:
+      213: -8144370907163662173
+    second: FDR_City_138
+  - first:
+      213: 807768691904067312
+    second: FDR_City_139
+  - first:
+      213: 8012698516949216372
+    second: FDR_City_140
+  - first:
+      213: -375570747210028221
+    second: FDR_City_141
+  - first:
+      213: 3023050291654617090
+    second: FDR_City_142
+  - first:
+      213: -6523863170138663734
+    second: FDR_City_143
+  - first:
+      213: 6792982125700794744
+    second: FDR_City_144
+  - first:
+      213: 5419013048351873248
+    second: FDR_City_145
+  - first:
+      213: 1184931483059235785
+    second: FDR_City_146
+  - first:
+      213: 9035420282174500457
+    second: FDR_City_147
+  - first:
+      213: -6018421096060089218
+    second: FDR_City_148
+  - first:
+      213: 2389477789316119714
+    second: FDR_City_149
+  - first:
+      213: -4836287405401195766
+    second: FDR_City_150
+  - first:
+      213: 5538563268164080044
+    second: FDR_City_151
+  - first:
+      213: 1073843379097709341
+    second: FDR_City_152
+  - first:
+      213: 2392136431545497911
+    second: FDR_City_153
+  - first:
+      213: -8577493031884833716
+    second: FDR_City_154
+  - first:
+      213: -5391337672381735524
+    second: FDR_City_155
+  - first:
+      213: 8154012868889691388
+    second: FDR_City_156
+  - first:
+      213: -3737069632375399861
+    second: FDR_City_157
+  - first:
+      213: 4902998478174982094
+    second: FDR_City_158
+  - first:
+      213: 8109546747101624542
+    second: FDR_City_159
+  - first:
+      213: -5905118643203047084
+    second: FDR_City_160
+  - first:
+      213: 7127215811827678361
+    second: FDR_City_161
+  - first:
+      213: 7486089328247139297
+    second: FDR_City_162
+  - first:
+      213: 5237869071464120196
+    second: FDR_City_163
+  - first:
+      213: -7225851217572583460
+    second: FDR_City_164
+  - first:
+      213: 8124120815333311030
+    second: FDR_City_165
+  - first:
+      213: -5228444593259831264
+    second: FDR_City_166
+  - first:
+      213: 6086710131226923928
+    second: FDR_City_167
+  - first:
+      213: 1577813047686690957
+    second: FDR_City_168
+  - first:
+      213: -1837244792534243785
+    second: FDR_City_169
+  - first:
+      213: -8762727603215827651
+    second: FDR_City_170
+  - first:
+      213: -6628006107277086630
+    second: FDR_City_171
+  - first:
+      213: 7132600047973716217
+    second: FDR_City_172
+  - first:
+      213: 4622016963573756751
+    second: FDR_City_173
+  - first:
+      213: -882757343520998496
+    second: FDR_City_174
+  - first:
+      213: 4248607490805015935
+    second: FDR_City_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_City_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 703
+        width: 242
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735317404fcc3380800000000000000
+      internalID: -8990082881161047172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e256243f4183790800000000000000
+      internalID: -7550261740263100781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7144c9bb15598e0800000000000000
+      internalID: -1687352619157940231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e0940ec9544de0800000000000000
+      internalID: -1349855246929565419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d595e87ae3d530800000000000000
+      internalID: 3878701509064907124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c654e17e24b9f60800000000000000
+      internalID: 8042095120012897354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb192f49ddc238550800000000000000
+      internalID: 6161818045371290046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1552851e478f047d0800000000000000
+      internalID: -2936073776165018287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549e25a5d8f8ca050800000000000000
+      internalID: 5813179056297011525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 753
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e78c8ec843eff70800000000000000
+      internalID: 9222866866706873991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 736
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6325ecade9807c0800000000000000
+      internalID: -4104856397746653458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 736
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105cb3698ba051d80800000000000000
+      internalID: -8280700551940029183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 353
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f687033ab947f0800000000000000
+      internalID: -627765944709091048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a02d9ab2bc7c1c80800000000000000
+      internalID: -8350662501974859611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005064ade9c551b70800000000000000
+      internalID: 8869096878512669952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b508a8ee553775b0800000000000000
+      internalID: -5370765348869503561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acba55b53c530d80800000000000000
+      internalID: -8285677503685935968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98308bda90c446df0800000000000000
+      internalID: -187941679989783671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895acb0922733350800000000000000
+      internalID: 5995261049577298308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3cf3a4acfe6c60800000000000000
+      internalID: 7813460187590442814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 720
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51cc1bda94a79c80800000000000000
+      internalID: -8315997201908317862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 690
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e1797c8b9fdf620800000000000000
+      internalID: 2809676314566925876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 690
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeaac2a1b3b8e500800000000000000
+      internalID: 425787740308287145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 720
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aced594a7cc7fc0800000000000000
+      internalID: -3495699701043377629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 689
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071c5457f5071e10800000000000000
+      internalID: 2168208305432565510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 721
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf36e18009cd0b350800000000000000
+      internalID: 6030562412218704892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 689
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ffe7b5bed71850800000000000000
+      internalID: 6347787071858405744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_27
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 721
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3e8fb1ce4a18c0800000000000000
+      internalID: -4027820322680062877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_28
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 703
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d7306c57b405d0800000000000000
+      internalID: -3097149036344911603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 721
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9069e54affc42c40800000000000000
+      internalID: 5486738919865802910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_30
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212f372ea3a3e3b0800000000000000
+      internalID: -5484359952829046486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 721
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2e79cc91c7b8590800000000000000
+      internalID: -7670901090046975299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 690
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187cd887200a61500800000000000000
+      internalID: 366656352150210433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 690
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ee79c04d3d51d0800000000000000
+      internalID: -3360462398480784433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 694
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1b9f62c85e8fe10800000000000000
+      internalID: 2231786005474161062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 690
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f63dc2d9d0bc92c0800000000000000
+      internalID: -4423466284393613584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 639
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656d0b947601fba0800000000000000
+      internalID: -6057052925949287072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d086c02477c20910800000000000000
+      internalID: 1802222102481633494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f9fb5f0b6db210800000000000000
+      internalID: 1350353176992806986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 639
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409da0006cb303a90800000000000000
+      internalID: -7336298071396263676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 608
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d9e1a00060b200800000000000000
+      internalID: 193760339809653373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40766dd76273b39d0800000000000000
+      internalID: -2793578505393772796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461089cc3b5c0e270800000000000000
+      internalID: 8277833491129303396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 639
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027db902ea7187370800000000000000
+      internalID: 8320426348205823776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f436e4d930051d60800000000000000
+      internalID: 7860188973030061305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfcedd35beb8a3e0800000000000000
+      internalID: -2042172745376149559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 639
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ce08587ce47a40800000000000000
+      internalID: 5365173057722696466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73116176015e76930800000000000000
+      internalID: 4136526641374826807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebf167ed696b250800000000000000
+      internalID: 5960117039080128049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e148345c99e690800000000000000
+      internalID: -7572349412911749749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87c3de712c49510800000000000000
+      internalID: 1555081179369863400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a42e27bc6198da0800000000000000
+      internalID: -5942193170277053888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5699bfd1589023a10800000000000000
+      internalID: 1887581661159987557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 575
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8127c991e1a79c0800000000000000
+      internalID: -3928794629579597577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 576
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f68d029db01ce0800000000000000
+      internalID: -1436439846141366008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 608
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4d694218580400800000000000000
+      internalID: 290579011529953048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 592
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04528ff75caf7b240800000000000000
+      internalID: 4807586853403764032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 608
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e98f4031f8605b0800000000000000
+      internalID: -5402473391133778377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 591
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f54c4899316f9c0800000000000000
+      internalID: -3893903277736829091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 593
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969fff45fe87f8a0800000000000000
+      internalID: -6271386771829844328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 593
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1195f86b70c7a0800000000000000
+      internalID: -6358946983120397116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5325101fff6e25c00800000000000000
+      internalID: 888026063479853621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 575
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b89f354517f88e0800000000000000
+      internalID: -1689006728240592126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_63
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 577
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339086566b17f20d0800000000000000
+      internalID: -3445410161715836621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 577
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16842de811c5fdf00800000000000000
+      internalID: 1143734060855740513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 559
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc1710d4f10645e0800000000000000
+      internalID: -1925849639679484738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 576
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5b46a7af092f670800000000000000
+      internalID: 8571072446309119423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 563
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119eda379013b96d0800000000000000
+      internalID: -2982736411537577711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 563
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05268976f28430430800000000000000
+      internalID: 3747918683341087312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 564
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47849740778e8bb80800000000000000
+      internalID: -8378691508848998284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aade9b53b1f478e0800000000000000
+      internalID: -1696465406973257049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613244b60e367150800000000000000
+      internalID: 5869947362838983014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329d0f60355005d0800000000000000
+      internalID: -3098382877120949704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c20b75b58eaa00800000000000000
+      internalID: 769699600826286695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 546
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249700398a107cf40800000000000000
+      internalID: 5748565272894142786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 545
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adefd89fcfdc7c60800000000000000
+      internalID: 7817369135924374949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_76
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 529
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b82e45c73253e70800000000000000
+      internalID: 9094214039451634472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_77
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e2042ee527e440800000000000000
+      internalID: 4964978818935875318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 550
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28998c72983b24550800000000000000
+      internalID: 6143670243346127234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_79
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 546
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554ef21004a18640800000000000000
+      internalID: 5080522174876239194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_80
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 530
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92668c9c107b58230800000000000000
+      internalID: 3640517092107118121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 512
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5472c0455585ce0800000000000000
+      internalID: -1416288263338506838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_82
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 527
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69549206b34ebc0800000000000000
+      internalID: -3754810905124825435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_83
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 527
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31487f092d4151fe0800000000000000
+      internalID: -1219045229526023149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_84
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 513
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991be43a54f083b0800000000000000
+      internalID: -5512137275629430369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_85
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 496
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23a6e5fab962dd0800000000000000
+      internalID: -2511148564706872601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 511
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214c8e8633cc6340800000000000000
+      internalID: 4858472737113129261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_87
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 511
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eec164ed8cf245e0800000000000000
+      internalID: -1926700004208947484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 488
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2632bb7e4eab1ae70800000000000000
+      internalID: 9124779812332446562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4904dd9329ab9350800000000000000
+      internalID: 6024594896975038795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 490
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9668f4fae06891870800000000000000
+      internalID: 8654095556598007401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75800ce13c8721520800000000000000
+      internalID: 2671330308413982807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 490
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7874028814fca80800000000000000
+      internalID: -8444458723383474187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4683d9e88c43ac6e0800000000000000
+      internalID: -1816581463699802012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 498
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4901f948b2d17f0800000000000000
+      internalID: -640307723412400949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 480
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569482465ab64450800000000000000
+      internalID: 6072746027201631828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_96
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 480
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda8a838cf862b60800000000000000
+      internalID: 7721016701280103897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_97
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0b29b76338706b0800000000000000
+      internalID: -5330147363945008904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3551fe44b650e4b40800000000000000
+      internalID: 5426280559304185171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a276ecdfda88470800000000000000
+      internalID: 8397152810833488486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 456
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804edf1a5ffed9e0800000000000000
+      internalID: -1594556455495778174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 458
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3779ddedf7458d0800000000000000
+      internalID: -2858519268296264761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_102
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 464
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9726567748e823920800000000000000
+      internalID: 2968591803980538489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_103
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 466
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71250b1e9ff6096f0800000000000000
+      internalID: -679920424708976105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_104
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 448
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ec624e72c34970800000000000000
+      internalID: 8738041549564995698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_105
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 448
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4aff50dc268c5b0800000000000000
+      internalID: -5347915924794006363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_106
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 432
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a90df8be3e2430800000000000000
+      internalID: 3760011703141114548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538eb41dff72efcc0800000000000000
+      internalID: -3675456266206189515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_108
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ca90a71dafd420800000000000000
+      internalID: 2657032622162233637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 424
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0faa7fbfde33d0800000000000000
+      internalID: -3224894269660656992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b89d52229c9aa770800000000000000
+      internalID: 8622876588009953460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 426
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c9940ba4ccab50800000000000000
+      internalID: 6605870992241313000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa389461807e8d0800000000000000
+      internalID: -2817274150081287459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_113
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 426
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548eeb32efa106990800000000000000
+      internalID: -7394880909318625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 434
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef812c466ef3e51c0800000000000000
+      internalID: -4513099517813188354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_115
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 416
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dab9104690ed7f0800000000000000
+      internalID: -586020576383226581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_116
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 416
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c8802f479818e0800000000000000
+      internalID: -1722460491365170397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21320cb0f8cc74d90800000000000000
+      internalID: -7113492171658878190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 418
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd33723bb1f3f370800000000000000
+      internalID: 8355287520009993672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0765bbf81552ebb0800000000000000
+      internalID: -4908267078089873653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_120
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 392
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9942eef75b4c120800000000000000
+      internalID: 2433269259747760563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 394
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25100faff01cd18d0800000000000000
+      internalID: -2873928712813805230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_122
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b59a2d01d990e0800000000000000
+      internalID: -2262547483297729799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_123
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 402
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4427f1b48ca50d0800000000000000
+      internalID: -3433211540940897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_124
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad798e7b9f0a6980800000000000000
+      internalID: -8545000182464807514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_125
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 384
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0ee78f7e4b01d0800000000000000
+      internalID: -3383524385390457961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_126
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 368
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe7b519f8566f30800000000000000
+      internalID: 4568436698848422894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0694f4597e1e8b0800000000000000
+      internalID: -5124560272504561418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ade945a0ec08b10800000000000000
+      internalID: 1981810379807709818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_129
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 360
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57a5f06e6dbe4bf0800000000000000
+      internalID: -338124640235444386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04751ca7a698621c0800000000000000
+      internalID: -4528781284855425216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 362
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6480684a7c8200200800000000000000
+      internalID: 144160025999706182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2752690b11928bb0800000000000000
+      internalID: -4935222696337058004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 362
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d29a8ce0afb0b50800000000000000
+      internalID: 6560612223598275930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 370
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62b40a474b3fae70800000000000000
+      internalID: 9128580147073823343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_135
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 352
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454cd7cd5e641130800000000000000
+      internalID: 3536572956456797504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_136
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 352
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8539a975e646e10800000000000000
+      internalID: 2189996641343461566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_137
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e04728b7977c790800000000000000
+      internalID: -7509900282240430497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 354
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8eb778fc169fe80800000000000000
+      internalID: -8144370907163662173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6bf957855c53b00800000000000000
+      internalID: 807768691904067312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_140
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 328
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cae0b19d2d23f60800000000000000
+      internalID: 8012698516949216372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 330
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ba4803564b9caf0800000000000000
+      internalID: -375570747210028221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208e634393804f920800000000000000
+      internalID: 3023050291654617090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 338
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac491acf2059675a0800000000000000
+      internalID: -6523863170138663734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_144
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 320
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87949f7a045854e50800000000000000
+      internalID: 6792982125700794744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_145
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 320
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8583408a3343b40800000000000000
+      internalID: 5419013048351873248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_146
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 304
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb2ce2e7e8b17010800000000000000
+      internalID: 1184931483059235785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eee5bffd2446d70800000000000000
+      internalID: 9035420282174500457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_148
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0f9c66e54a7ca0800000000000000
+      internalID: -6018421096060089218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_149
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 296
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7fdea361292120800000000000000
+      internalID: 2389477789316119714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_150
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bbd518a3e02ecb0800000000000000
+      internalID: -4836287405401195766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 298
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca152f4a2fdecdc40800000000000000
+      internalID: 5538563268164080044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b26832dde07ee00800000000000000
+      internalID: 1073843379097709341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 298
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393a801963923120800000000000000
+      internalID: 2392136431545497911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 306
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbd13788f96f880800000000000000
+      internalID: -8577493031884833716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_155
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 288
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d518593fe1e25b0800000000000000
+      internalID: -5391337672381735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_156
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 288
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44220a08fd82170800000000000000
+      internalID: 8154012868889691388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_157
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a5d5d18f2432cc0800000000000000
+      internalID: -3737069632375399861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_158
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 290
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf86e18323fa0440800000000000000
+      internalID: 4902998478174982094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_159
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ba6edcc5ea8070800000000000000
+      internalID: 8109546747101624542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_160
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 264
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451885371edcc0ea0800000000000000
+      internalID: -5905118643203047084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_161
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 266
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c398de405f8e260800000000000000
+      internalID: 7127215811827678361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_162
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb630fb49ee3e760800000000000000
+      internalID: 7486089328247139297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_163
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 274
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbf984b26a0b840800000000000000
+      internalID: 5237869071464120196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_164
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 256
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd723c01a9e98bb90800000000000000
+      internalID: -7225851217572583460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_165
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 256
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328c4e86dcaeb070800000000000000
+      internalID: 8124120815333311030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020afea0855d077b0800000000000000
+      internalID: -5228444593259831264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 241
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935d869d96587450800000000000000
+      internalID: 6086710131226923928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_168
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 211
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8877557b9485e510800000000000000
+      internalID: 1577813047686690957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366f87689bc086e0800000000000000
+      internalID: -1837244792534243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d7fcafba9846680800000000000000
+      internalID: -8762727603215827651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_171
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 163
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5031a6ef879404a0800000000000000
+      internalID: -6628006107277086630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_172
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0586814f51cf260800000000000000
+      internalID: 7132600047973716217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43b4ab90f3b42040800000000000000
+      internalID: 4622016963573756751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_174
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 67
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab30948fd0dfb3f0800000000000000
+      internalID: -882757343520998496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_City_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 67
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f752f77b00616fa30800000000000000
+      internalID: 4248607490805015935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_City_0: -8990082881161047172
+      FDR_City_1: -7550261740263100781
+      FDR_City_10: -4104856397746653458
+      FDR_City_100: -1594556455495778174
+      FDR_City_101: -2858519268296264761
+      FDR_City_102: 2968591803980538489
+      FDR_City_103: -679920424708976105
+      FDR_City_104: 8738041549564995698
+      FDR_City_105: -5347915924794006363
+      FDR_City_106: 3760011703141114548
+      FDR_City_107: -3675456266206189515
+      FDR_City_108: 2657032622162233637
+      FDR_City_109: -3224894269660656992
+      FDR_City_11: -8280700551940029183
+      FDR_City_110: 8622876588009953460
+      FDR_City_111: 6605870992241313000
+      FDR_City_112: -2817274150081287459
+      FDR_City_113: -7394880909318625211
+      FDR_City_114: -4513099517813188354
+      FDR_City_115: -586020576383226581
+      FDR_City_116: -1722460491365170397
+      FDR_City_117: -7113492171658878190
+      FDR_City_118: 8355287520009993672
+      FDR_City_119: -4908267078089873653
+      FDR_City_12: -627765944709091048
+      FDR_City_120: 2433269259747760563
+      FDR_City_121: -2873928712813805230
+      FDR_City_122: -2262547483297729799
+      FDR_City_123: -3433211540940897109
+      FDR_City_124: -8545000182464807514
+      FDR_City_125: -3383524385390457961
+      FDR_City_126: 4568436698848422894
+      FDR_City_127: -5124560272504561418
+      FDR_City_128: 1981810379807709818
+      FDR_City_129: -338124640235444386
+      FDR_City_13: -8350662501974859611
+      FDR_City_130: -4528781284855425216
+      FDR_City_131: 144160025999706182
+      FDR_City_132: -4935222696337058004
+      FDR_City_133: 6560612223598275930
+      FDR_City_134: 9128580147073823343
+      FDR_City_135: 3536572956456797504
+      FDR_City_136: 2189996641343461566
+      FDR_City_137: -7509900282240430497
+      FDR_City_138: -8144370907163662173
+      FDR_City_139: 807768691904067312
+      FDR_City_14: 8869096878512669952
+      FDR_City_140: 8012698516949216372
+      FDR_City_141: -375570747210028221
+      FDR_City_142: 3023050291654617090
+      FDR_City_143: -6523863170138663734
+      FDR_City_144: 6792982125700794744
+      FDR_City_145: 5419013048351873248
+      FDR_City_146: 1184931483059235785
+      FDR_City_147: 9035420282174500457
+      FDR_City_148: -6018421096060089218
+      FDR_City_149: 2389477789316119714
+      FDR_City_15: -5370765348869503561
+      FDR_City_150: -4836287405401195766
+      FDR_City_151: 5538563268164080044
+      FDR_City_152: 1073843379097709341
+      FDR_City_153: 2392136431545497911
+      FDR_City_154: -8577493031884833716
+      FDR_City_155: -5391337672381735524
+      FDR_City_156: 8154012868889691388
+      FDR_City_157: -3737069632375399861
+      FDR_City_158: 4902998478174982094
+      FDR_City_159: 8109546747101624542
+      FDR_City_16: -8285677503685935968
+      FDR_City_160: -5905118643203047084
+      FDR_City_161: 7127215811827678361
+      FDR_City_162: 7486089328247139297
+      FDR_City_163: 5237869071464120196
+      FDR_City_164: -7225851217572583460
+      FDR_City_165: 8124120815333311030
+      FDR_City_166: -5228444593259831264
+      FDR_City_167: 6086710131226923928
+      FDR_City_168: 1577813047686690957
+      FDR_City_169: -1837244792534243785
+      FDR_City_17: -187941679989783671
+      FDR_City_170: -8762727603215827651
+      FDR_City_171: -6628006107277086630
+      FDR_City_172: 7132600047973716217
+      FDR_City_173: 4622016963573756751
+      FDR_City_174: -882757343520998496
+      FDR_City_175: 4248607490805015935
+      FDR_City_18: 5995261049577298308
+      FDR_City_19: 7813460187590442814
+      FDR_City_2: -1687352619157940231
+      FDR_City_20: -8315997201908317862
+      FDR_City_21: 2809676314566925876
+      FDR_City_22: 425787740308287145
+      FDR_City_23: -3495699701043377629
+      FDR_City_24: 2168208305432565510
+      FDR_City_25: 6030562412218704892
+      FDR_City_26: 6347787071858405744
+      FDR_City_27: -4027820322680062877
+      FDR_City_28: -3097149036344911603
+      FDR_City_29: 5486738919865802910
+      FDR_City_3: -1349855246929565419
+      FDR_City_30: -5484359952829046486
+      FDR_City_31: -7670901090046975299
+      FDR_City_32: 366656352150210433
+      FDR_City_33: -3360462398480784433
+      FDR_City_34: 2231786005474161062
+      FDR_City_35: -4423466284393613584
+      FDR_City_36: -6057052925949287072
+      FDR_City_37: 1802222102481633494
+      FDR_City_38: 1350353176992806986
+      FDR_City_39: -7336298071396263676
+      FDR_City_4: 3878701509064907124
+      FDR_City_40: 193760339809653373
+      FDR_City_41: -2793578505393772796
+      FDR_City_42: 8277833491129303396
+      FDR_City_43: 8320426348205823776
+      FDR_City_44: 7860188973030061305
+      FDR_City_45: -2042172745376149559
+      FDR_City_46: 5365173057722696466
+      FDR_City_47: 4136526641374826807
+      FDR_City_48: 5960117039080128049
+      FDR_City_49: -7572349412911749749
+      FDR_City_5: 8042095120012897354
+      FDR_City_50: 1555081179369863400
+      FDR_City_51: -5942193170277053888
+      FDR_City_52: 1887581661159987557
+      FDR_City_53: -3928794629579597577
+      FDR_City_54: -1436439846141366008
+      FDR_City_55: 290579011529953048
+      FDR_City_56: 4807586853403764032
+      FDR_City_57: -5402473391133778377
+      FDR_City_58: -3893903277736829091
+      FDR_City_59: -6271386771829844328
+      FDR_City_6: 6161818045371290046
+      FDR_City_60: -6358946983120397116
+      FDR_City_61: 888026063479853621
+      FDR_City_62: -1689006728240592126
+      FDR_City_63: -3445410161715836621
+      FDR_City_64: 1143734060855740513
+      FDR_City_65: -1925849639679484738
+      FDR_City_66: 8571072446309119423
+      FDR_City_67: -2982736411537577711
+      FDR_City_68: 3747918683341087312
+      FDR_City_69: -8378691508848998284
+      FDR_City_7: -2936073776165018287
+      FDR_City_70: -1696465406973257049
+      FDR_City_71: 5869947362838983014
+      FDR_City_72: -3098382877120949704
+      FDR_City_73: 769699600826286695
+      FDR_City_74: 5748565272894142786
+      FDR_City_75: 7817369135924374949
+      FDR_City_76: 9094214039451634472
+      FDR_City_77: 4964978818935875318
+      FDR_City_78: 6143670243346127234
+      FDR_City_79: 5080522174876239194
+      FDR_City_8: 5813179056297011525
+      FDR_City_80: 3640517092107118121
+      FDR_City_81: -1416288263338506838
+      FDR_City_82: -3754810905124825435
+      FDR_City_83: -1219045229526023149
+      FDR_City_84: -5512137275629430369
+      FDR_City_85: -2511148564706872601
+      FDR_City_86: 4858472737113129261
+      FDR_City_87: -1926700004208947484
+      FDR_City_88: 9124779812332446562
+      FDR_City_89: 6024594896975038795
+      FDR_City_9: 9222866866706873991
+      FDR_City_90: 8654095556598007401
+      FDR_City_91: 2671330308413982807
+      FDR_City_92: -8444458723383474187
+      FDR_City_93: -1816581463699802012
+      FDR_City_94: -640307723412400949
+      FDR_City_95: 6072746027201631828
+      FDR_City_96: 7721016701280103897
+      FDR_City_97: -5330147363945008904
+      FDR_City_98: 5426280559304185171
+      FDR_City_99: 8397152810833488486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

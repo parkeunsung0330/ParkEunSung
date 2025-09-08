@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "_itemID": 1,
+      "_itemName": "Meat",
+      "_spritePath": "Sprites/Items/food_meat"
+    },
+    {
+      "_itemID": 2,
+      "_itemName": "Lighting",
+      "_spritePath": "Sprites/Items/lightning_yellow"
+    }
+  ]
+}

@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: 7f05eaae69016084d9359f0904ac80cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2848284501247643018
+    second: FDR_Enchanted_Forest_Blue_0
+  - first:
+      213: 6892819867220368546
+    second: FDR_Enchanted_Forest_Blue_1
+  - first:
+      213: -464680935655699958
+    second: FDR_Enchanted_Forest_Blue_2
+  - first:
+      213: -3611658086181182091
+    second: FDR_Enchanted_Forest_Blue_3
+  - first:
+      213: 3679416314069975334
+    second: FDR_Enchanted_Forest_Blue_4
+  - first:
+      213: 7783059517553831498
+    second: FDR_Enchanted_Forest_Blue_5
+  - first:
+      213: -8904791612800909783
+    second: FDR_Enchanted_Forest_Blue_6
+  - first:
+      213: -794497500784206094
+    second: FDR_Enchanted_Forest_Blue_7
+  - first:
+      213: 8799560010882053201
+    second: FDR_Enchanted_Forest_Blue_8
+  - first:
+      213: -6945953005234808644
+    second: FDR_Enchanted_Forest_Blue_9
+  - first:
+      213: 4730634581532255481
+    second: FDR_Enchanted_Forest_Blue_10
+  - first:
+      213: 5989369987381511409
+    second: FDR_Enchanted_Forest_Blue_11
+  - first:
+      213: 213290040340120827
+    second: FDR_Enchanted_Forest_Blue_12
+  - first:
+      213: -3814427535139202896
+    second: FDR_Enchanted_Forest_Blue_13
+  - first:
+      213: 3458879372368006376
+    second: FDR_Enchanted_Forest_Blue_14
+  - first:
+      213: -2011868258930391381
+    second: FDR_Enchanted_Forest_Blue_15
+  - first:
+      213: -7516722874258501146
+    second: FDR_Enchanted_Forest_Blue_16
+  - first:
+      213: -6066835890225125585
+    second: FDR_Enchanted_Forest_Blue_17
+  - first:
+      213: 811629871250947120
+    second: FDR_Enchanted_Forest_Blue_18
+  - first:
+      213: 7259569306603561705
+    second: FDR_Enchanted_Forest_Blue_19
+  - first:
+      213: 5709122918483253402
+    second: FDR_Enchanted_Forest_Blue_20
+  - first:
+      213: -1867807876152268805
+    second: FDR_Enchanted_Forest_Blue_21
+  - first:
+      213: 8676818626496921041
+    second: FDR_Enchanted_Forest_Blue_22
+  - first:
+      213: 5033776524665763918
+    second: FDR_Enchanted_Forest_Blue_23
+  - first:
+      213: 3171448691903868610
+    second: FDR_Enchanted_Forest_Blue_24
+  - first:
+      213: 166757046078088768
+    second: FDR_Enchanted_Forest_Blue_25
+  - first:
+      213: 7251346895833234544
+    second: FDR_Enchanted_Forest_Blue_26
+  - first:
+      213: 6784622484230896007
+    second: FDR_Enchanted_Forest_Blue_27
+  - first:
+      213: 5879664078391399841
+    second: FDR_Enchanted_Forest_Blue_28
+  - first:
+      213: 5825962164439666176
+    second: FDR_Enchanted_Forest_Blue_29
+  - first:
+      213: 5055126137008861850
+    second: FDR_Enchanted_Forest_Blue_30
+  - first:
+      213: 6110007465607356365
+    second: FDR_Enchanted_Forest_Blue_31
+  - first:
+      213: -1501480686536092535
+    second: FDR_Enchanted_Forest_Blue_32
+  - first:
+      213: 8358235097935764668
+    second: FDR_Enchanted_Forest_Blue_33
+  - first:
+      213: 5579822934537907898
+    second: FDR_Enchanted_Forest_Blue_34
+  - first:
+      213: 2234150115247987876
+    second: FDR_Enchanted_Forest_Blue_35
+  - first:
+      213: -1009524901878938736
+    second: FDR_Enchanted_Forest_Blue_36
+  - first:
+      213: 1964344351681939594
+    second: FDR_Enchanted_Forest_Blue_37
+  - first:
+      213: 3065302440671261879
+    second: FDR_Enchanted_Forest_Blue_38
+  - first:
+      213: 113686074423302690
+    second: FDR_Enchanted_Forest_Blue_39
+  - first:
+      213: 8604930743034947731
+    second: FDR_Enchanted_Forest_Blue_40
+  - first:
+      213: 1722214602597422005
+    second: FDR_Enchanted_Forest_Blue_41
+  - first:
+      213: -5116994531617389591
+    second: FDR_Enchanted_Forest_Blue_42
+  - first:
+      213: -6740214137262019333
+    second: FDR_Enchanted_Forest_Blue_43
+  - first:
+      213: -5155761457845664266
+    second: FDR_Enchanted_Forest_Blue_44
+  - first:
+      213: -662031255121598456
+    second: FDR_Enchanted_Forest_Blue_45
+  - first:
+      213: 5069533383906354914
+    second: FDR_Enchanted_Forest_Blue_46
+  - first:
+      213: -1059075646410954051
+    second: FDR_Enchanted_Forest_Blue_47
+  - first:
+      213: 1016374312065221283
+    second: FDR_Enchanted_Forest_Blue_48
+  - first:
+      213: -3531563824203355030
+    second: FDR_Enchanted_Forest_Blue_49
+  - first:
+      213: -5126845112553124050
+    second: FDR_Enchanted_Forest_Blue_50
+  - first:
+      213: 6270613634241260143
+    second: FDR_Enchanted_Forest_Blue_51
+  - first:
+      213: -4126019176950844074
+    second: FDR_Enchanted_Forest_Blue_52
+  - first:
+      213: 6687841243528094890
+    second: FDR_Enchanted_Forest_Blue_53
+  - first:
+      213: 6365213291509966219
+    second: FDR_Enchanted_Forest_Blue_54
+  - first:
+      213: -7008587291124083801
+    second: FDR_Enchanted_Forest_Blue_55
+  - first:
+      213: -2433758580989343206
+    second: FDR_Enchanted_Forest_Blue_56
+  - first:
+      213: 5661813741475303380
+    second: FDR_Enchanted_Forest_Blue_57
+  - first:
+      213: -1165175589863158794
+    second: FDR_Enchanted_Forest_Blue_58
+  - first:
+      213: -4096989575868422536
+    second: FDR_Enchanted_Forest_Blue_59
+  - first:
+      213: -1712327458839043051
+    second: FDR_Enchanted_Forest_Blue_60
+  - first:
+      213: 5150817753742437601
+    second: FDR_Enchanted_Forest_Blue_61
+  - first:
+      213: 8619329996458901102
+    second: FDR_Enchanted_Forest_Blue_62
+  - first:
+      213: -5391823101938377301
+    second: FDR_Enchanted_Forest_Blue_63
+  - first:
+      213: -419959738372147940
+    second: FDR_Enchanted_Forest_Blue_64
+  - first:
+      213: -7783932735988511733
+    second: FDR_Enchanted_Forest_Blue_65
+  - first:
+      213: 8996170658457154119
+    second: FDR_Enchanted_Forest_Blue_66
+  - first:
+      213: 1349808043331150224
+    second: FDR_Enchanted_Forest_Blue_67
+  - first:
+      213: -7197629772746633138
+    second: FDR_Enchanted_Forest_Blue_68
+  - first:
+      213: 453827857427149424
+    second: FDR_Enchanted_Forest_Blue_69
+  - first:
+      213: -7040505693556368770
+    second: FDR_Enchanted_Forest_Blue_70
+  - first:
+      213: 7400814725975450598
+    second: FDR_Enchanted_Forest_Blue_71
+  - first:
+      213: -4380436876120677017
+    second: FDR_Enchanted_Forest_Blue_72
+  - first:
+      213: -2881244627154621633
+    second: FDR_Enchanted_Forest_Blue_73
+  - first:
+      213: 8932843084585109079
+    second: FDR_Enchanted_Forest_Blue_74
+  - first:
+      213: -467830099526591922
+    second: FDR_Enchanted_Forest_Blue_75
+  - first:
+      213: 9171905940646941415
+    second: FDR_Enchanted_Forest_Blue_76
+  - first:
+      213: -135600618689243848
+    second: FDR_Enchanted_Forest_Blue_77
+  - first:
+      213: 1505970770894315567
+    second: FDR_Enchanted_Forest_Blue_78
+  - first:
+      213: 6382739691384952141
+    second: FDR_Enchanted_Forest_Blue_79
+  - first:
+      213: 1643431748662968387
+    second: FDR_Enchanted_Forest_Blue_80
+  - first:
+      213: -2988096861590222425
+    second: FDR_Enchanted_Forest_Blue_81
+  - first:
+      213: 7501719319440848209
+    second: FDR_Enchanted_Forest_Blue_82
+  - first:
+      213: 7648864636926110093
+    second: FDR_Enchanted_Forest_Blue_83
+  - first:
+      213: -5348476375286841404
+    second: FDR_Enchanted_Forest_Blue_84
+  - first:
+      213: 1782336944439798368
+    second: FDR_Enchanted_Forest_Blue_85
+  - first:
+      213: -1640329041954605707
+    second: FDR_Enchanted_Forest_Blue_86
+  - first:
+      213: -8826729919959533412
+    second: FDR_Enchanted_Forest_Blue_87
+  - first:
+      213: 5017893861081933498
+    second: FDR_Enchanted_Forest_Blue_88
+  - first:
+      213: -5343247843285560184
+    second: FDR_Enchanted_Forest_Blue_89
+  - first:
+      213: 6042397194900771602
+    second: FDR_Enchanted_Forest_Blue_90
+  - first:
+      213: 3345141243249779245
+    second: FDR_Enchanted_Forest_Blue_91
+  - first:
+      213: -5418565896157237429
+    second: FDR_Enchanted_Forest_Blue_92
+  - first:
+      213: 5498303321051266301
+    second: FDR_Enchanted_Forest_Blue_93
+  - first:
+      213: 175520658482346783
+    second: FDR_Enchanted_Forest_Blue_94
+  - first:
+      213: -8552331831148612579
+    second: FDR_Enchanted_Forest_Blue_95
+  - first:
+      213: -6644471368979713296
+    second: FDR_Enchanted_Forest_Blue_96
+  - first:
+      213: 7781330089562645141
+    second: FDR_Enchanted_Forest_Blue_97
+  - first:
+      213: 3432162557131272943
+    second: FDR_Enchanted_Forest_Blue_98
+  - first:
+      213: 5797485151306671794
+    second: FDR_Enchanted_Forest_Blue_99
+  - first:
+      213: -4818520201011857824
+    second: FDR_Enchanted_Forest_Blue_100
+  - first:
+      213: -8180505902535471381
+    second: FDR_Enchanted_Forest_Blue_101
+  - first:
+      213: -4468774697507745934
+    second: FDR_Enchanted_Forest_Blue_102
+  - first:
+      213: 2995428685914362164
+    second: FDR_Enchanted_Forest_Blue_103
+  - first:
+      213: 7330429959720353691
+    second: FDR_Enchanted_Forest_Blue_104
+  - first:
+      213: -7054607073253180121
+    second: FDR_Enchanted_Forest_Blue_105
+  - first:
+      213: 6414718010830045849
+    second: FDR_Enchanted_Forest_Blue_106
+  - first:
+      213: 3384338816985422256
+    second: FDR_Enchanted_Forest_Blue_107
+  - first:
+      213: -677000744253466147
+    second: FDR_Enchanted_Forest_Blue_108
+  - first:
+      213: 6828647765004051246
+    second: FDR_Enchanted_Forest_Blue_109
+  - first:
+      213: 2056404991379196126
+    second: FDR_Enchanted_Forest_Blue_110
+  - first:
+      213: -3705773811245865914
+    second: FDR_Enchanted_Forest_Blue_111
+  - first:
+      213: 5305192644012547763
+    second: FDR_Enchanted_Forest_Blue_112
+  - first:
+      213: -2230730158026337716
+    second: FDR_Enchanted_Forest_Blue_113
+  - first:
+      213: -7415313776104793724
+    second: FDR_Enchanted_Forest_Blue_114
+  - first:
+      213: 8995760383455778741
+    second: FDR_Enchanted_Forest_Blue_115
+  - first:
+      213: -269958925975930715
+    second: FDR_Enchanted_Forest_Blue_116
+  - first:
+      213: -4749260726346929499
+    second: FDR_Enchanted_Forest_Blue_117
+  - first:
+      213: -1405612295883828211
+    second: FDR_Enchanted_Forest_Blue_118
+  - first:
+      213: 198170466719251619
+    second: FDR_Enchanted_Forest_Blue_119
+  - first:
+      213: 5198208642651079621
+    second: FDR_Enchanted_Forest_Blue_120
+  - first:
+      213: -4578917574617139726
+    second: FDR_Enchanted_Forest_Blue_121
+  - first:
+      213: 8568363533128805584
+    second: FDR_Enchanted_Forest_Blue_122
+  - first:
+      213: 9166706495416686453
+    second: FDR_Enchanted_Forest_Blue_123
+  - first:
+      213: -8133018649148445499
+    second: FDR_Enchanted_Forest_Blue_124
+  - first:
+      213: -553813271857948142
+    second: FDR_Enchanted_Forest_Blue_125
+  - first:
+      213: -2653324910005288344
+    second: FDR_Enchanted_Forest_Blue_126
+  - first:
+      213: -5389736270187234746
+    second: FDR_Enchanted_Forest_Blue_127
+  - first:
+      213: -2577858841385607577
+    second: FDR_Enchanted_Forest_Blue_128
+  - first:
+      213: -1169359085340039723
+    second: FDR_Enchanted_Forest_Blue_129
+  - first:
+      213: 8922619939983968900
+    second: FDR_Enchanted_Forest_Blue_130
+  - first:
+      213: 2464556228685495092
+    second: FDR_Enchanted_Forest_Blue_131
+  - first:
+      213: -1374450316113179272
+    second: FDR_Enchanted_Forest_Blue_132
+  - first:
+      213: 6789947054057101428
+    second: FDR_Enchanted_Forest_Blue_133
+  - first:
+      213: -206462982800849222
+    second: FDR_Enchanted_Forest_Blue_134
+  - first:
+      213: 8981569045055720035
+    second: FDR_Enchanted_Forest_Blue_135
+  - first:
+      213: 3549335196464499823
+    second: FDR_Enchanted_Forest_Blue_136
+  - first:
+      213: -4891488167632184622
+    second: FDR_Enchanted_Forest_Blue_137
+  - first:
+      213: -5466300829244060415
+    second: FDR_Enchanted_Forest_Blue_138
+  - first:
+      213: 3919656705392081659
+    second: FDR_Enchanted_Forest_Blue_139
+  - first:
+      213: -1965790854249906596
+    second: FDR_Enchanted_Forest_Blue_140
+  - first:
+      213: -154296856744030790
+    second: FDR_Enchanted_Forest_Blue_141
+  - first:
+      213: -2678893079256826577
+    second: FDR_Enchanted_Forest_Blue_142
+  - first:
+      213: -6628230195119547326
+    second: FDR_Enchanted_Forest_Blue_143
+  - first:
+      213: -742835270162374751
+    second: FDR_Enchanted_Forest_Blue_144
+  - first:
+      213: 7570668847955687076
+    second: FDR_Enchanted_Forest_Blue_145
+  - first:
+      213: -4965274142379918618
+    second: FDR_Enchanted_Forest_Blue_146
+  - first:
+      213: 1810653367836407640
+    second: FDR_Enchanted_Forest_Blue_147
+  - first:
+      213: -6932004077252574339
+    second: FDR_Enchanted_Forest_Blue_148
+  - first:
+      213: 8238892329996858480
+    second: FDR_Enchanted_Forest_Blue_149
+  - first:
+      213: -4219156329788731836
+    second: FDR_Enchanted_Forest_Blue_150
+  - first:
+      213: -4008335340625435010
+    second: FDR_Enchanted_Forest_Blue_151
+  - first:
+      213: -7014162015944054898
+    second: FDR_Enchanted_Forest_Blue_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67232e3465cd878d0800000000000000
+      internalID: -2848284501247643018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acdc66462738af50800000000000000
+      internalID: 6892819867220368546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8858a62f1d89f0800000000000000
+      internalID: -464680935655699958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 481
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575e0032b10d0edc0800000000000000
+      internalID: -3611658086181182091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6210beca4a9ef0330800000000000000
+      internalID: 3679416314069975334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ee481156bf20c60800000000000000
+      internalID: 7783059517553831498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ebf103533db6480800000000000000
+      internalID: -8904791612800909783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 416
+        width: 194
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe52d28bb069f4f0800000000000000
+      internalID: -794497500784206094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547b5435315e1a70800000000000000
+      internalID: 8799560010882053201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 482
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb81c600b840b9f90800000000000000
+      internalID: -6945953005234808644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4a862861796a140800000000000000
+      internalID: 4730634581532255481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 481
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4c24e35448e1350800000000000000
+      internalID: 5989369987381511409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf40a906922c5f200800000000000000
+      internalID: 213290040340120827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b81f82dd5e601bc0800000000000000
+      internalID: -3814427535139202896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 480
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eccbe69678600030800000000000000
+      internalID: 3458879372368006376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 416
+        width: 193
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba602935a786414e0800000000000000
+      internalID: -2011868258930391381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d4c40f5c3fa790800000000000000
+      internalID: -7516722874258501146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276a8cb6e44ecba0800000000000000
+      internalID: -6066835890225125585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c3205511d734b00800000000000000
+      internalID: 811629871250947120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 464
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22f6e42db2fb460800000000000000
+      internalID: 7259569306603561705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 464
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985c3fcb01ea3f40800000000000000
+      internalID: 5709122918483253402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76449f1a63416e0800000000000000
+      internalID: -1867807876152268805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd77dca1904a6870800000000000000
+      internalID: 8676818626496921041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 434
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48376f34119bd540800000000000000
+      internalID: 5033776524665763918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 434
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceae4048cf330c20800000000000000
+      internalID: 3171448691903868610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 434
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046274f56a0705200800000000000000
+      internalID: 166757046078088768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 416
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c754d1595f1a460800000000000000
+      internalID: 7251346895833234544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 416
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f5b3f332d72e50800000000000000
+      internalID: 6784622484230896007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 399
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5d427d353c89150800000000000000
+      internalID: 5879664078391399841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 393
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eca46a8b9f9d050800000000000000
+      internalID: 5825962164439666176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 416
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b43b307a672640800000000000000
+      internalID: 5055126137008861850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 416
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd282fa6b1bc450800000000000000
+      internalID: 6110007465607356365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 399
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98418e1554ba92be0800000000000000
+      internalID: -1501480686536092535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 393
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd9a9a98a6ef370800000000000000
+      internalID: 8358235097935764668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea5b255638f6d40800000000000000
+      internalID: 5579822934537907898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac114a51bb410f10800000000000000
+      internalID: 2234150115247987876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093489f43727df1f0800000000000000
+      internalID: -1009524901878938736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 368
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a880c82c7c0c24b10800000000000000
+      internalID: 1964344351681939594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4395144542a8a20800000000000000
+      internalID: 3065302440671261879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad8e1e1e4e39100800000000000000
+      internalID: 113686074423302690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398af6f7beada6770800000000000000
+      internalID: 8604930743034947731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35fce6e0986e710800000000000000
+      internalID: 1722214602597422005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 387
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34451a598ccf8b0800000000000000
+      internalID: -5116994531617389591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 387
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc6e6e04f2f572a0800000000000000
+      internalID: -6740214137262019333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 388
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5857e354e0378b0800000000000000
+      internalID: -5155761457845664266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8086540c41effc6f0800000000000000
+      internalID: -662031255121598456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 384
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6e8bcc0c99a5640800000000000000
+      internalID: 5069533383906354914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba68619f486d41f0800000000000000
+      internalID: -1059075646410954051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 383
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2ca754d03ea1e00800000000000000
+      internalID: 1016374312065221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 391
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2db4b96d5dfec0800000000000000
+      internalID: -3531563824203355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc2d78889c9d8b0800000000000000
+      internalID: -5126845112553124050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aeba090e1b50750800000000000000
+      internalID: 6270613634241260143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 368
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655356d4b6f6db6c0800000000000000
+      internalID: -4126019176950844074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4e2b26d2cffcc50800000000000000
+      internalID: 6687841243528094890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85eb08a3c7c55850800000000000000
+      internalID: 6365213291509966219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a35b37edfe7cbe90800000000000000
+      internalID: -7008587291124083801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a4217177d893ed0800000000000000
+      internalID: -2433758580989343206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8f0da99dc29e40800000000000000
+      internalID: 5661813741475303380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 387
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb004179f674dfe0800000000000000
+      internalID: -1165175589863158794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 388
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87662e100b19427c0800000000000000
+      internalID: -4096989575868422536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 387
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51460cc9f379c38e0800000000000000
+      internalID: -1712327458839043051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 384
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece792f4716b7740800000000000000
+      internalID: 5150817753742437601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 384
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3dc0f6f20e9770800000000000000
+      internalID: 8619329996458901102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 383
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd735b4756c25b0800000000000000
+      internalID: -5391823101938377301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 193
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bc5ec7d00c2af0800000000000000
+      internalID: -419959738372147940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 338
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccedbea6ae9f390800000000000000
+      internalID: -7783932735988511733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 338
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7427124dc81d8dc70800000000000000
+      internalID: 8996170658457154119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 272
+        width: 194
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e7b9834b7bb210800000000000000
+      internalID: 1349808043331150224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4059aa3bd1ec1c90800000000000000
+      internalID: -7197629772746633138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 338
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723f1728025c4600800000000000000
+      internalID: 453827857427149424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1578bf591b4e90800000000000000
+      internalID: -7040505693556368770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 274
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32f3638c9f4b660800000000000000
+      internalID: 7400814725975450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 320
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652ec5aedf8533c0800000000000000
+      internalID: -4380436876120677017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_73
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 320
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b227fe643c308d0800000000000000
+      internalID: -2881244627154621633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_74
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 274
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756000b0575d7fb70800000000000000
+      internalID: 8932843084585109079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_75
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 320
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5b7ec00fe189f0800000000000000
+      internalID: -467830099526591922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 274
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e25e81bbd7294f70800000000000000
+      internalID: 9171905940646941415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 274
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83554bba4ff3e1ef0800000000000000
+      internalID: -135600618689243848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e649ef6846e410800000000000000
+      internalID: 1505970770894315567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4559ce9eeb049850800000000000000
+      internalID: 6382739691384952141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_80
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 256
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c7a7d774aec610800000000000000
+      internalID: 1643431748662968387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9847a6cb52886d0800000000000000
+      internalID: -2988096861590222425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_82
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f4f7a9f57b1860800000000000000
+      internalID: 7501719319440848209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d892703acd9362a60800000000000000
+      internalID: 7648864636926110093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf7579f21566c5b0800000000000000
+      internalID: -5348476375286841404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa36bf1022cb810800000000000000
+      internalID: 1782336944439798368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f98b5d616c39e0800000000000000
+      internalID: -1640329041954605707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_87
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ff7067e7218580800000000000000
+      internalID: -8826729919959533412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_88
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6e66671e323a540800000000000000
+      internalID: 5017893861081933498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_89
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 256
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88497127568f8d5b0800000000000000
+      internalID: -5343247843285560184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21390e91c38ead350800000000000000
+      internalID: 6042397194900771602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d226967cc345c6e20800000000000000
+      internalID: 3345141243249779245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6087b6036dc4b0800000000000000
+      internalID: -5418565896157237429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7c9e3db5ed4c40800000000000000
+      internalID: 5498303321051266301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b3593eb139f6200800000000000000
+      internalID: 175520658482346783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_95
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fe130383005980800000000000000
+      internalID: -8552331831148612579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2f5bb6e781ac3a0800000000000000
+      internalID: -6644471368979713296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 194
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592a07c3d76dcfb60800000000000000
+      internalID: 7781330089562645141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 242
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2b43d49ad71af20800000000000000
+      internalID: 3432162557131272943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66c3a570ec47050800000000000000
+      internalID: 5797485151306671794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f4a3286d212db0800000000000000
+      internalID: -4818520201011857824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 208
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee036c4931097e80800000000000000
+      internalID: -8180505902535471381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0cc5d619bbf1c0800000000000000
+      internalID: -4468774697507745934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_103
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 178
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d0f5f486e19920800000000000000
+      internalID: 2995428685914362164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 175
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f3308c53beab560800000000000000
+      internalID: 7330429959720353691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_105
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 176
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d39c86e30091e90800000000000000
+      internalID: -7054607073253180121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 175
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99243d15b08a50950800000000000000
+      internalID: 6414718010830045849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_107
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 175
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95bf9193697fe20800000000000000
+      internalID: 3384338816985422256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_108
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 175
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9d816f86fca96f0800000000000000
+      internalID: -677000744253466147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23e45966fa34ce50800000000000000
+      internalID: 6828647765004051246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_110
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed84f71c171d98c10800000000000000
+      internalID: 2056404991379196126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_111
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644aeba4a52729cc0800000000000000
+      internalID: -3705773811245865914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_112
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be12630a94df9940800000000000000
+      internalID: 5305192644012547763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_113
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 114
+        width: 249
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42d61d7dbada01e0800000000000000
+      internalID: -2230730158026337716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489963d9863871990800000000000000
+      internalID: -7415313776104793724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d96c386c57dc70800000000000000
+      internalID: 8995760383455778741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8324189c9e04cf0800000000000000
+      internalID: -269958925975930715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_117
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa064388c371eb0800000000000000
+      internalID: -4749260726346929499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045ceb60134e7ce0800000000000000
+      internalID: -1405612295883828211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac36c15dfa00c200800000000000000
+      internalID: 198170466719251619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_120
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3459d183fb32840800000000000000
+      internalID: 5198208642651079621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_121
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f62dd9ba6470c0800000000000000
+      internalID: -4578917574617139726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_122
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcad8a7c31f8e670800000000000000
+      internalID: 8568363533128805584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d3938dfea63f70800000000000000
+      internalID: 9166706495416686453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_124
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 128
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc21e111a6b12f80800000000000000
+      internalID: -8133018649148445499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a920373c57058f0800000000000000
+      internalID: -553813271857948142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_126
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86280716d0f7d2bd0800000000000000
+      internalID: -2653324910005288344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a73761b6fc335b0800000000000000
+      internalID: -5389736270187234746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 193
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e5c16ba0b993cd0800000000000000
+      internalID: -2577858841385607577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_129
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56e6f7b1a95cfe0800000000000000
+      internalID: -1169359085340039723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_130
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48acf84bf8383db70800000000000000
+      internalID: 8922619939983968900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_131
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 82
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b76cb05dcd33220800000000000000
+      internalID: 2464556228685495092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_132
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d86aa38b8fcece0800000000000000
+      internalID: -1374450316113179272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 96
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47898c8fedcba3e50800000000000000
+      internalID: 6789947054057101428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_134
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 95
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab643e2d20f722df0800000000000000
+      internalID: -206462982800849222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_135
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 95
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ac038c571f4ac70800000000000000
+      internalID: 8981569045055720035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_136
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 95
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cce065e85c14130800000000000000
+      internalID: 3549335196464499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_137
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dad1418d61fd1cb0800000000000000
+      internalID: -4891488167632184622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_138
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 18
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0c758b5cc324b0800000000000000
+      internalID: -5466300829244060415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7f5e910b656630800000000000000
+      internalID: 3919656705392081659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_140
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 242
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef8bd12ab18b4e0800000000000000
+      internalID: -1965790854249906596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd00d783d3dbddf0800000000000000
+      internalID: -154296856744030790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_142
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df4a310f8a2dad0800000000000000
+      internalID: -2678893079256826577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_143
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c916261cbc304a0800000000000000
+      internalID: -6628230195119547326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_144
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af175be14be0b5f0800000000000000
+      internalID: -742835270162374751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_145
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b382c43b601960800000000000000
+      internalID: 7570668847955687076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_146
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea3303897dc71bb0800000000000000
+      internalID: -4965274142379918618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f04115abb02910800000000000000
+      internalID: 1810653367836407640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_148
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730dc1e4039ccf90800000000000000
+      internalID: -6932004077252574339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_149
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07437203cec665270800000000000000
+      internalID: 8238892329996858480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e0a1f0cab8275c0800000000000000
+      internalID: -4219156329788731836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_151
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e766069ae388f58c0800000000000000
+      internalID: -4008335340625435010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Enchanted_Forest_Blue_152
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ed922fc0b8ae90800000000000000
+      internalID: -7014162015944054898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Enchanted_Forest_Blue_0: -2848284501247643018
+      FDR_Enchanted_Forest_Blue_1: 6892819867220368546
+      FDR_Enchanted_Forest_Blue_10: 4730634581532255481
+      FDR_Enchanted_Forest_Blue_100: -4818520201011857824
+      FDR_Enchanted_Forest_Blue_101: -8180505902535471381
+      FDR_Enchanted_Forest_Blue_102: -4468774697507745934
+      FDR_Enchanted_Forest_Blue_103: 2995428685914362164
+      FDR_Enchanted_Forest_Blue_104: 7330429959720353691
+      FDR_Enchanted_Forest_Blue_105: -7054607073253180121
+      FDR_Enchanted_Forest_Blue_106: 6414718010830045849
+      FDR_Enchanted_Forest_Blue_107: 3384338816985422256
+      FDR_Enchanted_Forest_Blue_108: -677000744253466147
+      FDR_Enchanted_Forest_Blue_109: 6828647765004051246
+      FDR_Enchanted_Forest_Blue_11: 5989369987381511409
+      FDR_Enchanted_Forest_Blue_110: 2056404991379196126
+      FDR_Enchanted_Forest_Blue_111: -3705773811245865914
+      FDR_Enchanted_Forest_Blue_112: 5305192644012547763
+      FDR_Enchanted_Forest_Blue_113: -2230730158026337716
+      FDR_Enchanted_Forest_Blue_114: -7415313776104793724
+      FDR_Enchanted_Forest_Blue_115: 8995760383455778741
+      FDR_Enchanted_Forest_Blue_116: -269958925975930715
+      FDR_Enchanted_Forest_Blue_117: -4749260726346929499
+      FDR_Enchanted_Forest_Blue_118: -1405612295883828211
+      FDR_Enchanted_Forest_Blue_119: 198170466719251619
+      FDR_Enchanted_Forest_Blue_12: 213290040340120827
+      FDR_Enchanted_Forest_Blue_120: 5198208642651079621
+      FDR_Enchanted_Forest_Blue_121: -4578917574617139726
+      FDR_Enchanted_Forest_Blue_122: 8568363533128805584
+      FDR_Enchanted_Forest_Blue_123: 9166706495416686453
+      FDR_Enchanted_Forest_Blue_124: -8133018649148445499
+      FDR_Enchanted_Forest_Blue_125: -553813271857948142
+      FDR_Enchanted_Forest_Blue_126: -2653324910005288344
+      FDR_Enchanted_Forest_Blue_127: -5389736270187234746
+      FDR_Enchanted_Forest_Blue_128: -2577858841385607577
+      FDR_Enchanted_Forest_Blue_129: -1169359085340039723
+      FDR_Enchanted_Forest_Blue_13: -3814427535139202896
+      FDR_Enchanted_Forest_Blue_130: 8922619939983968900
+      FDR_Enchanted_Forest_Blue_131: 2464556228685495092
+      FDR_Enchanted_Forest_Blue_132: -1374450316113179272
+      FDR_Enchanted_Forest_Blue_133: 6789947054057101428
+      FDR_Enchanted_Forest_Blue_134: -206462982800849222
+      FDR_Enchanted_Forest_Blue_135: 8981569045055720035
+      FDR_Enchanted_Forest_Blue_136: 3549335196464499823
+      FDR_Enchanted_Forest_Blue_137: -4891488167632184622
+      FDR_Enchanted_Forest_Blue_138: -5466300829244060415
+      FDR_Enchanted_Forest_Blue_139: 3919656705392081659
+      FDR_Enchanted_Forest_Blue_14: 3458879372368006376
+      FDR_Enchanted_Forest_Blue_140: -1965790854249906596
+      FDR_Enchanted_Forest_Blue_141: -154296856744030790
+      FDR_Enchanted_Forest_Blue_142: -2678893079256826577
+      FDR_Enchanted_Forest_Blue_143: -6628230195119547326
+      FDR_Enchanted_Forest_Blue_144: -742835270162374751
+      FDR_Enchanted_Forest_Blue_145: 7570668847955687076
+      FDR_Enchanted_Forest_Blue_146: -4965274142379918618
+      FDR_Enchanted_Forest_Blue_147: 1810653367836407640
+      FDR_Enchanted_Forest_Blue_148: -6932004077252574339
+      FDR_Enchanted_Forest_Blue_149: 8238892329996858480
+      FDR_Enchanted_Forest_Blue_15: -2011868258930391381
+      FDR_Enchanted_Forest_Blue_150: -4219156329788731836
+      FDR_Enchanted_Forest_Blue_151: -4008335340625435010
+      FDR_Enchanted_Forest_Blue_152: -7014162015944054898
+      FDR_Enchanted_Forest_Blue_16: -7516722874258501146
+      FDR_Enchanted_Forest_Blue_17: -6066835890225125585
+      FDR_Enchanted_Forest_Blue_18: 811629871250947120
+      FDR_Enchanted_Forest_Blue_19: 7259569306603561705
+      FDR_Enchanted_Forest_Blue_2: -464680935655699958
+      FDR_Enchanted_Forest_Blue_20: 5709122918483253402
+      FDR_Enchanted_Forest_Blue_21: -1867807876152268805
+      FDR_Enchanted_Forest_Blue_22: 8676818626496921041
+      FDR_Enchanted_Forest_Blue_23: 5033776524665763918
+      FDR_Enchanted_Forest_Blue_24: 3171448691903868610
+      FDR_Enchanted_Forest_Blue_25: 166757046078088768
+      FDR_Enchanted_Forest_Blue_26: 7251346895833234544
+      FDR_Enchanted_Forest_Blue_27: 6784622484230896007
+      FDR_Enchanted_Forest_Blue_28: 5879664078391399841
+      FDR_Enchanted_Forest_Blue_29: 5825962164439666176
+      FDR_Enchanted_Forest_Blue_3: -3611658086181182091
+      FDR_Enchanted_Forest_Blue_30: 5055126137008861850
+      FDR_Enchanted_Forest_Blue_31: 6110007465607356365
+      FDR_Enchanted_Forest_Blue_32: -1501480686536092535
+      FDR_Enchanted_Forest_Blue_33: 8358235097935764668
+      FDR_Enchanted_Forest_Blue_34: 5579822934537907898
+      FDR_Enchanted_Forest_Blue_35: 2234150115247987876
+      FDR_Enchanted_Forest_Blue_36: -1009524901878938736
+      FDR_Enchanted_Forest_Blue_37: 1964344351681939594
+      FDR_Enchanted_Forest_Blue_38: 3065302440671261879
+      FDR_Enchanted_Forest_Blue_39: 113686074423302690
+      FDR_Enchanted_Forest_Blue_4: 3679416314069975334
+      FDR_Enchanted_Forest_Blue_40: 8604930743034947731
+      FDR_Enchanted_Forest_Blue_41: 1722214602597422005
+      FDR_Enchanted_Forest_Blue_42: -5116994531617389591
+      FDR_Enchanted_Forest_Blue_43: -6740214137262019333
+      FDR_Enchanted_Forest_Blue_44: -5155761457845664266
+      FDR_Enchanted_Forest_Blue_45: -662031255121598456
+      FDR_Enchanted_Forest_Blue_46: 5069533383906354914
+      FDR_Enchanted_Forest_Blue_47: -1059075646410954051
+      FDR_Enchanted_Forest_Blue_48: 1016374312065221283
+      FDR_Enchanted_Forest_Blue_49: -3531563824203355030
+      FDR_Enchanted_Forest_Blue_5: 7783059517553831498
+      FDR_Enchanted_Forest_Blue_50: -5126845112553124050
+      FDR_Enchanted_Forest_Blue_51: 6270613634241260143
+      FDR_Enchanted_Forest_Blue_52: -4126019176950844074
+      FDR_Enchanted_Forest_Blue_53: 6687841243528094890
+      FDR_Enchanted_Forest_Blue_54: 6365213291509966219
+      FDR_Enchanted_Forest_Blue_55: -7008587291124083801
+      FDR_Enchanted_Forest_Blue_56: -2433758580989343206
+      FDR_Enchanted_Forest_Blue_57: 5661813741475303380
+      FDR_Enchanted_Forest_Blue_58: -1165175589863158794
+      FDR_Enchanted_Forest_Blue_59: -4096989575868422536
+      FDR_Enchanted_Forest_Blue_6: -8904791612800909783
+      FDR_Enchanted_Forest_Blue_60: -1712327458839043051
+      FDR_Enchanted_Forest_Blue_61: 5150817753742437601
+      FDR_Enchanted_Forest_Blue_62: 8619329996458901102
+      FDR_Enchanted_Forest_Blue_63: -5391823101938377301
+      FDR_Enchanted_Forest_Blue_64: -419959738372147940
+      FDR_Enchanted_Forest_Blue_65: -7783932735988511733
+      FDR_Enchanted_Forest_Blue_66: 8996170658457154119
+      FDR_Enchanted_Forest_Blue_67: 1349808043331150224
+      FDR_Enchanted_Forest_Blue_68: -7197629772746633138
+      FDR_Enchanted_Forest_Blue_69: 453827857427149424
+      FDR_Enchanted_Forest_Blue_7: -794497500784206094
+      FDR_Enchanted_Forest_Blue_70: -7040505693556368770
+      FDR_Enchanted_Forest_Blue_71: 7400814725975450598
+      FDR_Enchanted_Forest_Blue_72: -4380436876120677017
+      FDR_Enchanted_Forest_Blue_73: -2881244627154621633
+      FDR_Enchanted_Forest_Blue_74: 8932843084585109079
+      FDR_Enchanted_Forest_Blue_75: -467830099526591922
+      FDR_Enchanted_Forest_Blue_76: 9171905940646941415
+      FDR_Enchanted_Forest_Blue_77: -135600618689243848
+      FDR_Enchanted_Forest_Blue_78: 1505970770894315567
+      FDR_Enchanted_Forest_Blue_79: 6382739691384952141
+      FDR_Enchanted_Forest_Blue_8: 8799560010882053201
+      FDR_Enchanted_Forest_Blue_80: 1643431748662968387
+      FDR_Enchanted_Forest_Blue_81: -2988096861590222425
+      FDR_Enchanted_Forest_Blue_82: 7501719319440848209
+      FDR_Enchanted_Forest_Blue_83: 7648864636926110093
+      FDR_Enchanted_Forest_Blue_84: -5348476375286841404
+      FDR_Enchanted_Forest_Blue_85: 1782336944439798368
+      FDR_Enchanted_Forest_Blue_86: -1640329041954605707
+      FDR_Enchanted_Forest_Blue_87: -8826729919959533412
+      FDR_Enchanted_Forest_Blue_88: 5017893861081933498
+      FDR_Enchanted_Forest_Blue_89: -5343247843285560184
+      FDR_Enchanted_Forest_Blue_9: -6945953005234808644
+      FDR_Enchanted_Forest_Blue_90: 6042397194900771602
+      FDR_Enchanted_Forest_Blue_91: 3345141243249779245
+      FDR_Enchanted_Forest_Blue_92: -5418565896157237429
+      FDR_Enchanted_Forest_Blue_93: 5498303321051266301
+      FDR_Enchanted_Forest_Blue_94: 175520658482346783
+      FDR_Enchanted_Forest_Blue_95: -8552331831148612579
+      FDR_Enchanted_Forest_Blue_96: -6644471368979713296
+      FDR_Enchanted_Forest_Blue_97: 7781330089562645141
+      FDR_Enchanted_Forest_Blue_98: 3432162557131272943
+      FDR_Enchanted_Forest_Blue_99: 5797485151306671794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

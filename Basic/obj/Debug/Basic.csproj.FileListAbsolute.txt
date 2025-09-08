@@ -1,0 +1,7 @@
+C:\Works\park eun sung\Basic\bin\Debug\Basic.exe.config
+C:\Works\park eun sung\Basic\bin\Debug\Basic.exe
+C:\Works\park eun sung\Basic\bin\Debug\Basic.pdb
+C:\Works\park eun sung\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Works\park eun sung\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Works\park eun sung\Basic\obj\Debug\Basic.exe
+C:\Works\park eun sung\Basic\obj\Debug\Basic.pdb

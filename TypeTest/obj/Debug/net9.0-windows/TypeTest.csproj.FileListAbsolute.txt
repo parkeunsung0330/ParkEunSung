@@ -1,0 +1,17 @@
+C:\Works\ParkEunSung\TypeTest\bin\Debug\net9.0-windows\TypeTest.exe
+C:\Works\ParkEunSung\TypeTest\bin\Debug\net9.0-windows\TypeTest.deps.json
+C:\Works\ParkEunSung\TypeTest\bin\Debug\net9.0-windows\TypeTest.runtimeconfig.json
+C:\Works\ParkEunSung\TypeTest\bin\Debug\net9.0-windows\TypeTest.dll
+C:\Works\ParkEunSung\TypeTest\bin\Debug\net9.0-windows\TypeTest.pdb
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.Form1.resources
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.csproj.GenerateResource.cache
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.AssemblyInfoInputs.cache
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.AssemblyInfo.cs
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.csproj.CoreCompileInputs.cache
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.dll
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\refint\TypeTest.dll
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.pdb
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.genruntimeconfig.cache
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\ref\TypeTest.dll
+C:\Works\ParkEunSung\TypeTest\obj\Debug\net9.0-windows\TypeTest.Properties.Resources.resources

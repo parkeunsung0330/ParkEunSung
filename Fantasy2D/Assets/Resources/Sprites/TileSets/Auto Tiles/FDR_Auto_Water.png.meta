@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: cef77cc9b1e429346b69f35b7e49b398
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6857190588575776772
+    second: FDR_Auto_Water_0
+  - first:
+      213: -2162848514675769112
+    second: FDR_Auto_Water_1
+  - first:
+      213: 1838818194124109042
+    second: FDR_Auto_Water_2
+  - first:
+      213: -5924304704297682604
+    second: FDR_Auto_Water_3
+  - first:
+      213: 4320403954436841235
+    second: FDR_Auto_Water_4
+  - first:
+      213: -6024824307686068647
+    second: FDR_Auto_Water_5
+  - first:
+      213: 7700491261961888073
+    second: FDR_Auto_Water_6
+  - first:
+      213: 5472855867238813937
+    second: FDR_Auto_Water_7
+  - first:
+      213: 1908147822701387183
+    second: FDR_Auto_Water_8
+  - first:
+      213: 6472643088504451482
+    second: FDR_Auto_Water_9
+  - first:
+      213: -5982324155105824830
+    second: FDR_Auto_Water_10
+  - first:
+      213: -2760212017652338286
+    second: FDR_Auto_Water_11
+  - first:
+      213: 7287133995643504254
+    second: FDR_Auto_Water_12
+  - first:
+      213: -4922748383820957156
+    second: FDR_Auto_Water_13
+  - first:
+      213: -1147234792620057342
+    second: FDR_Auto_Water_14
+  - first:
+      213: -4550391419386150205
+    second: FDR_Auto_Water_15
+  - first:
+      213: 3420831401755778887
+    second: FDR_Auto_Water_16
+  - first:
+      213: 6700014407150103526
+    second: FDR_Auto_Water_17
+  - first:
+      213: 3216183792208182785
+    second: FDR_Auto_Water_18
+  - first:
+      213: -8460321411301359179
+    second: FDR_Auto_Water_19
+  - first:
+      213: 6438830236765467638
+    second: FDR_Auto_Water_20
+  - first:
+      213: 1679130795606791416
+    second: FDR_Auto_Water_21
+  - first:
+      213: 5678438800087927655
+    second: FDR_Auto_Water_22
+  - first:
+      213: 7451701789625565329
+    second: FDR_Auto_Water_23
+  - first:
+      213: 5173281535906294266
+    second: FDR_Auto_Water_24
+  - first:
+      213: -1890365008798456033
+    second: FDR_Auto_Water_25
+  - first:
+      213: 7520914375592779811
+    second: FDR_Auto_Water_26
+  - first:
+      213: 5201379844052916787
+    second: FDR_Auto_Water_27
+  - first:
+      213: -7165968258872269360
+    second: FDR_Auto_Water_28
+  - first:
+      213: -8453586398533164877
+    second: FDR_Auto_Water_29
+  - first:
+      213: 2600557221027945780
+    second: FDR_Auto_Water_30
+  - first:
+      213: -3304820053408904126
+    second: FDR_Auto_Water_31
+  - first:
+      213: 1487142564809086854
+    second: FDR_Auto_Water_32
+  - first:
+      213: 5738915466736645748
+    second: FDR_Auto_Water_33
+  - first:
+      213: 6292344140634842864
+    second: FDR_Auto_Water_34
+  - first:
+      213: -4737131715955390918
+    second: FDR_Auto_Water_35
+  - first:
+      213: 6911179999952906280
+    second: FDR_Auto_Water_36
+  - first:
+      213: 269520456641916198
+    second: FDR_Auto_Water_37
+  - first:
+      213: 1402515157499022991
+    second: FDR_Auto_Water_38
+  - first:
+      213: -4571082258627680870
+    second: FDR_Auto_Water_39
+  - first:
+      213: 4904249936289486625
+    second: FDR_Auto_Water_40
+  - first:
+      213: -9131573751164820139
+    second: FDR_Auto_Water_41
+  - first:
+      213: 1355537262965539249
+    second: FDR_Auto_Water_42
+  - first:
+      213: -1701061583707155325
+    second: FDR_Auto_Water_43
+  - first:
+      213: -4449046602813440652
+    second: FDR_Auto_Water_44
+  - first:
+      213: 7446962396353610747
+    second: FDR_Auto_Water_45
+  - first:
+      213: 3457544347784271414
+    second: FDR_Auto_Water_46
+  - first:
+      213: 3830253999723523519
+    second: FDR_Auto_Water_47
+  - first:
+      213: -2007365287800868751
+    second: FDR_Auto_Water_48
+  - first:
+      213: 3071055024143606052
+    second: FDR_Auto_Water_49
+  - first:
+      213: -8354284219790238200
+    second: FDR_Auto_Water_50
+  - first:
+      213: 7043412950604273171
+    second: FDR_Auto_Water_51
+  - first:
+      213: -6221602036863120
+    second: FDR_Auto_Water_52
+  - first:
+      213: -5536930391028146024
+    second: FDR_Auto_Water_53
+  - first:
+      213: 1582886542774274148
+    second: FDR_Auto_Water_54
+  - first:
+      213: -1744282904635312969
+    second: FDR_Auto_Water_55
+  - first:
+      213: -8147821343700130407
+    second: FDR_Auto_Water_56
+  - first:
+      213: 6711804382044528776
+    second: FDR_Auto_Water_57
+  - first:
+      213: 8538058003467844143
+    second: FDR_Auto_Water_58
+  - first:
+      213: 8510328718963779460
+    second: FDR_Auto_Water_59
+  - first:
+      213: 6348630539884719323
+    second: FDR_Auto_Water_60
+  - first:
+      213: 8353370719442511064
+    second: FDR_Auto_Water_61
+  - first:
+      213: -2565276532995347178
+    second: FDR_Auto_Water_62
+  - first:
+      213: -6605314111085784955
+    second: FDR_Auto_Water_63
+  - first:
+      213: -6764458500537471748
+    second: FDR_Auto_Water_64
+  - first:
+      213: 7496162631912485513
+    second: FDR_Auto_Water_65
+  - first:
+      213: -8822252408664215620
+    second: FDR_Auto_Water_66
+  - first:
+      213: 5204912655746572430
+    second: FDR_Auto_Water_67
+  - first:
+      213: 1586225468974466574
+    second: FDR_Auto_Water_68
+  - first:
+      213: 1391863734175376777
+    second: FDR_Auto_Water_69
+  - first:
+      213: 3063183840061187837
+    second: FDR_Auto_Water_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Auto_Water_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 193
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40006356282a92f50800000000000000
+      internalID: 6857190588575776772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e005c33cb40cf1e0800000000000000
+      internalID: -2162848514675769112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4fa43b76bc48910800000000000000
+      internalID: 1838818194124109042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459392f7244a8cda0800000000000000
+      internalID: -5924304704297682604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f966e818825fb30800000000000000
+      internalID: 4320403954436841235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eab3a8636836ca0800000000000000
+      internalID: -6024824307686068647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ec39f004adda60800000000000000
+      internalID: 7700491261961888073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09ea13a6d73fb40800000000000000
+      internalID: 5472855867238813937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 193
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1d0fb55a1b7a10800000000000000
+      internalID: 1908147822701387183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f130789273d950800000000000000
+      internalID: 6472643088504451482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfadab60e38afca0800000000000000
+      internalID: -5982324155105824830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291711f4bc1c1b9d0800000000000000
+      internalID: -2760212017652338286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76010992c9112560800000000000000
+      internalID: 7287133995643504254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a39bf3d62eeabb0800000000000000
+      internalID: -4922748383820957156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d99efc8043410f0800000000000000
+      internalID: -1147234792620057342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c082fc13c9d0c0800000000000000
+      internalID: -4550391419386150205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f972a190c397f20800000000000000
+      internalID: 3420831401755778887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 193
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb6e28ea9b3bfc50800000000000000
+      internalID: 6700014407150103526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10effe27e1e22ac20800000000000000
+      internalID: 3216183792208182785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b140c94086e69a80800000000000000
+      internalID: -8460321411301359179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f333776cf15b5950800000000000000
+      internalID: 6438830236765467638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4df8bef887d4710800000000000000
+      internalID: 1679130795606791416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b4906c00eddce40800000000000000
+      internalID: 5678438800087927655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19046cefb43c96760800000000000000
+      internalID: 7451701789625565329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af928cec5203bc740800000000000000
+      internalID: 5173281535906294266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176db24a0314c5e0800000000000000
+      internalID: -1890365008798456033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 193
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320265fe6c7af5860800000000000000
+      internalID: 7520914375592779811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a96aaf8630f2840800000000000000
+      internalID: 5201379844052916787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a132e5dd5d8c90800000000000000
+      internalID: -7165968258872269360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06b55a5f3deaa80800000000000000
+      internalID: -8453586398533164877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9271a309071420800000000000000
+      internalID: 2600557221027945780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c89fdcbabe222d0800000000000000
+      internalID: -3304820053408904126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6871fc1984463a410800000000000000
+      internalID: 1487142564809086854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47635def539b4af40800000000000000
+      internalID: 5738915466736645748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6ec0b58a5e25750800000000000000
+      internalID: 6292344140634842864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 193
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360e308dc3524eb0800000000000000
+      internalID: -4737131715955390918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282afbc79179ef50800000000000000
+      internalID: 6911179999952906280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da7d56d678db300800000000000000
+      internalID: 269520456641916198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e84dada1cb67310800000000000000
+      internalID: 1402515157499022991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95286787e04090c0800000000000000
+      internalID: -4571082258627680870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127544e45556f0440800000000000000
+      internalID: 4904249936289486625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5552a81fd02264180800000000000000
+      internalID: -9131573751164820139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1cdde65f5dfc210800000000000000
+      internalID: 1355537262965539249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845212908d9468e0800000000000000
+      internalID: -1701061583707155325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 193
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7522dfafc142c0800000000000000
+      internalID: -4449046602813440652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3495208dce85760800000000000000
+      internalID: 7446962396353610747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63657d4f34aabff20800000000000000
+      internalID: 3457544347784271414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2a0d18bbc72530800000000000000
+      internalID: 3830253999723523519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170fd2ef7e76424e0800000000000000
+      internalID: -2007365287800868751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42122c7f5449e9a20800000000000000
+      internalID: 3071055024143606052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e50c6d3ce9f0c80800000000000000
+      internalID: -8354284219790238200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316572fc2ca3fb160800000000000000
+      internalID: 7043412950604273171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa8a46c75e9eff0800000000000000
+      internalID: -6221602036863120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890e3b0352fd823b0800000000000000
+      internalID: -5536930391028146024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688ec59cea87f510800000000000000
+      internalID: 1582886542774274148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4fc6990ff0bc7e0800000000000000
+      internalID: -1744282904635312969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995686b28af1dee80800000000000000
+      internalID: -8147821343700130407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880aca9568e152d50800000000000000
+      internalID: 6711804382044528776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab16084864d7670800000000000000
+      internalID: 8538058003467844143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48724a751e2ca1670800000000000000
+      internalID: 8510328718963779460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc660ce6ddda1850800000000000000
+      internalID: 6348630539884719323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4258949622de370800000000000000
+      internalID: 8353370719442511064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 193
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61daa2ca59e466cd0800000000000000
+      internalID: -2565276532995347178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5805bdaffc53554a0800000000000000
+      internalID: -6605314111085784955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca79955d0df12a0800000000000000
+      internalID: -6764458500537471748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98273b58238b70860800000000000000
+      internalID: 7496162631912485513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf2cb63d20119580800000000000000
+      internalID: -8822252408664215620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80a5bccb709b3840800000000000000
+      internalID: 5204912655746572430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0686ebe8a7630610800000000000000
+      internalID: 1586225468974466574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_69
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a54b11b4e05310800000000000000
+      internalID: 1391863734175376777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Auto_Water_70
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6609c197d928a20800000000000000
+      internalID: 3063183840061187837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Auto_Water_0: 6857190588575776772
+      FDR_Auto_Water_1: -2162848514675769112
+      FDR_Auto_Water_10: -5982324155105824830
+      FDR_Auto_Water_11: -2760212017652338286
+      FDR_Auto_Water_12: 7287133995643504254
+      FDR_Auto_Water_13: -4922748383820957156
+      FDR_Auto_Water_14: -1147234792620057342
+      FDR_Auto_Water_15: -4550391419386150205
+      FDR_Auto_Water_16: 3420831401755778887
+      FDR_Auto_Water_17: 6700014407150103526
+      FDR_Auto_Water_18: 3216183792208182785
+      FDR_Auto_Water_19: -8460321411301359179
+      FDR_Auto_Water_2: 1838818194124109042
+      FDR_Auto_Water_20: 6438830236765467638
+      FDR_Auto_Water_21: 1679130795606791416
+      FDR_Auto_Water_22: 5678438800087927655
+      FDR_Auto_Water_23: 7451701789625565329
+      FDR_Auto_Water_24: 5173281535906294266
+      FDR_Auto_Water_25: -1890365008798456033
+      FDR_Auto_Water_26: 7520914375592779811
+      FDR_Auto_Water_27: 5201379844052916787
+      FDR_Auto_Water_28: -7165968258872269360
+      FDR_Auto_Water_29: -8453586398533164877
+      FDR_Auto_Water_3: -5924304704297682604
+      FDR_Auto_Water_30: 2600557221027945780
+      FDR_Auto_Water_31: -3304820053408904126
+      FDR_Auto_Water_32: 1487142564809086854
+      FDR_Auto_Water_33: 5738915466736645748
+      FDR_Auto_Water_34: 6292344140634842864
+      FDR_Auto_Water_35: -4737131715955390918
+      FDR_Auto_Water_36: 6911179999952906280
+      FDR_Auto_Water_37: 269520456641916198
+      FDR_Auto_Water_38: 1402515157499022991
+      FDR_Auto_Water_39: -4571082258627680870
+      FDR_Auto_Water_4: 4320403954436841235
+      FDR_Auto_Water_40: 4904249936289486625
+      FDR_Auto_Water_41: -9131573751164820139
+      FDR_Auto_Water_42: 1355537262965539249
+      FDR_Auto_Water_43: -1701061583707155325
+      FDR_Auto_Water_44: -4449046602813440652
+      FDR_Auto_Water_45: 7446962396353610747
+      FDR_Auto_Water_46: 3457544347784271414
+      FDR_Auto_Water_47: 3830253999723523519
+      FDR_Auto_Water_48: -2007365287800868751
+      FDR_Auto_Water_49: 3071055024143606052
+      FDR_Auto_Water_5: -6024824307686068647
+      FDR_Auto_Water_50: -8354284219790238200
+      FDR_Auto_Water_51: 7043412950604273171
+      FDR_Auto_Water_52: -6221602036863120
+      FDR_Auto_Water_53: -5536930391028146024
+      FDR_Auto_Water_54: 1582886542774274148
+      FDR_Auto_Water_55: -1744282904635312969
+      FDR_Auto_Water_56: -8147821343700130407
+      FDR_Auto_Water_57: 6711804382044528776
+      FDR_Auto_Water_58: 8538058003467844143
+      FDR_Auto_Water_59: 8510328718963779460
+      FDR_Auto_Water_6: 7700491261961888073
+      FDR_Auto_Water_60: 6348630539884719323
+      FDR_Auto_Water_61: 8353370719442511064
+      FDR_Auto_Water_62: -2565276532995347178
+      FDR_Auto_Water_63: -6605314111085784955
+      FDR_Auto_Water_64: -6764458500537471748
+      FDR_Auto_Water_65: 7496162631912485513
+      FDR_Auto_Water_66: -8822252408664215620
+      FDR_Auto_Water_67: 5204912655746572430
+      FDR_Auto_Water_68: 1586225468974466574
+      FDR_Auto_Water_69: 1391863734175376777
+      FDR_Auto_Water_7: 5472855867238813937
+      FDR_Auto_Water_70: 3063183840061187837
+      FDR_Auto_Water_8: 1908147822701387183
+      FDR_Auto_Water_9: 6472643088504451482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

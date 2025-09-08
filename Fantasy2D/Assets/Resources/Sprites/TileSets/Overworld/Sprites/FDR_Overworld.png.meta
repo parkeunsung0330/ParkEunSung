@@ -1,0 +1,5538 @@
+fileFormatVersion: 2
+guid: e988d2f57f04156479067018b10579a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2129704638541020288
+    second: FDR_Overworld_0
+  - first:
+      213: 8249502798132959908
+    second: FDR_Overworld_1
+  - first:
+      213: 1585751733574223678
+    second: FDR_Overworld_2
+  - first:
+      213: 2714112321964685265
+    second: FDR_Overworld_3
+  - first:
+      213: 7802978804037923857
+    second: FDR_Overworld_4
+  - first:
+      213: 5838420016853633924
+    second: FDR_Overworld_5
+  - first:
+      213: 6345353026265083835
+    second: FDR_Overworld_6
+  - first:
+      213: -1820189203204030992
+    second: FDR_Overworld_7
+  - first:
+      213: -5536289462277096834
+    second: FDR_Overworld_8
+  - first:
+      213: 5021760449861368659
+    second: FDR_Overworld_9
+  - first:
+      213: 3789984641831087049
+    second: FDR_Overworld_10
+  - first:
+      213: -4116322446773177321
+    second: FDR_Overworld_11
+  - first:
+      213: 1418070000070355915
+    second: FDR_Overworld_12
+  - first:
+      213: 6979556881588496348
+    second: FDR_Overworld_13
+  - first:
+      213: 3823459116573454679
+    second: FDR_Overworld_14
+  - first:
+      213: -4952337366362808975
+    second: FDR_Overworld_15
+  - first:
+      213: -7057429088466991624
+    second: FDR_Overworld_16
+  - first:
+      213: -3345175626605619352
+    second: FDR_Overworld_17
+  - first:
+      213: -1476765148985778859
+    second: FDR_Overworld_18
+  - first:
+      213: -4194951793966343902
+    second: FDR_Overworld_19
+  - first:
+      213: 6670972875209487793
+    second: FDR_Overworld_20
+  - first:
+      213: -726193034823697772
+    second: FDR_Overworld_21
+  - first:
+      213: -6695371575132442387
+    second: FDR_Overworld_22
+  - first:
+      213: 827383778288519182
+    second: FDR_Overworld_23
+  - first:
+      213: -928865532582025104
+    second: FDR_Overworld_24
+  - first:
+      213: 6827826875215047425
+    second: FDR_Overworld_25
+  - first:
+      213: 3977173465608651128
+    second: FDR_Overworld_26
+  - first:
+      213: -9183941833995131123
+    second: FDR_Overworld_27
+  - first:
+      213: -8513645688393785938
+    second: FDR_Overworld_28
+  - first:
+      213: 2302503653555171983
+    second: FDR_Overworld_29
+  - first:
+      213: -6447280138646712568
+    second: FDR_Overworld_30
+  - first:
+      213: 3804814062297362771
+    second: FDR_Overworld_31
+  - first:
+      213: -1646765385201619952
+    second: FDR_Overworld_32
+  - first:
+      213: -300044379992309611
+    second: FDR_Overworld_33
+  - first:
+      213: -2260247377921538174
+    second: FDR_Overworld_34
+  - first:
+      213: -6851819107694152824
+    second: FDR_Overworld_35
+  - first:
+      213: 2369770461579889407
+    second: FDR_Overworld_36
+  - first:
+      213: -3690260968154435993
+    second: FDR_Overworld_37
+  - first:
+      213: 1778220695104394982
+    second: FDR_Overworld_38
+  - first:
+      213: -9031140450764496340
+    second: FDR_Overworld_39
+  - first:
+      213: -582759929956802884
+    second: FDR_Overworld_40
+  - first:
+      213: 7905300370315758781
+    second: FDR_Overworld_41
+  - first:
+      213: 3266753981772458316
+    second: FDR_Overworld_42
+  - first:
+      213: 7186734829355285266
+    second: FDR_Overworld_43
+  - first:
+      213: -1724273930730599521
+    second: FDR_Overworld_44
+  - first:
+      213: -9127263046176961339
+    second: FDR_Overworld_45
+  - first:
+      213: 2792692179285078968
+    second: FDR_Overworld_46
+  - first:
+      213: 9008137281684008911
+    second: FDR_Overworld_47
+  - first:
+      213: -9105605359043335453
+    second: FDR_Overworld_48
+  - first:
+      213: 661706103676998681
+    second: FDR_Overworld_49
+  - first:
+      213: -6011555846951277252
+    second: FDR_Overworld_50
+  - first:
+      213: -7262108162524384549
+    second: FDR_Overworld_51
+  - first:
+      213: 9179457391096735805
+    second: FDR_Overworld_52
+  - first:
+      213: -4472869745021842908
+    second: FDR_Overworld_53
+  - first:
+      213: -7646701476623883609
+    second: FDR_Overworld_54
+  - first:
+      213: 4531546599785262750
+    second: FDR_Overworld_55
+  - first:
+      213: -4399225981767344316
+    second: FDR_Overworld_56
+  - first:
+      213: 3578530192910326208
+    second: FDR_Overworld_57
+  - first:
+      213: 3817050439925903676
+    second: FDR_Overworld_58
+  - first:
+      213: 1966850376918906435
+    second: FDR_Overworld_59
+  - first:
+      213: 1640641745457345401
+    second: FDR_Overworld_60
+  - first:
+      213: 4548706560694271551
+    second: FDR_Overworld_61
+  - first:
+      213: -8566466758789977252
+    second: FDR_Overworld_62
+  - first:
+      213: -7742158613439016140
+    second: FDR_Overworld_63
+  - first:
+      213: 5854554548901448217
+    second: FDR_Overworld_64
+  - first:
+      213: -5434447034344176201
+    second: FDR_Overworld_65
+  - first:
+      213: -1273175481024439446
+    second: FDR_Overworld_66
+  - first:
+      213: 4788956806863760151
+    second: FDR_Overworld_67
+  - first:
+      213: -3341997763797261573
+    second: FDR_Overworld_68
+  - first:
+      213: 6646455277968236989
+    second: FDR_Overworld_69
+  - first:
+      213: 5426981921645262399
+    second: FDR_Overworld_70
+  - first:
+      213: -6480971825000628016
+    second: FDR_Overworld_71
+  - first:
+      213: -4350946909517153606
+    second: FDR_Overworld_72
+  - first:
+      213: 6034744319613772261
+    second: FDR_Overworld_73
+  - first:
+      213: -7355506970926156082
+    second: FDR_Overworld_74
+  - first:
+      213: -5635063364784956218
+    second: FDR_Overworld_75
+  - first:
+      213: -8223065343952836597
+    second: FDR_Overworld_76
+  - first:
+      213: 3234762057225068863
+    second: FDR_Overworld_77
+  - first:
+      213: 3101738593097253751
+    second: FDR_Overworld_78
+  - first:
+      213: -6070276894589391851
+    second: FDR_Overworld_79
+  - first:
+      213: -5159716776448168811
+    second: FDR_Overworld_80
+  - first:
+      213: -6900066082976042790
+    second: FDR_Overworld_81
+  - first:
+      213: -102745147101827694
+    second: FDR_Overworld_82
+  - first:
+      213: 9089894197292782322
+    second: FDR_Overworld_83
+  - first:
+      213: -3026782364074028629
+    second: FDR_Overworld_84
+  - first:
+      213: -492081434605963241
+    second: FDR_Overworld_85
+  - first:
+      213: 347555481149811411
+    second: FDR_Overworld_86
+  - first:
+      213: 1218170753708934600
+    second: FDR_Overworld_87
+  - first:
+      213: -7490766404692297579
+    second: FDR_Overworld_88
+  - first:
+      213: -1963241340419486353
+    second: FDR_Overworld_89
+  - first:
+      213: -1849085624479129013
+    second: FDR_Overworld_90
+  - first:
+      213: -7940982448152041581
+    second: FDR_Overworld_91
+  - first:
+      213: -6463185670014301978
+    second: FDR_Overworld_92
+  - first:
+      213: 7308299486326877310
+    second: FDR_Overworld_93
+  - first:
+      213: 7148368854351624881
+    second: FDR_Overworld_94
+  - first:
+      213: -6547273273381567577
+    second: FDR_Overworld_95
+  - first:
+      213: -3220348315207027777
+    second: FDR_Overworld_96
+  - first:
+      213: -2096615219516559313
+    second: FDR_Overworld_97
+  - first:
+      213: 8033834583907406165
+    second: FDR_Overworld_98
+  - first:
+      213: -5046769331946875861
+    second: FDR_Overworld_99
+  - first:
+      213: -7557950446482082811
+    second: FDR_Overworld_100
+  - first:
+      213: 7139874155866790877
+    second: FDR_Overworld_101
+  - first:
+      213: -2940162088090004256
+    second: FDR_Overworld_102
+  - first:
+      213: -4904306492569024382
+    second: FDR_Overworld_103
+  - first:
+      213: 5086769789198306498
+    second: FDR_Overworld_104
+  - first:
+      213: 1097107926341310426
+    second: FDR_Overworld_105
+  - first:
+      213: 7243371521539391794
+    second: FDR_Overworld_106
+  - first:
+      213: -6050419400406966848
+    second: FDR_Overworld_107
+  - first:
+      213: 1245796318923125394
+    second: FDR_Overworld_108
+  - first:
+      213: 2778512430382337786
+    second: FDR_Overworld_109
+  - first:
+      213: -3197339222046120895
+    second: FDR_Overworld_110
+  - first:
+      213: -7156986542700289351
+    second: FDR_Overworld_111
+  - first:
+      213: -1552418917754944133
+    second: FDR_Overworld_112
+  - first:
+      213: -3279483991297559476
+    second: FDR_Overworld_113
+  - first:
+      213: -1140505047972881501
+    second: FDR_Overworld_114
+  - first:
+      213: -7157866833184746441
+    second: FDR_Overworld_115
+  - first:
+      213: -2215470518662214480
+    second: FDR_Overworld_116
+  - first:
+      213: -7038015469622447086
+    second: FDR_Overworld_117
+  - first:
+      213: -5144703397337268356
+    second: FDR_Overworld_118
+  - first:
+      213: -4376202534984061919
+    second: FDR_Overworld_119
+  - first:
+      213: -3668387063391178300
+    second: FDR_Overworld_120
+  - first:
+      213: 7999325849843736196
+    second: FDR_Overworld_121
+  - first:
+      213: -6658360805891800586
+    second: FDR_Overworld_122
+  - first:
+      213: 6805813082382535057
+    second: FDR_Overworld_123
+  - first:
+      213: -1723664825838033435
+    second: FDR_Overworld_124
+  - first:
+      213: -5518335616603927188
+    second: FDR_Overworld_125
+  - first:
+      213: 1646397445852190306
+    second: FDR_Overworld_126
+  - first:
+      213: 2688932387643758784
+    second: FDR_Overworld_127
+  - first:
+      213: -2245381820501677203
+    second: FDR_Overworld_128
+  - first:
+      213: -8143168545545134450
+    second: FDR_Overworld_129
+  - first:
+      213: -8376213272600080739
+    second: FDR_Overworld_130
+  - first:
+      213: -683654383869221497
+    second: FDR_Overworld_131
+  - first:
+      213: 729568981347920415
+    second: FDR_Overworld_132
+  - first:
+      213: -6452436071057767013
+    second: FDR_Overworld_133
+  - first:
+      213: 8966433775177636899
+    second: FDR_Overworld_134
+  - first:
+      213: -1850557827831412505
+    second: FDR_Overworld_135
+  - first:
+      213: -7620277305312829031
+    second: FDR_Overworld_136
+  - first:
+      213: -851349877990618863
+    second: FDR_Overworld_137
+  - first:
+      213: 1456990008584272186
+    second: FDR_Overworld_138
+  - first:
+      213: 3788127975285582533
+    second: FDR_Overworld_139
+  - first:
+      213: -2348664543821653570
+    second: FDR_Overworld_140
+  - first:
+      213: -6521440868184322502
+    second: FDR_Overworld_141
+  - first:
+      213: 1127831156787338787
+    second: FDR_Overworld_142
+  - first:
+      213: -8489934926919284530
+    second: FDR_Overworld_143
+  - first:
+      213: 1000748146016593831
+    second: FDR_Overworld_144
+  - first:
+      213: 4070264089408307722
+    second: FDR_Overworld_145
+  - first:
+      213: 7632660349362183165
+    second: FDR_Overworld_146
+  - first:
+      213: -6072922353810745560
+    second: FDR_Overworld_147
+  - first:
+      213: -8595206400782637123
+    second: FDR_Overworld_148
+  - first:
+      213: 5168100987573097656
+    second: FDR_Overworld_149
+  - first:
+      213: 7928261919318710526
+    second: FDR_Overworld_150
+  - first:
+      213: 7102303728431661883
+    second: FDR_Overworld_151
+  - first:
+      213: -3058190159651739688
+    second: FDR_Overworld_152
+  - first:
+      213: -5020749540558245134
+    second: FDR_Overworld_153
+  - first:
+      213: -5317123961269120656
+    second: FDR_Overworld_154
+  - first:
+      213: -2476141211238794110
+    second: FDR_Overworld_155
+  - first:
+      213: 3532340591156299310
+    second: FDR_Overworld_156
+  - first:
+      213: 2960870701660508386
+    second: FDR_Overworld_157
+  - first:
+      213: 4319196105833087708
+    second: FDR_Overworld_158
+  - first:
+      213: -6197927804921108867
+    second: FDR_Overworld_159
+  - first:
+      213: -7134403991142869545
+    second: FDR_Overworld_160
+  - first:
+      213: 125194172284498584
+    second: FDR_Overworld_161
+  - first:
+      213: 8094336151566227702
+    second: FDR_Overworld_162
+  - first:
+      213: 1270787333913978286
+    second: FDR_Overworld_163
+  - first:
+      213: -6144254231170222831
+    second: FDR_Overworld_164
+  - first:
+      213: 9014628940530610663
+    second: FDR_Overworld_165
+  - first:
+      213: 6173133229011053002
+    second: FDR_Overworld_166
+  - first:
+      213: 2313855112796401463
+    second: FDR_Overworld_167
+  - first:
+      213: 7288031196085203156
+    second: FDR_Overworld_168
+  - first:
+      213: 3619769905724715638
+    second: FDR_Overworld_169
+  - first:
+      213: 591100460444120199
+    second: FDR_Overworld_170
+  - first:
+      213: 5612502996114754361
+    second: FDR_Overworld_171
+  - first:
+      213: 5896406932194261049
+    second: FDR_Overworld_172
+  - first:
+      213: -5404983528231651656
+    second: FDR_Overworld_173
+  - first:
+      213: 1087219343933569572
+    second: FDR_Overworld_174
+  - first:
+      213: -3389885627644275125
+    second: FDR_Overworld_175
+  - first:
+      213: 5751920449439880561
+    second: FDR_Overworld_176
+  - first:
+      213: 2747990584323492946
+    second: FDR_Overworld_177
+  - first:
+      213: 292526875382117265
+    second: FDR_Overworld_178
+  - first:
+      213: 1267249208288326791
+    second: FDR_Overworld_179
+  - first:
+      213: 5113924184638633633
+    second: FDR_Overworld_180
+  - first:
+      213: -1056374579334316850
+    second: FDR_Overworld_181
+  - first:
+      213: 608005465649501359
+    second: FDR_Overworld_182
+  - first:
+      213: 4214549571197079378
+    second: FDR_Overworld_183
+  - first:
+      213: 1622934952672822927
+    second: FDR_Overworld_184
+  - first:
+      213: 8056526535803288551
+    second: FDR_Overworld_185
+  - first:
+      213: -6831252782289453540
+    second: FDR_Overworld_186
+  - first:
+      213: 3435528495449857667
+    second: FDR_Overworld_187
+  - first:
+      213: 6635216798245388900
+    second: FDR_Overworld_188
+  - first:
+      213: -3625172098310204403
+    second: FDR_Overworld_189
+  - first:
+      213: -8558538750534891935
+    second: FDR_Overworld_190
+  - first:
+      213: 8497002740846192180
+    second: FDR_Overworld_191
+  - first:
+      213: -7672466685073569875
+    second: FDR_Overworld_192
+  - first:
+      213: -1106951977126153141
+    second: FDR_Overworld_193
+  - first:
+      213: -1107539530798405137
+    second: FDR_Overworld_194
+  - first:
+      213: 3920797778520077028
+    second: FDR_Overworld_195
+  - first:
+      213: -5569904478093927863
+    second: FDR_Overworld_196
+  - first:
+      213: 163275055465712230
+    second: FDR_Overworld_197
+  - first:
+      213: -2114035183583335797
+    second: FDR_Overworld_198
+  - first:
+      213: 2670207957346782082
+    second: FDR_Overworld_199
+  - first:
+      213: 300560926379376681
+    second: FDR_Overworld_200
+  - first:
+      213: -6953625737935821617
+    second: FDR_Overworld_201
+  - first:
+      213: -9186836507654588448
+    second: FDR_Overworld_202
+  - first:
+      213: 2294555533854309431
+    second: FDR_Overworld_203
+  - first:
+      213: 8320649411445845858
+    second: FDR_Overworld_204
+  - first:
+      213: -2064788997752135305
+    second: FDR_Overworld_205
+  - first:
+      213: 7782854419071963145
+    second: FDR_Overworld_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 97
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3db8c51b3e8d10800000000000000
+      internalID: 2129704638541020288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa5e40561f1c7270800000000000000
+      internalID: 8249502798132959908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37c6adccc8b10610800000000000000
+      internalID: 1585751733574223678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 338
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7373fd6c67aa520800000000000000
+      internalID: 2714112321964685265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 340
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114359c51efb94c60800000000000000
+      internalID: 7802978804037923857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 307
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b4712721c360150800000000000000
+      internalID: 5838420016853633924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 339
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfeaf055f83f0850800000000000000
+      internalID: 6345353026265083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 339
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb50f30936db6e0800000000000000
+      internalID: -1820189203204030992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 339
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a3c3b01162b23b0800000000000000
+      internalID: -5536289462277096834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 337
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb711d580e0b540800000000000000
+      internalID: 5021760449861368659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 337
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb278893fab89430800000000000000
+      internalID: 3789984641831087049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 337
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7143e1b3b82efd6c0800000000000000
+      internalID: -4116322446773177321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 336
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe4dcd62ffda310800000000000000
+      internalID: 1418070000070355915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 336
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd727b8210e5cd060800000000000000
+      internalID: 6979556881588496348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 336
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f6981fc7af0530800000000000000
+      internalID: 3823459116573454679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d1d066763c54bb0800000000000000
+      internalID: -4952337366362808975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58a6ac2a9fe0e90800000000000000
+      internalID: -7057429088466991624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 339
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86790e8bd7c8391d0800000000000000
+      internalID: -3345175626605619352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 339
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9606dbe9718be0800000000000000
+      internalID: -1476765148985778859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2299fb6b19988c5c0800000000000000
+      internalID: -4194951793966343902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5b0255c7e049c50800000000000000
+      internalID: 6670972875209487793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a78f8484b0ce5f0800000000000000
+      internalID: -726193034823697772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0bbf8a6034513a0800000000000000
+      internalID: -6695371575132442387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08cec5a9257b7b00800000000000000
+      internalID: 827383778288519182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078285e28b10c13f0800000000000000
+      internalID: -928865532582025104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 323
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bee0d1e5051ce50800000000000000
+      internalID: 6827826875215047425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87186bbe132c13730800000000000000
+      internalID: 3977173465608651128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 321
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07eed28f851c8080800000000000000
+      internalID: -9183941833995131123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 321
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead90c78a5479d980800000000000000
+      internalID: -8513645688393785938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f13cafd224ff10800000000000000
+      internalID: 2302503653555171983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 320
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f08808fd8a686a0800000000000000
+      internalID: -6447280138646712568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 320
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35135ab1b3a6dc430800000000000000
+      internalID: 3804814062297362771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 320
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce5aa6b938529e0800000000000000
+      internalID: -1646765385201619952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 322
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590c4b1e93706dbf0800000000000000
+      internalID: -300044379992309611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 321
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2878a7e2cfcf1a0e0800000000000000
+      internalID: -2260247377921538174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f7a4f2d279e0a0800000000000000
+      internalID: -6851819107694152824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 321
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffacea1edad13e020800000000000000
+      internalID: 2369770461579889407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6aa8833f89ccc0800000000000000
+      internalID: -3690260968154435993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e612fffc428da810800000000000000
+      internalID: 1778220695104394982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22658beb91faa280800000000000000
+      internalID: -9031140450764496340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 307
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed7996eee99e7f0800000000000000
+      internalID: -582759929956802884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 307
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4f6f7dc445bd60800000000000000
+      internalID: 7905300370315758781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 305
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e32c3077d55d20800000000000000
+      internalID: 3266753981772458316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 305
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b36a610496cb360800000000000000
+      internalID: 7186734829355285266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 304
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b065fdef52218e0800000000000000
+      internalID: -1724273930730599521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 304
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc82192e92755180800000000000000
+      internalID: -9127263046176961339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 307
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b37c41adb2a1c620800000000000000
+      internalID: 2792692179285078968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 307
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6aba6125530d70800000000000000
+      internalID: 9008137281684008911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 305
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea24556b2462a180800000000000000
+      internalID: -9105605359043335453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 305
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9141067023ade2900800000000000000
+      internalID: 661706103676998681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 305
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3deb0bcec9a29ca0800000000000000
+      internalID: -6011555846951277252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f44c3a1fc73b90800000000000000
+      internalID: -7262108162524384549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a723ccdbf36f70800000000000000
+      internalID: 9179457391096735805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 240
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a81694aac2de1c0800000000000000
+      internalID: -4472869745021842908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e06e558571e590800000000000000
+      internalID: -7646701476623883609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e64539f9943ee30800000000000000
+      internalID: 4531546599785262750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f9616174fc2f2c0800000000000000
+      internalID: -4399225981767344316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 277
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c91e66204e79a130800000000000000
+      internalID: 3578530192910326208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 277
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c313889c623e8f430800000000000000
+      internalID: 3817050439925903676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 192
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346389a3ff7ab4b10800000000000000
+      internalID: 1966850376918906435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97379a999fab4c610800000000000000
+      internalID: 1640641745457345401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ebba15480402f30800000000000000
+      internalID: 4548706560694271551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba126bedbcd1980800000000000000
+      internalID: -8566466758789977252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 256
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339c33c2c35e8490800000000000000
+      internalID: -7742158613439016140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0b6de75e8f3150800000000000000
+      internalID: 5854554548901448217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58d371737f494b0800000000000000
+      internalID: -5434447034344176201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 239
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b1dc445a5c45ee0800000000000000
+      internalID: -1273175481024439446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71badc5c7dac57240800000000000000
+      internalID: 4788956806863760151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 192
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2e6b09db6de91d0800000000000000
+      internalID: -3341997763797261573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db121d26cd3fc3c50800000000000000
+      internalID: 6646455277968236989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 258
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f12aed43805b40800000000000000
+      internalID: 5426981921645262399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 257
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c58b7676fe06a0800000000000000
+      internalID: -6480971825000628016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 243
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba75ad86d45e93c0800000000000000
+      internalID: -4350946909517153606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 242
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a2e83cf7bfb350800000000000000
+      internalID: 6034744319613772261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 241
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6790f816dfbe990800000000000000
+      internalID: -7355506970926156082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdc2fb9bb3cc1b0800000000000000
+      internalID: -5635063364784956218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08add823adc1ed80800000000000000
+      internalID: -8223065343952836597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31efc9d3fe24ec20800000000000000
+      internalID: 3234762057225068863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 241
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7738ea311d69b0b20800000000000000
+      internalID: 3101738593097253751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cecb9735b02cba0800000000000000
+      internalID: -6070276894589391851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 240
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cee2edde00568b0800000000000000
+      internalID: -5159716776448168811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 244
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0fd75a47a0e30a0800000000000000
+      internalID: -6900066082976042790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29da99445d9f29ef0800000000000000
+      internalID: -102745147101827694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 244
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25583bc9ac52e70800000000000000
+      internalID: 9089894197292782322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 244
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba153f8f975bef5d0800000000000000
+      internalID: -3026782364074028629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7183fb9da86cb29f0800000000000000
+      internalID: -492081434605963241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daaca16ed3c2d400800000000000000
+      internalID: 347555481149811411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5479aa8dfc7e010800000000000000
+      internalID: 1218170753708934600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598b2e884a37b0890800000000000000
+      internalID: -7490766404692297579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 209
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d4fef076a21c4e0800000000000000
+      internalID: -1963241340419486353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e3a1eb6ab656e0800000000000000
+      internalID: -1849085624479129013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397294a5986fbc190800000000000000
+      internalID: -7940982448152041581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_92
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 225
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8076560e62e46a0800000000000000
+      internalID: -6463185670014301978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ceeaa69ab4c6560800000000000000
+      internalID: 7308299486326877310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba381f699b143360800000000000000
+      internalID: 7148368854351624881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_95
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 213
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3cea495a96325a0800000000000000
+      internalID: -6547273273381567577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3be0bf4460f43d0800000000000000
+      internalID: -3220348315207027777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 214
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b902f09357e2e0800000000000000
+      internalID: -2096615219516559313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 212
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519c0e2df9ed7f60800000000000000
+      internalID: 8033834583907406165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_99
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 224
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2498f1180646f9b0800000000000000
+      internalID: -5046769331946875861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_100
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 209
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043e67dc14cc1790800000000000000
+      internalID: -7557950446482082811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb9e6157bde51360800000000000000
+      internalID: 7139874155866790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_102
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 212
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4135598227237d0800000000000000
+      internalID: -2940162088090004256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_103
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28808c8aa3760fbb0800000000000000
+      internalID: -4904306492569024382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_104
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 212
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8a532c26d79640800000000000000
+      internalID: 5086769789198306498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7d6d5a8d5b93f00800000000000000
+      internalID: 1097107926341310426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23149859500a58460800000000000000
+      internalID: 7243371521539391794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd5c90ac97980ca0800000000000000
+      internalID: -6050419400406966848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f6ebc625f94110800000000000000
+      internalID: 1245796318923125394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe42f095524f8620800000000000000
+      internalID: 2778512430382337786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446483fae4c0a3d0800000000000000
+      internalID: -3197339222046120895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 195
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b22914a8a64dac90800000000000000
+      internalID: -7156986542700289351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_112
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ce982833b47ae0800000000000000
+      internalID: -1552418917754944133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_113
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f0247faeec72d0800000000000000
+      internalID: -3279483991297559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_114
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab590793bc1c20f0800000000000000
+      internalID: -1140505047972881501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734197a0a062aac90800000000000000
+      internalID: -7157866833184746441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_116
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc9c42d411141e0800000000000000
+      internalID: -2215470518662214480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_117
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21433792832f35e90800000000000000
+      internalID: -7038015469622447086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_118
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f77f694875a98b0800000000000000
+      internalID: -5144703397337268356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_119
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6c150bfa9443c0800000000000000
+      internalID: -4376202534984061919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_120
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 175
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c13eebd665471dc0800000000000000
+      internalID: -3668387063391178300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_121
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e198a6a70530f60800000000000000
+      internalID: 7999325849843736196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18f62ef10c893a0800000000000000
+      internalID: -6658360805891800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1990e1f80fa137e50800000000000000
+      internalID: 6805813082382535057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 177
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5a61829ff4418e0800000000000000
+      internalID: -1723664825838033435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcfec7efeea63b0800000000000000
+      internalID: -5518335616603927188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_126
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266512701cd29d610800000000000000
+      internalID: 1646397445852190306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89c8e82c1015520800000000000000
+      internalID: 2688932387643758784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ba0eb712dc6d0e0800000000000000
+      internalID: -2245381820501677203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed5a82a57adfe80800000000000000
+      internalID: -8143168545545134450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e82cb5866b1cb80800000000000000
+      internalID: -8376213272600080739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7852654c5fb2386f0800000000000000
+      internalID: -683654383869221497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae2648f13ff1a00800000000000000
+      internalID: 729568981347920415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954fa074975476a0800000000000000
+      internalID: -6452436071057767013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_134
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1787230c2f6c70800000000000000
+      internalID: 8966433775177636899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_135
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84ac3d57f7156e0800000000000000
+      internalID: -1850557827831412505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_136
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991abde2a265f3690800000000000000
+      internalID: -7620277305312829031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_137
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190cceebc56f24f0800000000000000
+      internalID: -851349877990618863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 89
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3975fe71b4483410800000000000000
+      internalID: 1456990008584272186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_139
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 161
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caed9ab252229430800000000000000
+      internalID: 3788127975285582533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb994f88a0ed76fd0800000000000000
+      internalID: -2348664543821653570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_141
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e882c15103f75a0800000000000000
+      internalID: -6521440868184322502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_142
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e5dea267cd6af00800000000000000
+      internalID: 1127831156787338787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec84bc26a21bd2a80800000000000000
+      internalID: -8489934926919284530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_144
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a723f8f22f53ed00800000000000000
+      internalID: 1000748146016593831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020637cf9b7c7830800000000000000
+      internalID: 4070264089408307722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb11fee528ace960800000000000000
+      internalID: 7632660349362183165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_147
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 95
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d4908b45a8bba0800000000000000
+      internalID: -6072922353810745560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_148
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 89
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ef2e5151b7b880800000000000000
+      internalID: -8595206400782637123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_149
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d3a76778c8b740800000000000000
+      internalID: 5168100987573097656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89f3bb538d60e60800000000000000
+      internalID: 7928261919318710526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_151
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 85
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b330a148c93709260800000000000000
+      internalID: 7102303728431661883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7ec56b0402f85d0800000000000000
+      internalID: -3058190159651739688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 85
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f1d8d4e6b25ab0800000000000000
+      internalID: -5020749540558245134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 85
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07116d5bde7c536b0800000000000000
+      internalID: -5317123961269120656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_155
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 85
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf76200baf2add0800000000000000
+      internalID: -2476141211238794110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 85
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2680917d05650130800000000000000
+      internalID: 3532340591156299310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_157
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 85
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0165e3730271920800000000000000
+      internalID: 2960870701660508386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 79
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28e6369fdd0fb30800000000000000
+      internalID: 4319196105833087708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_159
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 79
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76292cdf798cf9a0800000000000000
+      internalID: -6197927804921108867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5dcc7ae518dfc90800000000000000
+      internalID: -7134403991142869545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89277f6bf67ccb100800000000000000
+      internalID: 125194172284498584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_162
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f815be18dbd45070800000000000000
+      internalID: 8094336151566227702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea52207e85eb2a110800000000000000
+      internalID: 1270787333913978286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_164
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 65
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115786594593bbaa0800000000000000
+      internalID: -6144254231170222831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1784682456a1d70800000000000000
+      internalID: 9014628940530610663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_166
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac92d5217ff5ba550800000000000000
+      internalID: 6173133229011053002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_167
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 73
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f63fb37f67c1020800000000000000
+      internalID: 2313855112796401463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_168
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 73
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bf9a52c9442560800000000000000
+      internalID: 7288031196085203156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fe570d810c3230800000000000000
+      internalID: 3619769905724715638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_170
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 73
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784775bacb2043800800000000000000
+      internalID: 591100460444120199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_171
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 73
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4c381dbd93ed40800000000000000
+      internalID: 5612502996114754361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_172
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f6944dde34d150800000000000000
+      internalID: 5896406932194261049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_173
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 69
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63aee2e14adf4b0800000000000000
+      internalID: -5404983528231651656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af714ab34961f00800000000000000
+      internalID: 1087219343933569572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b469f076bf4b4f0d0800000000000000
+      internalID: -3389885627644275125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755b2d7c2de2df40800000000000000
+      internalID: 5751920449439880561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c48b080e2d22620800000000000000
+      internalID: 2747990584323492946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193f76ea4a34f0400800000000000000
+      internalID: 292526875382117265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784bbe5d07c269110800000000000000
+      internalID: 1267249208288326791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a63aa183fe48f640800000000000000
+      internalID: 5113924184638633633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_181
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7601cae00751f0800000000000000
+      internalID: -1056374579334316850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d889efb1107800800000000000000
+      internalID: 608005465649501359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_183
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0a7f51861d7a30800000000000000
+      internalID: 4214549571197079378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8601a3adb2d58610800000000000000
+      internalID: 1622934952672822927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb3012f2388ecf60800000000000000
+      internalID: 8056526535803288551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1efcbcb9c38231a0800000000000000
+      internalID: -6831252782289453540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e5503e6f27daf20800000000000000
+      internalID: 3435528495449857667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620f1be586051c50800000000000000
+      internalID: 6635216798245388900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 33
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04109efe2dc0bdc0800000000000000
+      internalID: -3625172098310204403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 33
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c3f9f956f93980800000000000000
+      internalID: -8558538750534891935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 35
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43668a749fa6be570800000000000000
+      internalID: 8497002740846192180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7cb2d433ce58590800000000000000
+      internalID: -7672466685073569875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44bafbaa0153a0f0800000000000000
+      internalID: -1106951977126153141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9ee0c2aaa31a0f0800000000000000
+      internalID: -1107539530798405137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e274d86ec8796630800000000000000
+      internalID: 3920797778520077028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a9a564369b3b2b0800000000000000
+      internalID: -5569904478093927863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a47b14cc1144200800000000000000
+      internalID: 163275055465712230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a66df733079a2e0800000000000000
+      internalID: -2114035183583335797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_199
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b83166dfb7e0520800000000000000
+      internalID: 2670207957346782082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9208432f19ecb2400800000000000000
+      internalID: 300560926379376681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46255bb32cf7f90800000000000000
+      internalID: -6953625737935821617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e778a7cedcc18080800000000000000
+      internalID: -9186836507654588448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cfac8d916e7df10800000000000000
+      internalID: 2294555533854309431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26feac51e82e87370800000000000000
+      internalID: 8320649411445845858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77169d4a8556853e0800000000000000
+      internalID: -2064788997752135305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Overworld_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001d5bdbd0420c60800000000000000
+      internalID: 7782854419071963145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FDR_Overworld_0: 2129704638541020288
+      FDR_Overworld_1: 8249502798132959908
+      FDR_Overworld_10: 3789984641831087049
+      FDR_Overworld_100: -7557950446482082811
+      FDR_Overworld_101: 7139874155866790877
+      FDR_Overworld_102: -2940162088090004256
+      FDR_Overworld_103: -4904306492569024382
+      FDR_Overworld_104: 5086769789198306498
+      FDR_Overworld_105: 1097107926341310426
+      FDR_Overworld_106: 7243371521539391794
+      FDR_Overworld_107: -6050419400406966848
+      FDR_Overworld_108: 1245796318923125394
+      FDR_Overworld_109: 2778512430382337786
+      FDR_Overworld_11: -4116322446773177321
+      FDR_Overworld_110: -3197339222046120895
+      FDR_Overworld_111: -7156986542700289351
+      FDR_Overworld_112: -1552418917754944133
+      FDR_Overworld_113: -3279483991297559476
+      FDR_Overworld_114: -1140505047972881501
+      FDR_Overworld_115: -7157866833184746441
+      FDR_Overworld_116: -2215470518662214480
+      FDR_Overworld_117: -7038015469622447086
+      FDR_Overworld_118: -5144703397337268356
+      FDR_Overworld_119: -4376202534984061919
+      FDR_Overworld_12: 1418070000070355915
+      FDR_Overworld_120: -3668387063391178300
+      FDR_Overworld_121: 7999325849843736196
+      FDR_Overworld_122: -6658360805891800586
+      FDR_Overworld_123: 6805813082382535057
+      FDR_Overworld_124: -1723664825838033435
+      FDR_Overworld_125: -5518335616603927188
+      FDR_Overworld_126: 1646397445852190306
+      FDR_Overworld_127: 2688932387643758784
+      FDR_Overworld_128: -2245381820501677203
+      FDR_Overworld_129: -8143168545545134450
+      FDR_Overworld_13: 6979556881588496348
+      FDR_Overworld_130: -8376213272600080739
+      FDR_Overworld_131: -683654383869221497
+      FDR_Overworld_132: 729568981347920415
+      FDR_Overworld_133: -6452436071057767013
+      FDR_Overworld_134: 8966433775177636899
+      FDR_Overworld_135: -1850557827831412505
+      FDR_Overworld_136: -7620277305312829031
+      FDR_Overworld_137: -851349877990618863
+      FDR_Overworld_138: 1456990008584272186
+      FDR_Overworld_139: 3788127975285582533
+      FDR_Overworld_14: 3823459116573454679
+      FDR_Overworld_140: -2348664543821653570
+      FDR_Overworld_141: -6521440868184322502
+      FDR_Overworld_142: 1127831156787338787
+      FDR_Overworld_143: -8489934926919284530
+      FDR_Overworld_144: 1000748146016593831
+      FDR_Overworld_145: 4070264089408307722
+      FDR_Overworld_146: 7632660349362183165
+      FDR_Overworld_147: -6072922353810745560
+      FDR_Overworld_148: -8595206400782637123
+      FDR_Overworld_149: 5168100987573097656
+      FDR_Overworld_15: -4952337366362808975
+      FDR_Overworld_150: 7928261919318710526
+      FDR_Overworld_151: 7102303728431661883
+      FDR_Overworld_152: -3058190159651739688
+      FDR_Overworld_153: -5020749540558245134
+      FDR_Overworld_154: -5317123961269120656
+      FDR_Overworld_155: -2476141211238794110
+      FDR_Overworld_156: 3532340591156299310
+      FDR_Overworld_157: 2960870701660508386
+      FDR_Overworld_158: 4319196105833087708
+      FDR_Overworld_159: -6197927804921108867
+      FDR_Overworld_16: -7057429088466991624
+      FDR_Overworld_160: -7134403991142869545
+      FDR_Overworld_161: 125194172284498584
+      FDR_Overworld_162: 8094336151566227702
+      FDR_Overworld_163: 1270787333913978286
+      FDR_Overworld_164: -6144254231170222831
+      FDR_Overworld_165: 9014628940530610663
+      FDR_Overworld_166: 6173133229011053002
+      FDR_Overworld_167: 2313855112796401463
+      FDR_Overworld_168: 7288031196085203156
+      FDR_Overworld_169: 3619769905724715638
+      FDR_Overworld_17: -3345175626605619352
+      FDR_Overworld_170: 591100460444120199
+      FDR_Overworld_171: 5612502996114754361
+      FDR_Overworld_172: 5896406932194261049
+      FDR_Overworld_173: -5404983528231651656
+      FDR_Overworld_174: 1087219343933569572
+      FDR_Overworld_175: -3389885627644275125
+      FDR_Overworld_176: 5751920449439880561
+      FDR_Overworld_177: 2747990584323492946
+      FDR_Overworld_178: 292526875382117265
+      FDR_Overworld_179: 1267249208288326791
+      FDR_Overworld_18: -1476765148985778859
+      FDR_Overworld_180: 5113924184638633633
+      FDR_Overworld_181: -1056374579334316850
+      FDR_Overworld_182: 608005465649501359
+      FDR_Overworld_183: 4214549571197079378
+      FDR_Overworld_184: 1622934952672822927
+      FDR_Overworld_185: 8056526535803288551
+      FDR_Overworld_186: -6831252782289453540
+      FDR_Overworld_187: 3435528495449857667
+      FDR_Overworld_188: 6635216798245388900
+      FDR_Overworld_189: -3625172098310204403
+      FDR_Overworld_19: -4194951793966343902
+      FDR_Overworld_190: -8558538750534891935
+      FDR_Overworld_191: 8497002740846192180
+      FDR_Overworld_192: -7672466685073569875
+      FDR_Overworld_193: -1106951977126153141
+      FDR_Overworld_194: -1107539530798405137
+      FDR_Overworld_195: 3920797778520077028
+      FDR_Overworld_196: -5569904478093927863
+      FDR_Overworld_197: 163275055465712230
+      FDR_Overworld_198: -2114035183583335797
+      FDR_Overworld_199: 2670207957346782082
+      FDR_Overworld_2: 1585751733574223678
+      FDR_Overworld_20: 6670972875209487793
+      FDR_Overworld_200: 300560926379376681
+      FDR_Overworld_201: -6953625737935821617
+      FDR_Overworld_202: -9186836507654588448
+      FDR_Overworld_203: 2294555533854309431
+      FDR_Overworld_204: 8320649411445845858
+      FDR_Overworld_205: -2064788997752135305
+      FDR_Overworld_206: 7782854419071963145
+      FDR_Overworld_21: -726193034823697772
+      FDR_Overworld_22: -6695371575132442387
+      FDR_Overworld_23: 827383778288519182
+      FDR_Overworld_24: -928865532582025104
+      FDR_Overworld_25: 6827826875215047425
+      FDR_Overworld_26: 3977173465608651128
+      FDR_Overworld_27: -9183941833995131123
+      FDR_Overworld_28: -8513645688393785938
+      FDR_Overworld_29: 2302503653555171983
+      FDR_Overworld_3: 2714112321964685265
+      FDR_Overworld_30: -6447280138646712568
+      FDR_Overworld_31: 3804814062297362771
+      FDR_Overworld_32: -1646765385201619952
+      FDR_Overworld_33: -300044379992309611
+      FDR_Overworld_34: -2260247377921538174
+      FDR_Overworld_35: -6851819107694152824
+      FDR_Overworld_36: 2369770461579889407
+      FDR_Overworld_37: -3690260968154435993
+      FDR_Overworld_38: 1778220695104394982
+      FDR_Overworld_39: -9031140450764496340
+      FDR_Overworld_4: 7802978804037923857
+      FDR_Overworld_40: -582759929956802884
+      FDR_Overworld_41: 7905300370315758781
+      FDR_Overworld_42: 3266753981772458316
+      FDR_Overworld_43: 7186734829355285266
+      FDR_Overworld_44: -1724273930730599521
+      FDR_Overworld_45: -9127263046176961339
+      FDR_Overworld_46: 2792692179285078968
+      FDR_Overworld_47: 9008137281684008911
+      FDR_Overworld_48: -9105605359043335453
+      FDR_Overworld_49: 661706103676998681
+      FDR_Overworld_5: 5838420016853633924
+      FDR_Overworld_50: -6011555846951277252
+      FDR_Overworld_51: -7262108162524384549
+      FDR_Overworld_52: 9179457391096735805
+      FDR_Overworld_53: -4472869745021842908
+      FDR_Overworld_54: -7646701476623883609
+      FDR_Overworld_55: 4531546599785262750
+      FDR_Overworld_56: -4399225981767344316
+      FDR_Overworld_57: 3578530192910326208
+      FDR_Overworld_58: 3817050439925903676
+      FDR_Overworld_59: 1966850376918906435
+      FDR_Overworld_6: 6345353026265083835
+      FDR_Overworld_60: 1640641745457345401
+      FDR_Overworld_61: 4548706560694271551
+      FDR_Overworld_62: -8566466758789977252
+      FDR_Overworld_63: -7742158613439016140
+      FDR_Overworld_64: 5854554548901448217
+      FDR_Overworld_65: -5434447034344176201
+      FDR_Overworld_66: -1273175481024439446
+      FDR_Overworld_67: 4788956806863760151
+      FDR_Overworld_68: -3341997763797261573
+      FDR_Overworld_69: 6646455277968236989
+      FDR_Overworld_7: -1820189203204030992
+      FDR_Overworld_70: 5426981921645262399
+      FDR_Overworld_71: -6480971825000628016
+      FDR_Overworld_72: -4350946909517153606
+      FDR_Overworld_73: 6034744319613772261
+      FDR_Overworld_74: -7355506970926156082
+      FDR_Overworld_75: -5635063364784956218
+      FDR_Overworld_76: -8223065343952836597
+      FDR_Overworld_77: 3234762057225068863
+      FDR_Overworld_78: 3101738593097253751
+      FDR_Overworld_79: -6070276894589391851
+      FDR_Overworld_8: -5536289462277096834
+      FDR_Overworld_80: -5159716776448168811
+      FDR_Overworld_81: -6900066082976042790
+      FDR_Overworld_82: -102745147101827694
+      FDR_Overworld_83: 9089894197292782322
+      FDR_Overworld_84: -3026782364074028629
+      FDR_Overworld_85: -492081434605963241
+      FDR_Overworld_86: 347555481149811411
+      FDR_Overworld_87: 1218170753708934600
+      FDR_Overworld_88: -7490766404692297579
+      FDR_Overworld_89: -1963241340419486353
+      FDR_Overworld_9: 5021760449861368659
+      FDR_Overworld_90: -1849085624479129013
+      FDR_Overworld_91: -7940982448152041581
+      FDR_Overworld_92: -6463185670014301978
+      FDR_Overworld_93: 7308299486326877310
+      FDR_Overworld_94: 7148368854351624881
+      FDR_Overworld_95: -6547273273381567577
+      FDR_Overworld_96: -3220348315207027777
+      FDR_Overworld_97: -2096615219516559313
+      FDR_Overworld_98: 8033834583907406165
+      FDR_Overworld_99: -5046769331946875861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
