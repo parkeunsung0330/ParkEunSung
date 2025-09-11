@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4133364207457100318}
   - component: {fileID: 6316085805056747597}
   - component: {fileID: 75735824337819897}
-  - component: {fileID: 6075560964065831238}
+  - component: {fileID: 6361537296000583596}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -59,8 +59,8 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 1
-  m_Constraints: 80
+  m_Interpolate: 0
+  m_Constraints: 112
   m_CollisionDetection: 1
 --- !u!136 &75735824337819897
 CapsuleCollider:
@@ -85,7 +85,7 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 1, z: 0}
---- !u!114 &6075560964065831238
+--- !u!114 &6361537296000583596
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -154,11 +154,35 @@ PrefabInstance:
       propertyPath: m_Name
       value: The Boss
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 27c6d078cb1645a47a0fbe66df0938c7, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6ca422707eb864940991b96d3ab79a66, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 27c6d078cb1645a47a0fbe66df0938c7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3528955631398846152}
   m_SourcePrefab: {fileID: 100100000, guid: 27c6d078cb1645a47a0fbe66df0938c7, type: 3}
+--- !u!1 &2727703472594751856 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 27c6d078cb1645a47a0fbe66df0938c7, type: 3}
+  m_PrefabInstance: {fileID: 2962196522064751649}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3528955631398846152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2727703472594751856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055fad661fcb975469fddd81575ca808, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &3355585756980333514 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 27c6d078cb1645a47a0fbe66df0938c7, type: 3}
