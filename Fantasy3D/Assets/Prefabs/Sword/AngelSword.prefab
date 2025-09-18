@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 7276962090038311376}
   - component: {fileID: 307625853959511348}
   - component: {fileID: 1672962548312820893}
+  - component: {fileID: 6086445922489145506}
+  - component: {fileID: 3474357459368016635}
   m_Layer: 0
   m_Name: AngelSword
   m_TagString: Untagged
@@ -86,3 +88,36 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &6086445922489145506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8189271151830680307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ba6777ca1ea254486d707700a68af1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &3474357459368016635
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8189271151830680307}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.31218806, y: 0.765066, z: 0.119708695}
+  m_Center: {x: 0.007502228, y: 0.51327187, z: 0}

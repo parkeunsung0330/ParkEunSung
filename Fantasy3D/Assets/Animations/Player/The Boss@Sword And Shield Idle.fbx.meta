@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6e444fdcad7a85f42b086f9056227640
+guid: 4a51ce3213377894c91c1d5ce987f6b3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle
+      name: Sword And Shield Idle
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 217
+      lastFrame: 220
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
