@@ -121,6 +121,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _attackRange: 1
+  _radius: 20
+  _layer:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!1001 &1393858377832253756
 PrefabInstance:
   m_ObjectHideFlags: 0
