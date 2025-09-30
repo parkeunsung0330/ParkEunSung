@@ -62,7 +62,7 @@ namespace Fantasy3D
             }
             else
             {
-             foreach (Collider collider in _colliders)
+                foreach (Collider collider in _colliders)
                 {
                     _target = collider.gameObject;
                 }

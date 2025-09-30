@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine;
+using Unity.VisualScripting;
 
 namespace Fantasy3D
 {
@@ -11,8 +12,13 @@ namespace Fantasy3D
 
         BoxCollider _weaponCollider;
         Animator _anim;
-        
+        //PlayerMove _move;
+        //Rigidbody _rb;
         public bool IsAttack { get; set; }
+
+        bool _canAttack = false;
+         
+
 
 
         // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -23,13 +29,16 @@ namespace Fantasy3D
                 _weaponCollider.enabled = false;
             }
 
-            _anim = GetComponentInChildren<Animator>();
+            _anim = GetComponent<Animator>();
+            //_move = GetComponentInParent<PlayerMove>();
+            //_rb = GetComponentInParent<Rigidbody>();
         }
 
         // Update is called once per frame
         void Update()
         {
             Attack();
+            
         }
 
         public void AttackStart()
@@ -40,6 +49,7 @@ namespace Fantasy3D
         public void AttackEnd()
         {
             _weaponCollider.enabled = false;
+            IsAttack = false;
         }
 
         public void EquipRightWeapon(GameObject obj)
@@ -48,7 +58,7 @@ namespace Fantasy3D
             go.transform.SetLocalPositionAndRotation(Vector3.zero, Quaternion.identity);
             SetWeapon(go);
             Destroy(obj);
-
+            _canAttack = true;
         }
 
         void SetWeapon(GameObject obj)
@@ -62,12 +72,18 @@ namespace Fantasy3D
 
         void Attack()
         {
+
             if (Input.GetButtonDown("Fire1"))
             {
-                IsAttack = true;
-                _anim.SetTrigger("Attack");
+                if (_anim.name!=("Attack")&&_canAttack==true)
+                {
+                    IsAttack = true;
+                    _anim.SetTrigger("Attack");
+                }
             }
             
         }
+
+        
     }
 }

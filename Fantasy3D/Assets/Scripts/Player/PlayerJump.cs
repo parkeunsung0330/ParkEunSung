@@ -33,7 +33,7 @@ namespace Fantasy3D
         void Update()
         {
             _jump = Input.GetAxis("Jump");
-
+            
             _anim.SetBool("IsJump", _isJump);
             _anim.SetBool("IsFalling",_isFalling);
             _anim.SetBool("IsLanding", _isLanding);

@@ -14,6 +14,7 @@ namespace Fantasy3D
         }
         const float MAXSPEED = 7.0f;
 
+        
         [SerializeField] Transform _cam;
         [SerializeField] float _turnSmoothTime = 0.3f;//돌아갈때 스무스하게 돌아가는 시간
         [SerializeField] float _speed;
@@ -24,6 +25,7 @@ namespace Fantasy3D
         float _vertical;
         float _trunSmoothVelocity;
 
+        PlayerAttack _pAttack;
         Rigidbody _rb;
         Animator _anim;
         Vector3 _move;
@@ -33,14 +35,16 @@ namespace Fantasy3D
         {
             _rb = GetComponent<Rigidbody>();
             _anim = GetComponentInChildren<Animator>();
+            _pAttack = GetComponentInChildren<PlayerAttack>();
         }
 
         // Update is called once per frame
         void Update()
         {
+            
             SetDirection();
 
-            if(Input.GetKeyDown(KeyCode.Alpha1 ) )SwitchCamera(CameraStyle.Basic);
+            if (Input.GetKeyDown(KeyCode.Alpha1 ) )SwitchCamera(CameraStyle.Basic);
             if(Input.GetKeyDown(KeyCode.Alpha2 ) )SwitchCamera(CameraStyle.TopDown);
 
             _anim.SetFloat("Speed",_speed/MAXSPEED);
@@ -54,22 +58,31 @@ namespace Fantasy3D
 
         void SetDirection()
         {
+            
+            if(_pAttack.IsAttack)
+            {
+                _speed = 0.0f;
+                return;
+            }
+
             _horizontal = Input.GetAxis("Horizontal");
             _vertical = Input.GetAxis("Vertical");
 
-            _move = new(_horizontal,0,_vertical);
+            _move = new(_horizontal, 0, _vertical);
 
             _lookDirection = _move.normalized;
 
             if (_lookDirection.magnitude >= 0.1f)
             {
                 _speed = _move.magnitude * MAXSPEED;
-                _speed = Mathf.Clamp(_speed,0.0f,MAXSPEED);
+                _speed = Mathf.Clamp(_speed, 0.0f, MAXSPEED);
             }
             else
             {
                 _speed = 0.0f;
             }
+            
+            
         }
 
         void Move()
@@ -78,13 +91,17 @@ namespace Fantasy3D
             //position += _speed * Time.fixedDeltaTime * _lookDirection;
             //_rb.MovePosition(position);
 
-            float targetAngle = Mathf.Atan2(_lookDirection.x,_lookDirection.z ) * Mathf.Rad2Deg + _cam.eulerAngles.y;
+            if (_pAttack.IsAttack) return; 
+
+            float targetAngle = Mathf.Atan2(_lookDirection.x, _lookDirection.z) * Mathf.Rad2Deg + _cam.eulerAngles.y;
             float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref _trunSmoothVelocity, _turnSmoothTime);
             //transform.rotation = Quaternion.Euler(0f,angle,0f);
             _rb.MoveRotation(Quaternion.Euler(0f, angle, 0f));
 
             Vector3 moveDir = Quaternion.Euler(0f, targetAngle, 0f) * Vector3.forward;
             _rb.MovePosition(_rb.position + moveDir.normalized * Time.fixedDeltaTime * _speed);
+            
+            
         }
 
 
@@ -96,5 +113,8 @@ namespace Fantasy3D
             if(newStyle == CameraStyle.Basic) _tpsCam.SetActive(true);
             if(newStyle == CameraStyle.TopDown) _topCam.SetActive(true);
         }
+
+        
+
     }
 }
